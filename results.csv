@@ -1,1217 +1,1932 @@
 ﻿Repo_name,Organization Name,Language Name,Totally stars,Forks,Since Stars,Time Range,Date Time
-genai-toolbox,googleapis,Go,3682,316,962,today,2025-07-09
-rustfs,rustfs,Rust,3616,180,644,today,2025-07-09
-prompt-eng-interactive-tutorial,anthropics,Jupyter Notebook,16092,1477,452,today,2025-07-09
-WebAgent,Alibaba-NLP,Python,2700,186,770,today,2025-07-09
-res-downloader,putyy,Go,8131,986,193,today,2025-07-09
-agents,ed-donner,Jupyter Notebook,1002,780,52,today,2025-07-09
-proxypin,wanghongenpin,Dart,9335,810,92,today,2025-07-09
-ai-agents-for-beginners,microsoft,Jupyter Notebook,29538,8362,160,today,2025-07-09
-awesome-mcp-clients,punkpeye,Unknown,4237,300,82,today,2025-07-09
-strapi,strapi,TypeScript,67391,8697,21,today,2025-07-09
-MoGe,microsoft,Python,1206,72,16,today,2025-07-09
-MNN,alibaba,C++,12339,1984,19,today,2025-07-09
-llm_engineering,ed-donner,Jupyter Notebook,2801,2274,154,today,2025-07-09
-fzf,junegunn,Go,71702,2541,104,today,2025-07-09
-MediaCrawler,NanmiCoder,Python,28804,7219,4447,this week,2025-07-09
-Folo,RSSNext,TypeScript,28210,1247,884,this week,2025-07-09
-scira,zaidmukaddam,TypeScript,9624,1175,990,this week,2025-07-09
-genai-toolbox,googleapis,Go,3682,316,1056,this week,2025-07-09
-sim,simstudioai,TypeScript,4648,696,455,this week,2025-07-09
-sniffnet,GyulyVGC,Rust,27496,894,1805,this week,2025-07-09
-ladybird,LadybirdBrowser,C++,45062,1919,1007,this week,2025-07-09
-build-your-own-x,codecrafters-io,Markdown,397829,37131,4170,this week,2025-07-09
-generative-ai-for-beginners,microsoft,Jupyter Notebook,91575,46781,4028,this week,2025-07-09
-pocketbase,pocketbase,Go,48828,2460,766,this week,2025-07-09
-kilocode,Kilo-Org,TypeScript,4001,321,2271,this week,2025-07-09
-ML-For-Beginners,microsoft,HTML,74165,16324,654,this week,2025-07-09
-openpilot,commaai,Python,55090,9915,700,this week,2025-07-09
-infisical,Infisical,TypeScript,18727,1248,503,this week,2025-07-09
-directus,directus,TypeScript,31529,4290,487,this week,2025-07-09
-awesome-llm-apps,Shubhamsaboo,Python,49222,5686,15636,this month,2025-07-09
-data-engineer-handbook,DataExpert-io,Jupyter Notebook,35051,6739,6111,this month,2025-07-09
-jan,menloresearch,TypeScript,34463,2011,5085,this month,2025-07-09
-awesome,sindresorhus,Unknown,380421,30419,16352,this month,2025-07-09
-twenty,twentyhq,TypeScript,33569,3727,5414,this month,2025-07-09
-MediaCrawler,NanmiCoder,Python,28804,7219,5441,this month,2025-07-09
-happy-llm,datawhalechina,Unknown,9880,712,7263,this month,2025-07-09
-claude-code,anthropics,PowerShell,18315,1033,6357,this month,2025-07-09
-anthropic-cookbook,anthropics,Jupyter Notebook,17876,1851,4850,this month,2025-07-09
-Telegram,DrKLO,Java,27058,8741,881,this month,2025-07-09
-prompt-optimizer,linshenkx,TypeScript,9215,1154,3647,this month,2025-07-09
-kilocode,Kilo-Org,TypeScript,4001,321,3055,this month,2025-07-09
-genai-toolbox,googleapis,Go,3682,316,1466,this month,2025-07-09
-storm,stanford-oval,Python,26444,2378,1942,this month,2025-07-09
-youtube-transcript-api,jdepoix,Python,5691,583,1704,this month,2025-07-09
-Web-Dev-For-Beginners,microsoft,JavaScript,90328,13652,2009,this month,2025-07-09
-WebAgent,Alibaba-NLP,Python,2700,186,770,today,2025-07-09
-MoGe,microsoft,Python,1206,72,16,today,2025-07-09
-30-Days-Of-Python,Asabeneh,Python,47433,9058,48,today,2025-07-09
-MoneyPrinterV2,FujiwaraChoki,Python,12119,1143,350,today,2025-07-09
-checkov,bridgecrewio,Python,7678,1210,6,today,2025-07-09
-verifiers,willccbb,Python,1481,182,15,today,2025-07-09
-WeClone,xming521,Python,14771,1153,32,today,2025-07-09
-openpilot,commaai,Python,55090,9915,232,today,2025-07-09
-mcp,awslabs,Python,4500,548,51,today,2025-07-09
-logicanalyzer,gusmanb,Python,4039,420,169,today,2025-07-09
-litellm,BerriAI,Python,25126,3426,56,today,2025-07-09
-hummingbot,hummingbot,Python,13136,3659,10,today,2025-07-09
-yolov5,ultralytics,Python,54525,17035,18,today,2025-07-09
-Scrapling,D4Vinci,Python,6209,343,235,today,2025-07-09
-ray,ray-project,Python,37904,6575,22,today,2025-07-09
-ai-agents-masterclass,coleam00,Python,2398,1104,67,today,2025-07-09
-Ghost-Downloader-3,XiaoYouChR,Python,3191,154,73,today,2025-07-09
-awesome-llm-apps,Shubhamsaboo,Python,49222,5686,331,today,2025-07-09
-MediaCrawler,NanmiCoder,Python,28804,7219,4447,this week,2025-07-09
-openpilot,commaai,Python,55090,9915,700,this week,2025-07-09
-ai-toolkit,ostris,Python,5108,606,121,this week,2025-07-09
-PayloadsAllTheThings,swisskyrepo,Python,68165,15643,1194,this week,2025-07-09
-Genesis,Genesis-Embodied-AI,Python,25773,2334,398,this week,2025-07-09
-WebAgent,Alibaba-NLP,Python,2700,186,777,this week,2025-07-09
-MoneyPrinterV2,FujiwaraChoki,Python,12119,1143,222,this week,2025-07-09
-Index-anisora,bilibili,Python,1727,82,289,this week,2025-07-09
-ERNIE,PaddlePaddle,Python,7289,1384,344,this week,2025-07-09
-30-Days-Of-Python,Asabeneh,Python,47433,9058,255,this week,2025-07-09
-devops-exercises,bregman-arie,Python,77448,17353,489,this week,2025-07-09
-gemini-balance,snailyp,Python,2928,502,756,this week,2025-07-09
-nunchaku,mit-han-lab,Python,2326,122,134,this week,2025-07-09
-InkyPi,fatihak,Python,1799,184,110,this week,2025-07-09
-awesome-llm-apps,Shubhamsaboo,Python,49222,5686,15636,this month,2025-07-09
-MediaCrawler,NanmiCoder,Python,28804,7219,5441,this month,2025-07-09
-storm,stanford-oval,Python,26444,2378,1942,this month,2025-07-09
-youtube-transcript-api,jdepoix,Python,5691,583,1704,this month,2025-07-09
-MinerU,opendatalab,Python,38592,3168,3908,this month,2025-07-09
-mcp-for-beginners,microsoft,Python,4834,1238,2888,this month,2025-07-09
-gemini-balance,snailyp,Python,2928,502,1136,this month,2025-07-09
-ottomator-agents,coleam00,Python,3434,1230,1389,this month,2025-07-09
-AutoAgent,HKUDS,Python,5484,752,837,this month,2025-07-09
-cai,aliasrobotics,Python,1619,208,566,this month,2025-07-09
-lerobot,huggingface,Python,15651,2116,1462,this month,2025-07-09
-boltz,jwohlwend,Python,3044,485,985,this month,2025-07-09
-vggt,facebookresearch,Python,9582,918,2250,this month,2025-07-09
-LMCache,LMCache,Python,2601,308,1239,this month,2025-07-09
-deepeval,confident-ai,Python,9072,791,1932,this month,2025-07-09
-dspy,stanfordnlp,Python,26218,2018,1175,this month,2025-07-09
-flux,black-forest-labs,Python,23348,1679,1122,this month,2025-07-09
-manim,ManimCommunity,Python,33401,2343,1281,this month,2025-07-09
-manim,3b1b,Python,78767,6780,904,this month,2025-07-09
-register,is-a-dev,JavaScript,6664,12630,3,today,2025-07-09
-Sigma-Web-Dev-Course,CodeWithHarry,JavaScript,9233,2686,21,today,2025-07-09
-Fabric,danielmiessler,JavaScript,32477,3351,109,today,2025-07-09
-easy-dataset,ConardLi,JavaScript,9293,906,90,today,2025-07-09
-react,facebook,JavaScript,237106,48873,39,today,2025-07-09
-nuclei-templates,projectdiscovery,JavaScript,10429,2912,13,today,2025-07-09
-Font-Awesome,FortAwesome,JavaScript,75422,12214,8,today,2025-07-09
-svelte,sveltejs,JavaScript,83353,4557,22,today,2025-07-09
-bruno,usebruno,JavaScript,35450,1734,41,today,2025-07-09
-Chart.js,chartjs,JavaScript,66196,11952,16,today,2025-07-09
-axios,axios,JavaScript,107188,11163,11,today,2025-07-09
-gitlab-mcp,zereight,JavaScript,311,96,8,today,2025-07-09
-one-api,songquanpeng,JavaScript,26064,5283,31,today,2025-07-09
-overleaf,overleaf,JavaScript,16178,1662,125,today,2025-07-09
-Mobile-Security-Framework-MobSF,MobSF,JavaScript,18972,3405,11,today,2025-07-09
-drawdb,drawdb-io,JavaScript,31524,2247,734,this week,2025-07-09
-context7,upstash,JavaScript,18953,960,2200,this week,2025-07-09
-nginx-proxy-manager,NginxProxyManager,JavaScript,27394,3153,536,this week,2025-07-09
-three.js,mrdoob,JavaScript,107513,35879,582,this week,2025-07-09
-swagger-ui,swagger-api,JavaScript,27867,9149,328,this week,2025-07-09
-Fabric,danielmiessler,JavaScript,32477,3351,482,this week,2025-07-09
-javascript-algorithms,trekhleb,JavaScript,192064,30743,446,this week,2025-07-09
-awesome-mac,jaywcjlove,JavaScript,84706,6592,393,this week,2025-07-09
-Sigma-Web-Dev-Course,CodeWithHarry,JavaScript,9233,2686,249,this week,2025-07-09
-anything-llm,Mintplex-Labs,JavaScript,46264,4643,320,this week,2025-07-09
-label-studio,HumanSignal,JavaScript,23165,2876,365,this week,2025-07-09
-EasySpider,NaiboWang,JavaScript,40274,4926,949,this week,2025-07-09
-Web-Dev-For-Beginners,microsoft,JavaScript,90328,13652,2009,this month,2025-07-09
-nginx-proxy-manager,NginxProxyManager,JavaScript,27394,3153,883,this month,2025-07-09
-context7,upstash,JavaScript,18953,960,7233,this month,2025-07-09
-3x-ui,MHSanaei,JavaScript,21239,4606,1236,this month,2025-07-09
-nuclei-templates,projectdiscovery,JavaScript,10429,2912,193,this month,2025-07-09
-Fabric,danielmiessler,JavaScript,32477,3351,1046,this month,2025-07-09
-automatisch,automatisch,JavaScript,12535,917,3687,this month,2025-07-09
-webvm,leaningtech,JavaScript,14456,2605,1378,this month,2025-07-09
-Sigma-Web-Dev-Course,CodeWithHarry,JavaScript,9233,2686,643,this month,2025-07-09
-label-studio,HumanSignal,JavaScript,23165,2876,757,this month,2025-07-09
-javascript,airbnb,JavaScript,147049,26772,359,this month,2025-07-09
-brave-browser,brave,JavaScript,19674,2655,314,this month,2025-07-09
-three.js,mrdoob,JavaScript,107513,35879,1041,this month,2025-07-09
-whatsapp-web.js,pedroslopez,JavaScript,17297,4204,339,this month,2025-07-09
-javascript-algorithms,trekhleb,JavaScript,192064,30743,777,this month,2025-07-09
-marktext,marktext,JavaScript,50340,3686,427,this month,2025-07-09
-gitlab-mcp,zereight,JavaScript,311,96,140,this month,2025-07-09
-meshery,meshery,JavaScript,7488,2450,289,this month,2025-07-09
-spring-boot,spring-projects,Java,77706,41277,16,today,2025-07-09
-openapi-generator,OpenAPITools,Java,24189,7026,8,today,2025-07-09
-seatunnel,apache,Java,8631,2017,5,today,2025-07-09
-hadoop,apache,Java,15162,9067,7,today,2025-07-09
-rocketmq,apache,Java,21879,11897,2,today,2025-07-09
-media,androidx,Java,2286,560,1,today,2025-07-09
-thingsboard,thingsboard,Java,19300,5670,21,today,2025-07-09
-xxl-job,xuxueli,Java,28987,11242,7,today,2025-07-09
-Chat2DB,CodePhiliaX,Java,23557,2559,51,today,2025-07-09
-mybatis-3,mybatis,Java,20135,12941,1,today,2025-07-09
-spring-ai,spring-projects,Java,6037,1672,16,today,2025-07-09
-kafka,apache,Java,30428,14493,9,today,2025-07-09
-bazel,bazelbuild,Java,24284,4245,7,today,2025-07-09
-gravitino,apache,Java,1685,528,2,today,2025-07-09
-Shizuku-API,RikkaApps,Java,1448,426,4,today,2025-07-09
-Stirling-PDF,Stirling-Tools,Java,63169,5361,54,today,2025-07-09
-trino,trinodb,Java,11550,3255,7,today,2025-07-09
-DependencyCheck,dependency-check,Java,7044,1355,1,today,2025-07-09
-questdb,questdb,Java,15702,1436,351,this week,2025-07-09
-fluss,apache,Java,1295,344,45,this week,2025-07-09
-maven,apache,Java,4676,2751,22,this week,2025-07-09
-Grasscutter,Grasscutters,Java,16566,4439,22,this week,2025-07-09
-WxJava,binarywang,Java,31503,8915,93,this week,2025-07-09
-java-genai,googleapis,Java,140,36,13,this week,2025-07-09
-traccar,traccar,Java,6007,2830,39,this week,2025-07-09
-Telegram-X,TGX-Android,Java,4341,713,47,this week,2025-07-09
-ruoyi-vue-pro,YunaiV,Java,32137,6901,235,this week,2025-07-09
-tomcat,apache,Java,7870,5203,10,this week,2025-07-09
-spider-flow,ssssssss-team,Java,10511,2019,166,this week,2025-07-09
-supersonic,tencentmusic,Java,3945,777,38,this week,2025-07-09
-awesome-leetcode-resources,ashishps1,Java,11626,2650,210,this week,2025-07-09
-DSA-Bootcamp-Java,kunal-kushwaha,Java,19591,12177,109,this week,2025-07-09
-jdk,openjdk,Java,21313,6078,55,this week,2025-07-09
-JavaGuide,Snailclimb,Java,150711,45910,178,this week,2025-07-09
-android,nextcloud,Java,4698,1838,21,this week,2025-07-09
-Ehviewer_CN_SXJ,xiaojieonly,Java,18189,484,163,this week,2025-07-09
-openapi-generator,OpenAPITools,Java,24189,7026,73,this week,2025-07-09
-kafka,apache,Java,30428,14493,60,this week,2025-07-09
-keycloak,keycloak,Java,28144,7430,137,this week,2025-07-09
-Telegram,DrKLO,Java,27058,8741,881,this month,2025-07-09
-Java,TheAlgorithms,Java,62325,20056,582,this month,2025-07-09
-termux-app,termux,Java,42998,4725,968,this month,2025-07-09
-DSA-Bootcamp-Java,kunal-kushwaha,Java,19591,12177,407,this month,2025-07-09
-kestra,kestra-io,Java,19646,1628,1333,this month,2025-07-09
-questdb,questdb,Java,15702,1436,418,this month,2025-07-09
-hello-algo,krahets,Java,114199,14143,1172,this month,2025-07-09
-WxJava,binarywang,Java,31503,8915,293,this month,2025-07-09
-revanced-patches,ReVanced,Java,3825,463,236,this month,2025-07-09
-Geyser,GeyserMC,Java,5138,741,109,this month,2025-07-09
-cloudstack,apache,Java,2445,1200,56,this month,2025-07-09
-SmartTube,yuliskov,Java,23535,1256,571,this month,2025-07-09
-gravitino,apache,Java,1685,528,120,this month,2025-07-09
-ruoyi-vue-pro,YunaiV,Java,32137,6901,760,this month,2025-07-09
-android,nextcloud,Java,4698,1838,73,this month,2025-07-09
-syncthing-android,Catfriend1,Java,4231,135,363,this month,2025-07-09
-Telegram-X,TGX-Android,Java,4341,713,117,this month,2025-07-09
-arthas,alibaba,Java,36451,7565,147,this month,2025-07-09
-BookLore,adityachandelgit,Java,2726,126,1751,this month,2025-07-09
-fabric-example-mod,FabricMC,Java,1889,1046,44,this month,2025-07-09
-maven,apache,Java,4676,2751,57,this month,2025-07-09
-OpenSearch,opensearch-project,Java,11085,2287,206,this month,2025-07-09
-oblivion,bepass-org,Java,4228,577,79,this month,2025-07-09
-FreeRTOS-Kernel,FreeRTOS,C,3335,1294,6,today,2025-07-09
-edk2,tianocore,C,5217,2787,6,today,2025-07-09
-zephyr,zephyrproject-rtos,C,12432,7604,4,today,2025-07-09
-civetweb,civetweb,C,3123,993,3,today,2025-07-09
-MeshCore,ripplebiz,C,714,104,8,today,2025-07-09
-OpenCorePkg,acidanthera,C,13999,2160,2,today,2025-07-09
-u-boot,u-boot,C,4529,3988,4,today,2025-07-09
-linux,raspberrypi,C,11834,5198,8,today,2025-07-09
-curl,curl,C,38262,6764,9,today,2025-07-09
-systemd,systemd,C,14355,4036,3,today,2025-07-09
-linux,torvalds,C,197294,56872,100,today,2025-07-09
-Flipper,UberGuidoZ,C,15527,3554,9,today,2025-07-09
-wasm-micro-runtime,bytecodealliance,C,5434,704,6,today,2025-07-09
-openwrt,openwrt,C,22977,11345,10,today,2025-07-09
-mbedtls,Mbed-TLS,C,5991,2726,3,today,2025-07-09
-sonic-buildimage,sonic-net,C,843,1583,0,today,2025-07-09
-sqlcipher,sqlcipher,C,6697,1311,4,today,2025-07-09
-raylib,raysan5,C,27135,2578,12,today,2025-07-09
-librdkafka,confluentinc,C,690,3210,0,today,2025-07-09
-Unity,ThrowTheSwitch,C,4592,1039,1,today,2025-07-09
-openvpn,OpenVPN,C,12094,3127,58,this week,2025-07-09
-lvgl,lvgl,C,20116,3702,85,this week,2025-07-09
-openssl,openssl,C,27917,10653,224,this week,2025-07-09
-php-src,php,C,39228,7908,41,this week,2025-07-09
-immortalwrt,immortalwrt,C,8391,2482,63,this week,2025-07-09
-nmap,nmap,C,11336,2571,38,this week,2025-07-09
-obs-studio,obsproject,C,65461,8535,195,this week,2025-07-09
-SDL,libsdl-org,C,12786,2242,90,this week,2025-07-09
-littlefs,littlefs-project,C,5980,878,37,this week,2025-07-09
-OpenCorePkg,acidanthera,C,13999,2160,32,this week,2025-07-09
-rtl_433,merbanan,C,6690,1415,26,this week,2025-07-09
-unleashed-firmware,DarkFlippers,C,19588,1621,53,this week,2025-07-09
-redis,redis,C,69935,24116,121,this week,2025-07-09
-winlator,brunodev85,C,13356,795,98,this week,2025-07-09
-SketchyBar,FelixKratz,C,9267,131,97,this week,2025-07-09
-libsql,tursodatabase,C,15143,407,148,this week,2025-07-09
-esp-idf,espressif,C,15756,7751,69,this week,2025-07-09
-tmux,tmux,C,38055,2220,141,this week,2025-07-09
-nginx,nginx,C,27391,7415,85,this week,2025-07-09
-MeshCore,ripplebiz,C,714,104,33,this week,2025-07-09
-TOTEM,GEIGEIGEIST,C,1365,183,27,this week,2025-07-09
-zapret,bol-van,C,11879,832,524,this month,2025-07-09
-scrcpy,Genymobile,C,124858,11681,1664,this month,2025-07-09
-esp-idf,espressif,C,15756,7751,363,this month,2025-07-09
-rufus,pbatard,C,31984,2763,457,this month,2025-07-09
-darktable,darktable-org,C,11066,1202,184,this month,2025-07-09
-nginx,nginx,C,27391,7415,316,this month,2025-07-09
-openwrt,openwrt,C,22977,11345,294,this month,2025-07-09
-wazuh,wazuh,C,12862,1902,265,this month,2025-07-09
-betaflight,betaflight,C,9648,3300,165,this month,2025-07-09
-linux,torvalds,C,197294,56872,2253,this month,2025-07-09
-pgvector,pgvector,C,16454,810,495,this month,2025-07-09
-WindTerm,kingToolbox,C,27098,2096,570,this month,2025-07-09
-ExplorerPatcher,valinet,C,27962,1151,447,this month,2025-07-09
-ReZygisk,PerformanC,C,1604,159,309,this month,2025-07-09
-open-gpu-kernel-modules,NVIDIA,C,15961,1430,116,this month,2025-07-09
-timescaledb,timescale,C,19496,953,259,this month,2025-07-09
-clay,nicbarker,C,14762,560,523,this month,2025-07-09
-openvpn,OpenVPN,C,12094,3127,183,this month,2025-07-09
-TDengine,taosdata,C,24082,4934,147,this month,2025-07-09
-Telegram-iOS,TelegramMessenger,C,6874,1905,83,this month,2025-07-09
-libimobiledevice,libimobiledevice,C,7151,1409,109,this month,2025-07-09
-OpenCorePkg,acidanthera,C,13999,2160,108,this month,2025-07-09
-MNN,alibaba,C++,12339,1984,19,today,2025-07-09
-duckdb,duckdb,C++,30846,2427,35,today,2025-07-09
-awesome-low-level-design,ashishps1,C++,15981,3932,50,today,2025-07-09
-camoufox,daijro,C++,2605,213,21,today,2025-07-09
-PX4-Autopilot,PX4,C++,9720,14176,14,today,2025-07-09
-folly,facebook,C++,29547,5722,3,today,2025-07-09
-KasmVNC,kasmtech,C++,4189,361,5,today,2025-07-09
-deskflow,deskflow,C++,18805,4084,75,today,2025-07-09
-envoy,envoyproxy,C++,26248,4995,9,today,2025-07-09
-cutlass,NVIDIA,C++,7817,1305,6,today,2025-07-09
-yaml-cpp,jbeder,C++,5543,1976,3,today,2025-07-09
-openvino,openvinotoolkit,C++,8549,2645,7,today,2025-07-09
-ORB_SLAM3,UZ-SLAMLab,C++,7448,2772,5,today,2025-07-09
-magic_enum,Neargye,C++,5524,493,3,today,2025-07-09
-Crow,CrowCpp,C++,4006,458,3,today,2025-07-09
-Mooncake,kvcache-ai,C++,3528,298,9,today,2025-07-09
-Catch2,catchorg,C++,19557,3120,4,today,2025-07-09
-tensorflow,tensorflow,C++,190659,74747,26,today,2025-07-09
-whisper.cpp,ggml-org,C++,41389,4431,31,today,2025-07-09
-composable_kernel,ROCm,C++,434,208,0,today,2025-07-09
-PlotJuggler,facontidavide,C++,5145,687,5,today,2025-07-09
-re2,google,C++,9337,1164,1,today,2025-07-09
-librealsense,IntelRealSense,C++,8029,4873,3,today,2025-07-09
-ladybird,LadybirdBrowser,C++,45062,1919,1007,this week,2025-07-09
-perfetto,google,C++,4323,511,149,this week,2025-07-09
-carbon-lang,carbon-language,C++,33034,1500,86,this week,2025-07-09
-awesome-low-level-design,ashishps1,C++,15981,3932,297,this week,2025-07-09
-desktop,zen-browser,C++,34138,959,506,this week,2025-07-09
-ncnn,Tencent,C++,21760,4280,53,this week,2025-07-09
-thorium,Alex313031,C++,6177,200,278,this week,2025-07-09
-OpenHashTab,namazso,C++,4046,178,32,this week,2025-07-09
-deskflow,deskflow,C++,18805,4084,208,this week,2025-07-09
-llama.cpp,ggml-org,C++,82783,12305,339,this week,2025-07-09
-ESP32Marauder,justcallmekoko,C++,7967,868,79,this week,2025-07-09
-Parabolic,NickvisionApps,C++,3008,138,132,this week,2025-07-09
-nekoray,Mahdi-zarei,C++,1534,91,88,this week,2025-07-09
-sherpa-onnx,k2-fsa,C++,6623,761,80,this week,2025-07-09
-Millennium,SteamClientHomebrew,C++,1996,57,36,this week,2025-07-09
-3FS,deepseek-ai,C++,9129,915,57,this week,2025-07-09
-opencv,opencv,C++,82982,56211,141,this week,2025-07-09
-colmap,colmap,C++,8938,1683,53,this week,2025-07-09
-JoltPhysics,jrouwe,C++,8109,547,45,this week,2025-07-09
-x64dbg,x64dbg,C++,46457,2563,84,this week,2025-07-09
-godot,godotengine,C++,98743,22748,254,this week,2025-07-09
-llamafile,Mozilla-Ocho,C++,22749,1197,60,this week,2025-07-09
-shadPS4,shadps4-emu,C++,23009,1461,117,this week,2025-07-09
-Hyprland,hyprwm,C++,26810,1140,271,this week,2025-07-09
-deskflow,deskflow,C++,18805,4084,841,this month,2025-07-09
-firmware,meshtastic,C++,5054,1320,221,this month,2025-07-09
-NotepadNext,dail8859,C++,11751,698,1379,this month,2025-07-09
-pcsx2,PCSX2,C++,13207,1723,177,this month,2025-07-09
-awesome-low-level-design,ashishps1,C++,15981,3932,1167,this month,2025-07-09
-MNN,alibaba,C++,12339,1984,904,this month,2025-07-09
-RTranslator,niedev,C++,8787,777,781,this month,2025-07-09
-nekoray,Mahdi-zarei,C++,1534,91,294,this month,2025-07-09
-amnezia-client,amnezia-vpn,C++,7428,482,253,this month,2025-07-09
-Hyprland,hyprwm,C++,26810,1140,965,this month,2025-07-09
-dragonfly,dragonflydb,C++,28473,1055,325,this month,2025-07-09
-notepad-plus-plus,notepad-plus-plus,C++,25085,4875,323,this month,2025-07-09
-TensorRT-LLM,NVIDIA,C++,10961,1566,299,this month,2025-07-09
-whisper.cpp,ggml-org,C++,41389,4431,818,this month,2025-07-09
-C-Plus-Plus,TheAlgorithms,C++,32329,7423,477,this month,2025-07-09
-YimMenuV2,YimMenu,C++,505,128,215,this month,2025-07-09
-mlx,ml-explore,C++,21364,1262,538,this month,2025-07-09
-tt-metal,tenstorrent,C++,985,219,84,this month,2025-07-09
-Paddle,PaddlePaddle,C++,23016,5767,184,this month,2025-07-09
-duckstation,stenzek,C++,8459,751,112,this month,2025-07-09
-isle-portable,isledecomp,C++,799,74,636,this month,2025-07-09
-unitree_sdk2,unitreerobotics,C++,521,153,57,this month,2025-07-09
-fprime,nasa,C++,10363,1394,49,this month,2025-07-09
-typesense,typesense,C++,23780,786,658,this month,2025-07-09
-NSMB-MarioVsLuigi,ipodtouch0218,C#,819,324,20,today,2025-07-09
-PowerToys,microsoft,C#,120728,7166,65,today,2025-07-09
-semantic-kernel,microsoft,C#,25341,4041,15,today,2025-07-09
-spectre.console,spectreconsole,C#,10388,569,7,today,2025-07-09
-CleanArchitecture,jasontaylordev,C#,18480,3906,7,today,2025-07-09
-DotNetGuide,YSGStudyHards,C#,8757,1283,19,today,2025-07-09
-git-credential-manager,git-ecosystem,C#,7823,2193,7,today,2025-07-09
-azure-sdk-for-net,Azure,C#,5810,4996,1,today,2025-07-09
-runtime,dotnet,C#,16609,5079,6,today,2025-07-09
-MudBlazor,MudBlazor,C#,9268,1465,7,today,2025-07-09
-radzen-blazor,radzenhq,C#,4007,894,2,today,2025-07-09
-abp,abpframework,C#,13612,3577,2,today,2025-07-09
-ToastFish,Uahh,C#,5907,471,9,today,2025-07-09
-NBTExplorer,jaquadro,C#,2592,312,2,today,2025-07-09
-server,bitwarden,C#,16803,1416,4,today,2025-07-09
-wpfui,lepoco,C#,8535,855,10,today,2025-07-09
-RevokeMsgPatcher,huiyadanli,C#,33396,3701,17,today,2025-07-09
-ml-agents,Unity-Technologies,C#,18373,4302,9,today,2025-07-09
-openai-dotnet,openai,C#,2127,285,5,today,2025-07-09
-eShop,dotnet,C#,8389,2814,3,today,2025-07-09
-ShareX,ShareX,C#,32972,3415,11,today,2025-07-09
-openiddict-core,openiddict,C#,4853,560,7,today,2025-07-09
-azure-powershell,Azure,C#,4485,4017,2,today,2025-07-09
-sourcegit,sourcegit-scm,C#,2580,240,5,today,2025-07-09
-PowerToys,microsoft,C#,120728,7166,339,this week,2025-07-09
-Bulk-Crap-Uninstaller,Klocman,C#,15216,696,140,this week,2025-07-09
-Avalonia,AvaloniaUI,C#,28105,2430,80,this week,2025-07-09
-elsa-core,elsa-workflows,C#,7169,1356,22,this week,2025-07-09
-N_m3u8DL-RE,nilaoda,C#,6091,642,54,this week,2025-07-09
-sourcegit,sourcegit-scm,C#,2580,240,39,this week,2025-07-09
-DnsServer,TechnitiumSoftware,C#,5750,499,83,this week,2025-07-09
-AssetRipper,AssetRipper,C#,5470,676,45,this week,2025-07-09
-ET,egametang,C#,9359,3166,22,this week,2025-07-09
-Kavita,Kareadita,C#,8302,455,68,this week,2025-07-09
-ILSpy,icsharpcode,C#,23266,3500,68,this week,2025-07-09
-git-credential-manager,git-ecosystem,C#,7823,2193,41,this week,2025-07-09
-csharplang,dotnet,C#,12139,1053,25,this week,2025-07-09
-eShop,dotnet,C#,8389,2814,52,this week,2025-07-09
-duplicati,duplicati,C#,12853,976,59,this week,2025-07-09
-Lidarr,Lidarr,C#,4259,289,27,this week,2025-07-09
-mcp-unity,CoderGamester,C#,733,89,36,this week,2025-07-09
-ExplorerTabUtility,w4po,C#,1208,24,96,this week,2025-07-09
-UniTask,Cysharp,C#,9575,919,44,this week,2025-07-09
-maui-samples,dotnet,C#,3438,1411,10,this week,2025-07-09
-CleanArchitecture,ardalis,C#,17207,2944,32,this week,2025-07-09
-maui,dotnet,C#,22781,1855,16,this week,2025-07-09
-YoutubeDownloader,Tyrrrz,C#,12192,1572,479,this month,2025-07-09
-PowerShell,PowerShell,C#,47930,7704,405,this month,2025-07-09
-mcp-unity,CoderGamester,C#,733,89,148,this month,2025-07-09
-v2rayN,2dust,C#,82737,12896,1862,this month,2025-07-09
-Lean,QuantConnect,C#,11751,3577,262,this month,2025-07-09
-PowerToys,microsoft,C#,120728,7166,1120,this month,2025-07-09
-RevokeMsgPatcher,huiyadanli,C#,33396,3701,460,this month,2025-07-09
-better-genshin-impact,babalae,C#,9376,615,690,this month,2025-07-09
-Flyby11,builtbybel,C#,2237,146,325,this month,2025-07-09
-ILSpy,icsharpcode,C#,23266,3500,229,this month,2025-07-09
-osu,ppy,C#,16861,2468,206,this month,2025-07-09
-PEASS-ng,peass-ng,C#,17867,3253,230,this month,2025-07-09
-DevToys,DevToys-app,C#,29323,1591,360,this month,2025-07-09
-UndertaleModTool,UnderminersTeam,C#,1495,277,80,this month,2025-07-09
-DnsServer,TechnitiumSoftware,C#,5750,499,292,this month,2025-07-09
-UIEffect,mob-sakai,C#,6506,851,101,this month,2025-07-09
-lively,rocksdanister,C#,16640,1141,212,this month,2025-07-09
-Avalonia,AvaloniaUI,C#,28105,2430,310,this month,2025-07-09
-server,bitwarden,C#,16803,1416,185,this month,2025-07-09
-SwarmUI,mcmonkeyprojects,C#,2813,258,186,this month,2025-07-09
-g-helper,seerge,C#,10294,368,352,this month,2025-07-09
-FModel,4sval,C#,2121,325,101,this month,2025-07-09
-maui,dotnet,C#,22781,1855,87,this month,2025-07-09
-Playnite,JosefNemec,C#,10978,548,242,this month,2025-07-09
-genai-toolbox,googleapis,Go,3682,316,962,today,2025-07-09
-res-downloader,putyy,Go,8131,986,193,today,2025-07-09
-fzf,junegunn,Go,71703,2541,104,today,2025-07-09
-opentelemetry-collector,open-telemetry,Go,5373,1677,9,today,2025-07-09
-go-whatsapp-web-multidevice,aldinokemal,Go,1853,478,94,today,2025-07-09
-alloy,grafana,Go,2227,366,5,today,2025-07-09
-github-mcp-server,github,Go,17072,1295,86,today,2025-07-09
-mediamtx,bluenviron,Go,15032,1832,11,today,2025-07-09
-gofr,gofr-dev,Go,11925,1745,104,today,2025-07-09
-argo-cd,argoproj,Go,20021,6159,11,today,2025-07-09
-loki,grafana,Go,25939,3712,12,today,2025-07-09
-telegraf,influxdata,Go,15739,5658,3,today,2025-07-09
-sonic,bytedance,Go,8358,397,16,today,2025-07-09
-memos,usememos,Go,42593,3033,66,today,2025-07-09
-nuclei,projectdiscovery,Go,23933,2803,34,today,2025-07-09
-aibrix,vllm-project,Go,3890,391,11,today,2025-07-09
-grpc-gateway,grpc-ecosystem,Go,19358,2322,2,today,2025-07-09
-trivy,aquasecurity,Go,27409,2617,14,today,2025-07-09
-optimism,ethereum-optimism,Go,6123,3632,0,today,2025-07-09
-volcano,volcano-sh,Go,4811,1152,4,today,2025-07-09
-go2rtc,AlexxIT,Go,9284,687,13,today,2025-07-09
-fiber,gofiber,Go,37079,1819,8,today,2025-07-09
-genai-toolbox,googleapis,Go,3682,316,1056,this week,2025-07-09
-pocketbase,pocketbase,Go,48828,2460,766,this week,2025-07-09
-res-downloader,putyy,Go,8131,986,454,this week,2025-07-09
-go-whatsapp-web-multidevice,aldinokemal,Go,1853,478,456,this week,2025-07-09
-wails,wailsapp,Go,29000,1412,147,this week,2025-07-09
-frp,fatedier,Go,96020,14201,343,this week,2025-07-09
-openbao,openbao,Go,4089,226,77,this week,2025-07-09
-memos,usememos,Go,42593,3033,356,this week,2025-07-09
-lago,getlago,Go,7885,402,66,this week,2025-07-09
-ntfy,binwiederhier,Go,24900,979,957,this week,2025-07-09
-tidb,pingcap,Go,38699,5969,46,this week,2025-07-09
-rule,qichiyuhub,Go,540,534,48,this week,2025-07-09
-observability-zero-to-hero,iam-veeramalla,Go,2229,3436,36,this week,2025-07-09
-CloudflareSpeedTest,XIU2,Go,22184,4380,145,this week,2025-07-09
-vitess,vitessio,Go,19818,2216,71,this week,2025-07-09
-nightingale,ccfos,Go,11128,1536,62,this week,2025-07-09
-genai-toolbox,googleapis,Go,3682,316,1466,this month,2025-07-09
-frankenphp,php,Go,9618,351,1626,this month,2025-07-09
-cloudreve,cloudreve,Go,23986,3618,688,this month,2025-07-09
-buildkit,moby,Go,9191,1263,398,this month,2025-07-09
-sing-box,SagerNet,Go,24937,2947,836,this month,2025-07-09
-awesome-go,avelino,Go,146999,12390,2048,this month,2025-07-09
-Xray-core,XTLS,Go,29826,4401,1028,this month,2025-07-09
-filebrowser,filebrowser,Go,30217,3385,916,this month,2025-07-09
-netbird,netbirdio,Go,17046,788,1948,this month,2025-07-09
-cli,cli,Go,39773,6746,479,this month,2025-07-09
-gitleaks,gitleaks,Go,21416,1674,1281,this month,2025-07-09
-res-downloader,putyy,Go,8131,986,1013,this month,2025-07-09
-kubernetes,kubernetes,Go,116228,40915,763,this month,2025-07-09
-livekit,livekit,Go,13304,1239,454,this month,2025-07-09
-gitea,go-gitea,Go,49476,5907,554,this month,2025-07-09
-v2ray-core,v2fly,Go,31430,4843,285,this month,2025-07-09
-bubbletea,charmbracelet,Go,33024,934,1037,this month,2025-07-09
-github-mcp-server,github,Go,17072,1295,1924,this month,2025-07-09
-ntfy,binwiederhier,Go,24900,979,1485,this month,2025-07-09
-wireguard-go,WireGuard,Go,3584,1232,92,this month,2025-07-09
-strapi,strapi,TypeScript,67391,8697,21,today,2025-07-09
-n8n,n8n-io,TypeScript,116475,34673,380,today,2025-07-09
-12-factor-agents,humanlayer,TypeScript,7916,494,789,today,2025-07-09
-playwright-mcp,microsoft,TypeScript,14287,1010,93,today,2025-07-09
-jan,menloresearch,TypeScript,34463,2011,148,today,2025-07-09
-youtube-music,th-ch,TypeScript,25524,1381,329,today,2025-07-09
-angular,angular,TypeScript,98268,26382,11,today,2025-07-09
-superset,apache,TypeScript,67016,15289,57,today,2025-07-09
-eliza,elizaOS,TypeScript,16319,5265,31,today,2025-07-09
-Folo,RSSNext,TypeScript,28210,1247,279,today,2025-07-09
-whispering,braden-w,TypeScript,870,76,60,today,2025-07-09
-checkout,actions,TypeScript,6692,2051,5,today,2025-07-09
-BiliTools,btjawa,TypeScript,2414,157,218,today,2025-07-09
-grafana,grafana,TypeScript,68884,12760,24,today,2025-07-09
-webstudio,webstudio-is,TypeScript,7254,1132,41,today,2025-07-09
-vitepress,vuejs,TypeScript,15209,2412,12,today,2025-07-09
-bknd,bknd-io,TypeScript,1887,53,93,today,2025-07-09
-Cap,CapSoftware,TypeScript,10250,627,26,today,2025-07-09
-tech-interview-handbook,yangshun,TypeScript,127484,15536,27,today,2025-07-09
-Folo,RSSNext,TypeScript,28210,1247,884,this week,2025-07-09
-scira,zaidmukaddam,TypeScript,9624,1175,990,this week,2025-07-09
-sim,simstudioai,TypeScript,4648,696,455,this week,2025-07-09
-kilocode,Kilo-Org,TypeScript,4001,321,2271,this week,2025-07-09
-infisical,Infisical,TypeScript,18728,1248,503,this week,2025-07-09
-directus,directus,TypeScript,31529,4290,487,this week,2025-07-09
-12-factor-agents,humanlayer,TypeScript,7916,494,2243,this week,2025-07-09
-youtube-music,th-ch,TypeScript,25524,1381,2394,this week,2025-07-09
-BiliTools,btjawa,TypeScript,2414,157,828,this week,2025-07-09
-motia,MotiaDev,TypeScript,3794,309,1024,this week,2025-07-09
-profile-readme-generator,maurodesouza,TypeScript,2210,479,107,this week,2025-07-09
-omni-tools,iib0011,TypeScript,4906,238,996,this week,2025-07-09
-LibreChat,danny-avila,TypeScript,27783,4950,458,this week,2025-07-09
-AFFiNE,toeverything,TypeScript,52957,3535,828,this week,2025-07-09
-UI-TARS-desktop,bytedance,TypeScript,15084,1342,176,this week,2025-07-09
-metamask-extension,MetaMask,TypeScript,12652,5233,27,this week,2025-07-09
-jan,menloresearch,TypeScript,34463,2011,5085,this month,2025-07-09
-twenty,twentyhq,TypeScript,33569,3727,5414,this month,2025-07-09
-prompt-optimizer,linshenkx,TypeScript,9215,1154,3647,this month,2025-07-09
-kilocode,Kilo-Org,TypeScript,4001,321,3055,this month,2025-07-09
-12-factor-agents,humanlayer,TypeScript,7916,494,2908,this month,2025-07-09
-midday,midday-ai,TypeScript,9044,851,1059,this month,2025-07-09
-base-ui,mui,TypeScript,4698,184,1808,this month,2025-07-09
-clash-verge-rev,clash-verge-rev,TypeScript,64725,4905,3980,this month,2025-07-09
-Folo,RSSNext,TypeScript,28210,1247,1548,this month,2025-07-09
-Flowise,FlowiseAI,TypeScript,41249,21153,1577,this month,2025-07-09
-note-gen,codexu,TypeScript,6061,393,2225,this month,2025-07-09
-effect,Effect-TS,TypeScript,10414,355,1108,this month,2025-07-09
-jsoncrack.com,AykutSarac,TypeScript,39337,2633,1656,this month,2025-07-09
-scira,zaidmukaddam,TypeScript,9624,1175,1309,this month,2025-07-09
-n8n-mcp-server,leonardsellem,TypeScript,793,134,407,this month,2025-07-09
-firecrawl,mendableai,TypeScript,42670,4018,3101,this month,2025-07-09
-tweakcn,jnsahaj,TypeScript,5383,279,1779,this month,2025-07-09
-rustfs,rustfs,Rust,3616,180,644,today,2025-07-09
-dioxus,DioxusLabs,Rust,29414,1218,40,today,2025-07-09
-refact,smallcloudai,Rust,2827,236,23,today,2025-07-09
-sniffnet,GyulyVGC,Rust,27496,894,310,today,2025-07-09
-rustdesk,rustdesk,Rust,92356,13427,81,today,2025-07-09
-goose,block,Rust,15670,1319,61,today,2025-07-09
-influxdb,influxdata,Rust,30297,3627,5,today,2025-07-09
-biome,biomejs,Rust,20003,635,51,today,2025-07-09
-rig,0xPlaygrounds,Rust,3920,419,9,today,2025-07-09
-pingora,cloudflare,Rust,24556,1427,13,today,2025-07-09
-reth,paradigmxyz,Rust,4781,1699,2,today,2025-07-09
-boundless,boundless-xyz,Rust,85,69,6,today,2025-07-09
-risingwave,risingwavelabs,Rust,7964,657,8,today,2025-07-09
-stalwart,stalwartlabs,Rust,9029,445,24,today,2025-07-09
-mistral.rs,EricLBuehler,Rust,5837,428,20,today,2025-07-09
-greptimedb,GreptimeTeam,Rust,5364,390,9,today,2025-07-09
-solana-program-library,solana-labs,Rust,3999,2308,3,today,2025-07-09
-tokio,tokio-rs,Rust,29010,2683,13,today,2025-07-09
-sniffnet,GyulyVGC,Rust,27496,894,1805,this week,2025-07-09
-turso,tursodatabase,Rust,11890,449,547,this week,2025-07-09
-ZLUDA,vosen,Rust,12487,780,867,this week,2025-07-09
-influxdb,influxdata,Rust,30297,3627,45,this week,2025-07-09
-refact,smallcloudai,Rust,2827,236,525,this week,2025-07-09
-hyperswitch,juspay,Rust,21976,3907,899,this week,2025-07-09
-EasyTier,EasyTier,Rust,5535,476,197,this week,2025-07-09
-convex-backend,get-convex,Rust,5635,292,235,this week,2025-07-09
-baml,BoundaryML,Rust,4495,197,250,this week,2025-07-09
-vaultwarden,dani-garcia,Rust,46532,2195,326,this week,2025-07-09
-tauri,tauri-apps,Rust,94370,2947,276,this week,2025-07-09
-just,casey,Rust,26389,562,167,this week,2025-07-09
-jj,jj-vcs,Rust,17189,576,392,this week,2025-07-09
-archgw,katanemo,Rust,3077,170,136,this week,2025-07-09
-lance,lancedb,Rust,5010,383,82,this week,2025-07-09
-zellij,zellij-org,Rust,25078,765,259,this week,2025-07-09
-tfhe-rs,zama-ai,Rust,1300,214,42,this week,2025-07-09
-rust,rust-lang,Rust,104905,13519,205,this week,2025-07-09
-Graphite,GraphiteEditor,Rust,18753,789,1665,this week,2025-07-09
-warpgate,warp-tech,Rust,4858,151,56,this week,2025-07-09
-amazon-q-developer-cli,aws,Rust,1005,177,79,this week,2025-07-09
-embassy,embassy-rs,Rust,7061,1100,55,this week,2025-07-09
-uv,astral-sh,Rust,60858,1738,860,this week,2025-07-09
-tensorzero,tensorzero,Rust,8511,536,3625,this month,2025-07-09
-biome,biomejs,Rust,20003,635,802,this month,2025-07-09
-turso,tursodatabase,Rust,11890,449,874,this month,2025-07-09
-niri,YaLTeR,Rust,9506,334,1707,this month,2025-07-09
-rustdesk,rustdesk,Rust,92356,13427,2302,this month,2025-07-09
-vaultwarden,dani-garcia,Rust,46532,2195,1316,this month,2025-07-09
-Graphite,GraphiteEditor,Rust,18753,789,6936,this month,2025-07-09
-slint,slint-ui,Rust,19795,700,499,this month,2025-07-09
-sniffnet,GyulyVGC,Rust,27496,894,2918,this month,2025-07-09
-harper,Automattic,Rust,6690,161,2272,this month,2025-07-09
-dioxus,DioxusLabs,Rust,29414,1218,1534,this month,2025-07-09
-Seelen-UI,eythaann,Rust,9756,308,2633,this month,2025-07-09
-lance,lancedb,Rust,5010,383,273,this month,2025-07-09
-goose,block,Rust,15670,1319,1527,this month,2025-07-09
-oxc,oxc-project,Rust,15584,607,948,this month,2025-07-09
-amazon-q-developer-cli,aws,Rust,1005,177,250,this month,2025-07-09
-awesome-rust,rust-unofficial,Rust,51391,2963,718,this month,2025-07-09
-typst,typst,Rust,43854,1169,2170,this month,2025-07-09
-just,casey,Rust,26389,562,599,this month,2025-07-09
-rust,rust-lang,Rust,104905,13519,906,this month,2025-07-09
-rerun,rerun-io,Rust,8813,487,281,this month,2025-07-09
-surrealdb,surrealdb,Rust,29601,1009,282,this month,2025-07-09
-egui,emilk,Rust,25669,1775,631,this month,2025-07-09
-firecracker,firecracker-microvm,Rust,28452,1974,361,this month,2025-07-09
-canine,czhu12,Ruby,2041,75,49,today,2025-07-09
-homebrew-core,Homebrew,Ruby,14454,12905,7,today,2025-07-09
-huginn,huginn,Ruby,46677,4023,36,today,2025-07-09
-faker,faker-ruby,Ruby,11377,3181,1,today,2025-07-09
-maybe,maybe-finance,Ruby,44913,3315,23,today,2025-07-09
-fastlane,fastlane,Ruby,40334,5900,6,today,2025-07-09
-otwarchive,otwcode,Ruby,1579,576,3,today,2025-07-09
-brew,Homebrew,Ruby,44162,10330,10,today,2025-07-09
-gollum,gollum,Ruby,14061,1559,12,today,2025-07-09
-devise,heartcombo,Ruby,24204,5536,1,today,2025-07-09
-docuseal,docusealco,Ruby,9343,696,3,today,2025-07-09
-openstreetmap-website,openstreetmap,Ruby,2434,977,9,today,2025-07-09
-mastodon,mastodon,Ruby,48555,7211,8,today,2025-07-09
-chatwoot,chatwoot,Ruby,24388,4835,21,today,2025-07-09
-dd-trace-rb,DataDog,Ruby,363,394,0,today,2025-07-09
-canvas-lms,instructure,Ruby,6082,2708,2,today,2025-07-09
-postal,postalserver,Ruby,15666,1136,3,today,2025-07-09
-ruby,ruby,Ruby,22735,5434,4,today,2025-07-09
-flexile,antiwork,Ruby,537,157,5,today,2025-07-09
-discourse,discourse,Ruby,44486,8568,15,today,2025-07-09
-dependabot-core,dependabot,Ruby,5121,1141,1,today,2025-07-09
-rails,rails,Ruby,57054,21862,10,today,2025-07-09
-ruby-advisory-db,rubysec,Ruby,1033,222,0,today,2025-07-09
-openproject,opf,Ruby,11439,2657,84,this week,2025-07-09
-devdocs,freeCodeCamp,Ruby,36528,2436,61,this week,2025-07-09
-chatwoot,chatwoot,Ruby,24388,4835,134,this week,2025-07-09
-rails,rails,Ruby,57054,21862,41,this week,2025-07-09
-huginn,huginn,Ruby,46677,4023,93,this week,2025-07-09
-openstreetmap-website,openstreetmap,Ruby,2434,977,11,this week,2025-07-09
-discourse,discourse,Ruby,44486,8568,67,this week,2025-07-09
-canine,czhu12,Ruby,2041,75,188,this week,2025-07-09
-otwarchive,otwcode,Ruby,1579,576,15,this week,2025-07-09
-mastodon,mastodon,Ruby,48555,7211,59,this week,2025-07-09
-brew,Homebrew,Ruby,44162,10330,96,this week,2025-07-09
-redmine,redmine,Ruby,5673,2374,14,this week,2025-07-09
-zammad,zammad,Ruby,4939,838,14,this week,2025-07-09
-ruby,ruby,Ruby,22735,5434,17,this week,2025-07-09
-liquid,Shopify,Ruby,11408,1466,10,this week,2025-07-09
-jekyll,jekyll,Ruby,50300,10138,34,this week,2025-07-09
-lobsters,lobsters,Ruby,4356,883,9,this week,2025-07-09
-styles,citation-style-language,Ruby,3530,3913,4,this week,2025-07-09
-endoflife.date,endoflife-date,Ruby,2870,959,13,this week,2025-07-09
-Dress,Cute-Dress,Ruby,1535,261,10,this week,2025-07-09
-gitlabhq,gitlabhq,Ruby,24023,5753,12,this week,2025-07-09
-demo,dependabot,Ruby,231,3211,5,this week,2025-07-09
-newrelic-ruby-agent,newrelic,Ruby,1201,609,1,this week,2025-07-09
-gem_rbs_collection,ruby,Ruby,282,126,0,this week,2025-07-09
-gumroad,antiwork,Ruby,6392,1024,399,this month,2025-07-09
-devdocs,freeCodeCamp,Ruby,36528,2436,209,this month,2025-07-09
-chatwoot,chatwoot,Ruby,24388,4835,459,this month,2025-07-09
-engineering-blogs,kilimchoi,Ruby,34727,1826,1568,this month,2025-07-09
-ruby-sdk,modelcontextprotocol,Ruby,292,43,121,this month,2025-07-09
-brew,Homebrew,Ruby,44162,10330,369,this month,2025-07-09
-linguist,github-linguist,Ruby,12860,4579,98,this month,2025-07-09
-mastodon,mastodon,Ruby,48555,7211,223,this month,2025-07-09
-explore,github,Ruby,4447,13300,31,this month,2025-07-09
-flexile,antiwork,Ruby,537,157,19,this month,2025-07-09
-liquid,Shopify,Ruby,11408,1466,50,this month,2025-07-09
-rails,rails,Ruby,57054,21862,146,this month,2025-07-09
-homebrew-cask,Homebrew,Ruby,21444,10999,69,this month,2025-07-09
-homebrew-core,Homebrew,Ruby,14454,12905,112,this month,2025-07-09
-aws-sdk-ruby,aws,Ruby,3618,1223,7,this month,2025-07-09
-otwarchive,otwcode,Ruby,1579,576,36,this month,2025-07-09
-openproject,opf,Ruby,11439,2657,226,this month,2025-07-09
-jekyll,jekyll,Ruby,50300,10138,189,this month,2025-07-09
-solid_queue,rails,Ruby,2146,182,24,this month,2025-07-09
-remote-working,greatghoul,Ruby,10957,868,90,this month,2025-07-09
-choosealicense.com,github,Ruby,3875,1427,27,this month,2025-07-09
-dd-trace-rb,DataDog,Ruby,363,394,4,this month,2025-07-09
-vagrant,hashicorp,Ruby,26760,4442,86,this month,2025-07-09
-metasploit-framework,rapid7,Ruby,35871,14398,226,this month,2025-07-09
-LiquidBounce,CCBlueX,Kotlin,1820,545,6,today,2025-07-09
-Manager,Aliucord,Kotlin,315,46,38,today,2025-07-09
-Calendar,FossifyOrg,Kotlin,1293,93,5,today,2025-07-09
-kotlin,JetBrains,Kotlin,50909,5959,7,today,2025-07-09
-architecture-samples,android,Kotlin,45148,11776,5,today,2025-07-09
-aniyomi-extensions,yuzono,Kotlin,101,18,4,today,2025-07-09
-Meshtastic-Android,meshtastic,Kotlin,949,276,5,today,2025-07-09
-reader,hectorqin,Kotlin,9746,5372,3,today,2025-07-09
-mockk,mockk,Kotlin,5595,375,0,today,2025-07-09
-aniyomi,aniyomiorg,Kotlin,6089,414,6,today,2025-07-09
-legado,gedoor,Kotlin,37674,4450,48,today,2025-07-09
-ksp,google,Kotlin,3146,323,2,today,2025-07-09
-nowinandroid,android,Kotlin,19121,3678,8,today,2025-07-09
-koin,InsertKoinIO,Kotlin,9535,747,7,today,2025-07-09
-Android,duckduckgo,Kotlin,4193,1000,3,today,2025-07-09
-detekt,detekt,Kotlin,6574,803,2,today,2025-07-09
-chains,ethereum-lists,Kotlin,9747,7375,1,today,2025-07-09
-Calendar,kizitonwose,Kotlin,5217,545,2,today,2025-07-09
-p3c,alibaba,Kotlin,30670,8072,2,today,2025-07-09
-android,home-assistant,Kotlin,2839,765,22,this week,2025-07-09
-Magisk,topjohnwu,Kotlin,54229,14250,227,this week,2025-07-09
-Signal-Android,signalapp,Kotlin,27286,6458,60,this week,2025-07-09
-florisboard,florisboard,Kotlin,7182,467,42,this week,2025-07-09
-Exposed,JetBrains,Kotlin,8838,738,17,this week,2025-07-09
-fanqiang,bannedbook,Kotlin,40029,7366,62,this week,2025-07-09
-nowinandroid,android,Kotlin,19121,3678,67,this week,2025-07-09
-BiliRoamingX,BiliRoamingX,Kotlin,3065,219,29,this week,2025-07-09
-ktor,ktorio,Kotlin,13754,1158,38,this week,2025-07-09
-LiquidBounce,CCBlueX,Kotlin,1820,545,19,this week,2025-07-09
-animeko,open-ani,Kotlin,8369,204,348,this week,2025-07-09
-quickstart-android,firebase,Kotlin,9098,7381,11,this week,2025-07-09
-compose-samples,android,Kotlin,21864,5141,48,this week,2025-07-09
-InstallWithOptions,zacharee,Kotlin,1708,80,30,this week,2025-07-09
-Metrolist,mostafaalagamy,Kotlin,1763,89,114,this week,2025-07-09
-Kotatsu,KotatsuApp,Kotlin,5996,256,57,this week,2025-07-09
-APatch,bmax121,Kotlin,5957,495,59,this week,2025-07-09
-Maestro,mobile-dev-inc,Kotlin,8099,413,93,this week,2025-07-09
-aniyomi-extensions,yuzono,Kotlin,101,18,17,this week,2025-07-09
-ByeDPIAndroid,dovecoteescapee,Kotlin,4239,237,32,this week,2025-07-09
-MiceWine-Application,KreitinnSoftware,Kotlin,1020,50,21,this week,2025-07-09
-Auxio,OxygenCobalt,Kotlin,2803,191,53,this week,2025-07-09
-v2rayNG,2dust,Kotlin,42498,6151,1105,this month,2025-07-09
-quarkdown,iamgio,Kotlin,8393,179,3168,this month,2025-07-09
-gkd,gkd-kit,Kotlin,29417,1449,1564,this month,2025-07-09
-Metrolist,mostafaalagamy,Kotlin,1763,89,481,this month,2025-07-09
-Magisk,topjohnwu,Kotlin,54229,14250,813,this month,2025-07-09
-ImageToolbox,T8RIN,Kotlin,8713,379,1229,this month,2025-07-09
-Maestro,mobile-dev-inc,Kotlin,8099,413,221,this month,2025-07-09
-breezy-weather,breezy-weather,Kotlin,7484,246,371,this month,2025-07-09
-Android-Native-Root-Detector,reveny,Kotlin,606,75,161,this month,2025-07-09
-Shizuku,RikkaApps,Kotlin,15485,988,721,this month,2025-07-09
-nowinandroid,android,Kotlin,19121,3678,298,this month,2025-07-09
-android,bitwarden,Kotlin,7527,875,144,this month,2025-07-09
-Anki-Android,ankidroid,Kotlin,9719,2471,123,this month,2025-07-09
-NekoBoxForAndroid,MatsuriDayo,Kotlin,14862,1225,443,this month,2025-07-09
-APatch,bmax121,Kotlin,5957,495,218,this month,2025-07-09
-okhttp,square,Kotlin,46509,9218,115,this month,2025-07-09
-KernelSU,tiann,Kotlin,12940,2468,340,this month,2025-07-09
-mihon,mihonapp,Kotlin,14473,655,579,this month,2025-07-09
-extensions-source,keiyoushi,Kotlin,2960,713,95,this month,2025-07-09
-ksp,google,Kotlin,3146,323,59,this month,2025-07-09
-ktor,ktorio,Kotlin,13754,1158,116,this month,2025-07-09
-Smart-AutoClicker,Nain57,Kotlin,2571,453,106,this month,2025-07-09
-filament,filamentphp,PHP,24747,3572,32,today,2025-07-09
-wallabag,wallabag,PHP,11713,819,51,today,2025-07-09
-magento2,magento,PHP,11845,9394,0,today,2025-07-09
-dolibarr,Dolibarr,PHP,6249,3008,11,today,2025-07-09
-snipe-it,grokability,PHP,12429,3461,6,today,2025-07-09
-framework,laravel,PHP,33801,11440,9,today,2025-07-09
-elementor,elementor,PHP,6702,1464,0,today,2025-07-09
-PHP-CS-Fixer,PHP-CS-Fixer,PHP,13240,1605,8,today,2025-07-09
-pint,laravel,PHP,2947,157,2,today,2025-07-09
-glpi,glpi-project,PHP,4937,1416,11,today,2025-07-09
-rector,rectorphp,PHP,9782,722,6,today,2025-07-09
-woocommerce,woocommerce,PHP,9848,10762,4,today,2025-07-09
-composer,composer,PHP,29033,4655,3,today,2025-07-09
-larastan,larastan,PHP,5983,460,1,today,2025-07-09
-dujiaoka,assimon,PHP,10740,2491,9,today,2025-07-09
-wordpress-develop,WordPress,PHP,2807,2960,4,today,2025-07-09
-drush,drush-ops,PHP,2359,1096,0,today,2025-07-09
-readme-typing-svg,DenverCoder1,PHP,7161,1225,12,today,2025-07-09
-PocketMine-MP,pmmp,PHP,3400,1596,3,today,2025-07-09
-mapos,RamonSilva20,PHP,984,640,1,today,2025-07-09
-Xboard,cedar2025,PHP,2927,757,7,today,2025-07-09
-Xboard,cedar2025,PHP,2927,757,38,this week,2025-07-09
-glpi,glpi-project,PHP,4937,1416,56,this week,2025-07-09
-speedtest-tracker,alexjustesen,PHP,3980,141,74,this week,2025-07-09
-wallabag,wallabag,PHP,11713,819,93,this week,2025-07-09
-PHP-CS-Fixer,PHP-CS-Fixer,PHP,13240,1605,29,this week,2025-07-09
-countries-states-cities-database,dr5hn,PHP,8500,2809,45,this week,2025-07-09
-server,nextcloud,PHP,30112,4337,105,this week,2025-07-09
-koel,koel,PHP,16556,2019,21,this week,2025-07-09
-woocommerce,woocommerce,PHP,9848,10762,10,this week,2025-07-09
-BookStack,BookStackApp,PHP,16920,2138,49,this week,2025-07-09
-filament,filamentphp,PHP,24747,3572,158,this week,2025-07-09
-mautic,mautic,PHP,8296,2901,32,this week,2025-07-09
-bagisto,bagisto,PHP,19712,2549,189,this week,2025-07-09
-moukthar,Tomiwa-Ot,PHP,585,145,28,this week,2025-07-09
-SecLists,danielmiessler,PHP,64024,24470,181,this week,2025-07-09
-2FAuth,Bubka,PHP,2892,199,38,this week,2025-07-09
-PocketMine-MP,pmmp,PHP,3400,1596,11,this week,2025-07-09
-solidtime,solidtime-io,PHP,7077,362,42,this week,2025-07-09
-coolify,coollabsio,PHP,43220,2693,224,this week,2025-07-09
-all-in-one,nextcloud,PHP,7342,813,73,this week,2025-07-09
-matomo,matomo-org,PHP,20653,2734,25,this week,2025-07-09
-filament,filamentphp,PHP,24747,3572,865,this month,2025-07-09
-coolify,coollabsio,PHP,43220,2693,1194,this month,2025-07-09
-panel,pterodactyl,PHP,7813,2140,172,this month,2025-07-09
-all-in-one,nextcloud,PHP,7342,813,370,this month,2025-07-09
-SecLists,danielmiessler,PHP,64024,24470,773,this month,2025-07-09
-server,nextcloud,PHP,30112,4337,394,this month,2025-07-09
-glpi,glpi-project,PHP,4937,1416,120,this month,2025-07-09
-laravel-crm,krayin,PHP,15690,1104,678,this month,2025-07-09
-github-readme-streak-stats,DenverCoder1,PHP,5764,948,119,this month,2025-07-09
-PrestaShop,PrestaShop,PHP,8639,4941,58,this month,2025-07-09
-Wallos,ellite,PHP,5601,239,669,this month,2025-07-09
-Xboard,cedar2025,PHP,2927,757,128,this month,2025-07-09
-monica,monicahq,PHP,23081,2324,252,this month,2025-07-09
-woocommerce,woocommerce,PHP,9848,10762,45,this month,2025-07-09
-bagisto,bagisto,PHP,19712,2549,728,this month,2025-07-09
-snipe-it,grokability,PHP,12429,3461,162,this month,2025-07-09
-PHP-CS-Fixer,PHP-CS-Fixer,PHP,13240,1605,66,this month,2025-07-09
-magento2,magento,PHP,11845,9394,42,this month,2025-07-09
-rector,rectorphp,PHP,9782,722,108,this month,2025-07-09
-roundcubemail,roundcube,PHP,6380,1688,82,this month,2025-07-09
-openemr,openemr,PHP,3542,2412,50,this month,2025-07-09
-koel,koel,PHP,16556,2019,82,this month,2025-07-09
-swift-composable-architecture,pointfreeco,Swift,13455,1549,6,today,2025-07-09
-XcodeGen,yonaskolb,Swift,7499,839,20,today,2025-07-09
-SwiftLint,realm,Swift,19076,2259,3,today,2025-07-09
-Alamofire,Alamofire,Swift,41979,7620,3,today,2025-07-09
-swift-package-manager,swiftlang,Swift,9964,1405,2,today,2025-07-09
-swift-syntax,swiftlang,Swift,3465,442,3,today,2025-07-09
-swift-snapshot-testing,pointfreeco,Swift,3969,628,1,today,2025-07-09
-Kingfisher,onevcat,Swift,23935,2714,4,today,2025-07-09
-apollo-ios,apollographql,Swift,3957,750,1,today,2025-07-09
-swift-collections,apple,Swift,4121,333,2,today,2025-07-09
-Applite,milanvarady,Swift,5180,122,22,today,2025-07-09
-swift-nio,apple,Swift,8189,687,1,today,2025-07-09
-Charts,ChartsOrg,Swift,27901,6044,3,today,2025-07-09
-swiftui-introspect,siteline,Swift,6161,381,0,today,2025-07-09
-RxSwift,ReactiveX,Swift,24615,4188,0,today,2025-07-09
-swift-markdown-ui,gonzalezreal,Swift,3298,426,2,today,2025-07-09
-GRDB.swift,groue,Swift,7608,765,3,today,2025-07-09
-Delta,rileytestut,Swift,5447,409,22,today,2025-07-09
-swift-system,apple,Swift,1272,119,3,today,2025-07-09
-AltStore,altstoreio,Swift,12618,1068,4,today,2025-07-09
-tuist,tuist,Swift,5138,636,3,today,2025-07-09
-Kingfisher,onevcat,Swift,23935,2714,28,this week,2025-07-09
-awesome-ios,vsouza,Swift,49332,6912,81,this week,2025-07-09
-AudioKit,AudioKit,Swift,11051,1593,17,this week,2025-07-09
-mlx-swift-examples,ml-explore,Swift,1941,270,31,this week,2025-07-09
-XcodeGen,yonaskolb,Swift,7499,839,46,this week,2025-07-09
-Delta,rileytestut,Swift,5447,409,31,this week,2025-07-09
-ios,nextcloud,Swift,2148,933,4,this week,2025-07-09
-OnlySwitch,jacklandrin,Swift,4933,215,78,this week,2025-07-09
-GRDB.swift,groue,Swift,7608,765,23,this week,2025-07-09
-AeroSpace,nikitabobko,Swift,13770,278,190,this week,2025-07-09
-firefox-ios,mozilla-mobile,Swift,12605,3062,7,this week,2025-07-09
-react-native-video,TheWidlarzGroup,Swift,7447,2973,18,this week,2025-07-09
-Alamofire,Alamofire,Swift,41979,7620,14,this week,2025-07-09
-facebook-ios-sdk,facebook,Swift,7900,3624,3,this week,2025-07-09
-apollo-ios,apollographql,Swift,3957,750,6,this week,2025-07-09
-VoiceInk,Beingpax,Swift,1050,128,67,this week,2025-07-09
-Amethyst,ianyh,Swift,15488,498,29,this week,2025-07-09
-alt-tab-macos,lwouis,Swift,12799,381,56,this week,2025-07-09
-SwiftLint,realm,Swift,19076,2259,19,this week,2025-07-09
-CodeEdit,CodeEditApp,Swift,21932,1104,27,this week,2025-07-09
-swift-syntax,swiftlang,Swift,3465,442,9,this week,2025-07-09
-CopilotForXcode,github,Swift,4355,825,205,this month,2025-07-09
-VoiceInk,Beingpax,Swift,1050,128,273,this month,2025-07-09
-IceCubesApp,Dimillian,Swift,6392,622,176,this month,2025-07-09
-Feather,khcrysalis,Swift,2468,192,252,this month,2025-07-09
-Ice,jordanbaird,Swift,20379,377,819,this month,2025-07-09
-swift-nio,apple,Swift,8189,687,43,this month,2025-07-09
-swiftui-introspect,siteline,Swift,6161,381,74,this month,2025-07-09
-vapor,vapor,Swift,25376,1490,180,this month,2025-07-09
-SwiftLint,realm,Swift,19076,2259,66,this month,2025-07-09
-Kingfisher,onevcat,Swift,23935,2714,81,this month,2025-07-09
-RxSwift,ReactiveX,Swift,24615,4188,53,this month,2025-07-09
-Bark,Finb,Swift,6267,507,125,this month,2025-07-09
-AlDente-Battery_Care_and_Monitoring,AppHouseKitchen,Swift,8526,315,128,this month,2025-07-09
-PlayCover,PlayCover,Swift,9704,809,155,this month,2025-07-09
-tuist,tuist,Swift,5138,636,80,this month,2025-07-09
-XcodesApp,XcodesOrg,Swift,7748,335,176,this month,2025-07-09
-XcodeGen,yonaskolb,Swift,7499,839,90,this month,2025-07-09
-swift-collections,apple,Swift,4121,333,62,this month,2025-07-09
-Rectangle,rxhanson,Swift,27221,836,197,this month,2025-07-09
-proxypin,wanghongenpin,Dart,9335,810,92,today,2025-07-09
-ente,ente-io,Dart,20407,1162,238,today,2025-07-09
-flutter,flutter,Dart,171310,28828,14,today,2025-07-09
-movie,waifu-project,Dart,251,48,11,today,2025-07-09
-packages,flutter,Dart,4773,3353,3,today,2025-07-09
-Cashew,jameskokoska,Dart,3113,461,12,today,2025-07-09
-gopeed,GopeedLab,Dart,19489,1343,25,today,2025-07-09
-BloomeeTunes,HemantKArya,Dart,817,70,29,today,2025-07-09
-cake_wallet,cake-tech,Dart,1084,245,1,today,2025-07-09
-samples,flutter,Dart,18367,7751,5,today,2025-07-09
-flutter_inappwebview,pichillilorenzo,Dart,3562,1874,0,today,2025-07-09
-KazumiRules,Predidit,Dart,705,46,9,today,2025-07-09
-Kazumi,Predidit,Dart,12573,329,111,today,2025-07-09
-riverpod,rrousselGit,Dart,6749,1003,0,today,2025-07-09
-getx,jonataslaw,Dart,10923,1676,1,today,2025-07-09
-flutter_local_notifications,MaikuB,Dart,2591,1494,2,today,2025-07-09
-AppFlowy,AppFlowy-IO,Dart,64331,4423,23,today,2025-07-09
-flutter_file_picker,miguelpruivo,Dart,1455,780,0,today,2025-07-09
-sdk,dart-lang,Dart,10680,1666,1,today,2025-07-09
-FlClash,chen08209,Dart,18889,1128,39,today,2025-07-09
-flutter_chat_ui,flyerhq,Dart,1933,786,3,today,2025-07-09
-finamp,jmshrv,Dart,2825,175,6,today,2025-07-09
-ente,ente-io,Dart,20407,1162,361,this week,2025-07-09
-gopeed,GopeedLab,Dart,19489,1343,128,this week,2025-07-09
-Obtainium,ImranR98,Dart,11665,277,119,this week,2025-07-09
-pilipala,guozhigq,Dart,11485,607,296,this week,2025-07-09
-proxypin,wanghongenpin,Dart,9335,810,179,this week,2025-07-09
-karing,KaringX,Dart,5783,496,95,this week,2025-07-09
-Harmony-Music,anandnet,Dart,2159,178,52,this week,2025-07-09
-flutterfire,firebase,Dart,8967,4060,19,this week,2025-07-09
-samples,flutter,Dart,18367,7751,32,this week,2025-07-09
-Kazumi,Predidit,Dart,12573,329,606,this week,2025-07-09
-BloomeeTunes,HemantKArya,Dart,817,70,66,this week,2025-07-09
-bloc,felangel,Dart,12190,3424,12,this week,2025-07-09
-AppFlowy,AppFlowy-IO,Dart,64331,4423,166,this week,2025-07-09
-packages,flutter,Dart,4773,3353,9,this week,2025-07-09
-Openlib,dstark5,Dart,1561,72,15,this week,2025-07-09
-PicaComic,wgh136,Dart,8290,993,24,this week,2025-07-09
-plus_plugins,fluttercommunity,Dart,1755,1126,1,this week,2025-07-09
-finamp,jmshrv,Dart,2825,175,21,this week,2025-07-09
-localsend,localsend,Dart,64176,3425,399,this week,2025-07-09
-KazumiRules,Predidit,Dart,705,46,33,this week,2025-07-09
-localsend,localsend,Dart,64176,3425,2035,this month,2025-07-09
-hiddify-app,hiddify,Dart,22052,1945,627,this month,2025-07-09
-Obtainium,ImranR98,Dart,11665,277,502,this month,2025-07-09
-revanced-manager,ReVanced,Dart,22062,862,685,this month,2025-07-09
-FlClash,chen08209,Dart,18889,1128,1027,this month,2025-07-09
-awesome-flutter,Solido,Dart,56406,6764,404,this month,2025-07-09
-proxypin,wanghongenpin,Dart,9335,810,383,this month,2025-07-09
-pilipala,guozhigq,Dart,11485,607,615,this month,2025-07-09
-ente,ente-io,Dart,20407,1162,836,this month,2025-07-09
-fluffychat,krille-chan,Dart,1675,312,95,this month,2025-07-09
-Cashew,jameskokoska,Dart,3113,461,194,this month,2025-07-09
-Kazumi,Predidit,Dart,12573,329,1359,this month,2025-07-09
-flutterfire,firebase,Dart,8967,4060,58,this month,2025-07-09
-flutter,flutter,Dart,171310,28828,653,this month,2025-07-09
-refreezer,DJDoubleD,Dart,735,22,95,this month,2025-07-09
-BloomeeTunes,HemantKArya,Dart,817,70,99,this month,2025-07-09
-Harmony-Music,anandnet,Dart,2159,178,151,this month,2025-07-09
-karing,KaringX,Dart,5783,496,351,this month,2025-07-09
-PicaComic,wgh136,Dart,8290,993,93,this month,2025-07-09
-riverpod,rrousselGit,Dart,6749,1003,66,this month,2025-07-09
-ohmyzsh,ohmyzsh,Shell,179789,26135,43,today,2025-07-09
-tfenv,tfutils,Shell,4739,467,2,today,2025-07-09
-nvm,nvm-sh,Shell,85706,9008,20,today,2025-07-09
-claude-desktop-debian,aaddrick,Shell,838,171,8,today,2025-07-09
-Docker-OSX,sickcodes,Shell,50893,2834,32,today,2025-07-09
-bats-core,bats-core,Shell,5385,434,3,today,2025-07-09
-kubestarter,LondheShubham153,Shell,448,2566,4,today,2025-07-09
-release,openshift,Shell,299,1918,0,today,2025-07-09
-zsh-syntax-highlighting,zsh-users,Shell,21358,1345,6,today,2025-07-09
-leetcode-master,youngyangyang04,Shell,57127,12067,32,today,2025-07-09
-DevOps-Bash-tools,HariSekhon,Shell,6890,1291,10,today,2025-07-09
-reinstall,bin456789,Shell,5922,1001,12,today,2025-07-09
-winapps,winapps-org,Shell,2805,119,10,today,2025-07-09
-Qwen3,QwenLM,Shell,22455,1514,39,today,2025-07-09
-macos,dockur,Shell,15588,638,3420,this week,2025-07-09
-Docker-OSX,sickcodes,Shell,50893,2834,126,this week,2025-07-09
-vscodium,VSCodium,Shell,27878,1331,84,this week,2025-07-09
-windows,dockur,Shell,36352,2685,257,this week,2025-07-09
-ohmyzsh,ohmyzsh,Shell,179789,26135,211,this week,2025-07-09
-clash-for-linux-install,nelvko,Shell,2580,389,149,this week,2025-07-09
-nvm,nvm-sh,Shell,85706,9008,161,this week,2025-07-09
-certified-kubernetes-administrator-course,kodekloudhub,Shell,9143,8610,46,this week,2025-07-09
-v2ray-agent,mack-a,Shell,16218,4964,51,this week,2025-07-09
-Arch-Hyprland,JaKooLit,Shell,3144,269,55,this week,2025-07-09
-docker-minecraft-server,itzg,Shell,11558,1712,60,this week,2025-07-09
-awesome-jellyfin,awesome-jellyfin,Shell,3753,102,70,this week,2025-07-09
-WinterBreak,KindleModding,Shell,1104,23,27,this week,2025-07-09
-leetcode-master,youngyangyang04,Shell,57127,12067,153,this week,2025-07-09
-omakub,basecamp,Shell,6743,655,97,this week,2025-07-09
-public-image-mirror,DaoCloud,Shell,10690,1247,96,this week,2025-07-09
-Qwen3,QwenLM,Shell,22455,1514,150,this week,2025-07-09
-nvm,nvm-sh,Shell,85706,9008,816,this month,2025-07-09
-omakub,basecamp,Shell,6743,655,323,this month,2025-07-09
-clash-for-linux-install,nelvko,Shell,2580,389,581,this month,2025-07-09
-macos,dockur,Shell,15588,638,3504,this month,2025-07-09
-certified-kubernetes-administrator-course,kodekloudhub,Shell,9143,8610,162,this month,2025-07-09
-Docker-OSX,sickcodes,Shell,50893,2834,342,this month,2025-07-09
-huly-selfhost,hcengineering,Shell,2532,250,189,this month,2025-07-09
-bazzite,ublue-os,Shell,5791,441,246,this month,2025-07-09
-awesome-hacker-search-engines,edoardottt,Shell,8918,846,152,this month,2025-07-09
-VPN,aditya-shri,Shell,1132,1303,45,this month,2025-07-09
-v2ray,233boy,Shell,26400,16521,240,this month,2025-07-09
-quickemu,quickemu-project,Shell,12224,540,236,this month,2025-07-09
-terminal-bench,laude-institute,Shell,234,59,79,this month,2025-07-09
-ohmyzsh,ohmyzsh,Shell,179789,26135,873,this month,2025-07-09
-n8n-hosting,n8n-io,Shell,720,422,140,this month,2025-07-09
-spark,apache,Scala,41423,28675,10,today,2025-07-09
-deequ,awslabs,Scala,3453,558,4,today,2025-07-09
-delta,delta-io,Scala,8136,1868,5,today,2025-07-09
-joern,joernio,Scala,2487,332,4,today,2025-07-09
-the-algorithm,twitter,Scala,63388,12154,11,today,2025-07-09
-rocket-chip,chipsalliance,Scala,3489,1174,3,today,2025-07-09
-texera,Texera,Scala,184,89,1,today,2025-07-09
-XiangShan,OpenXiangShan,Scala,6479,779,2,today,2025-07-09
-delta-sharing,delta-io,Scala,850,199,0,today,2025-07-09
-lila,lichess-org,Scala,16836,2432,8,today,2025-07-09
-spark-rapids,NVIDIA,Scala,909,255,1,today,2025-07-09
-scala3,scala,Scala,6062,1105,4,today,2025-07-09
-incubator-gluten,apache,Scala,1384,554,0,today,2025-07-09
-kyuubi,apache,Scala,2215,948,1,today,2025-07-09
-gatling,gatling,Scala,6717,1214,1,today,2025-07-09
-metals,scalameta,Scala,2207,381,1,today,2025-07-09
-chipyard,ucb-bar,Scala,1893,727,2,today,2025-07-09
-TheHive,TheHive-Project,Scala,3725,659,1,today,2025-07-09
-Cortex,TheHive-Project,Scala,1441,242,0,today,2025-07-09
-bfg-repo-cleaner,rtyley,Scala,11622,566,3,today,2025-07-09
-sbt,sbt,Scala,4850,950,0,today,2025-07-09
-gitbucket,gitbucket,Scala,9268,1254,0,today,2025-07-09
-XiangShan,OpenXiangShan,Scala,6479,779,20,this week,2025-07-09
-zio,zio,Scala,4229,1357,2,this week,2025-07-09
-lila,lichess-org,Scala,16836,2432,37,this week,2025-07-09
-the-algorithm,twitter,Scala,63388,12154,54,this week,2025-07-09
-spark,apache,Scala,41423,28675,51,this week,2025-07-09
-SynapseML,microsoft,Scala,5146,848,1,this week,2025-07-09
-scala,scala,Scala,14389,3114,3,this week,2025-07-09
-azure-maven-archetypes,microsoft,Scala,23,34,0,this week,2025-07-09
-playframework,playframework,Scala,12579,4095,4,this week,2025-07-09
-deequ,awslabs,Scala,3453,558,12,this week,2025-07-09
-delta,delta-io,Scala,8136,1868,15,this week,2025-07-09
-joern,joernio,Scala,2487,332,20,this week,2025-07-09
-rocket-chip,chipsalliance,Scala,3489,1174,8,this week,2025-07-09
-sbt,sbt,Scala,4850,950,2,this week,2025-07-09
-gitbucket,gitbucket,Scala,9268,1254,5,this week,2025-07-09
-Cortex,TheHive-Project,Scala,1441,242,2,this week,2025-07-09
-TheHive,TheHive-Project,Scala,3725,659,10,this week,2025-07-09
-chisel,chipsalliance,Scala,4332,632,11,this week,2025-07-09
-kyuubi,apache,Scala,2215,948,1,this week,2025-07-09
-splice,hyperledger-labs,Scala,33,22,2,this week,2025-07-09
-bfg-repo-cleaner,rtyley,Scala,11622,566,18,this week,2025-07-09
-gemmini,ucb-bar,Scala,989,203,11,this week,2025-07-09
-chipyard,ucb-bar,Scala,1893,727,7,this week,2025-07-09
-spark,apache,Scala,41423,28675,216,this month,2025-07-09
-delta,delta-io,Scala,8136,1868,77,this month,2025-07-09
-the-algorithm,twitter,Scala,63388,12154,178,this month,2025-07-09
-splice,hyperledger-labs,Scala,33,22,7,this month,2025-07-09
-kyuubi,apache,Scala,2215,948,19,this month,2025-07-09
-cats-effect,typelevel,Scala,2138,557,9,this month,2025-07-09
-joern,joernio,Scala,2487,332,63,this month,2025-07-09
-playframework,playframework,Scala,12579,4095,15,this month,2025-07-09
-lila,lichess-org,Scala,16836,2432,134,this month,2025-07-09
-scala3,scala,Scala,6062,1105,37,this month,2025-07-09
-XiangShan,OpenXiangShan,Scala,6479,779,64,this month,2025-07-09
-akka,akka,Scala,13173,3587,21,this month,2025-07-09
-chisel,chipsalliance,Scala,4332,632,41,this month,2025-07-09
-chipyard,ucb-bar,Scala,1893,727,29,this month,2025-07-09
-deequ,awslabs,Scala,3453,558,28,this month,2025-07-09
-bfg-repo-cleaner,rtyley,Scala,11622,566,73,this month,2025-07-09
-gitbucket,gitbucket,Scala,9268,1254,18,this month,2025-07-09
-incubator-gluten,apache,Scala,1384,554,24,this month,2025-07-09
-daml,digital-asset,Scala,817,211,4,this month,2025-07-09
-gatling,gatling,Scala,6717,1214,47,this month,2025-07-09
-TheHive,TheHive-Project,Scala,3725,659,50,this month,2025-07-09
-gemmini,ucb-bar,Scala,989,203,33,this month,2025-07-09
-seurat,satijalab,R,2463,950,1,today,2025-07-09
-phyloseq,joey711,R,616,190,0,today,2025-07-09
-CellChat,sqjin,R,709,159,0,today,2025-07-09
-signac,stuart-lab,R,377,98,1,today,2025-07-09
-ComplexHeatmap,jokergoo,R,1388,237,0,today,2025-07-09
-infercnv,broadinstitute,R,625,177,0,today,2025-07-09
-DoubletFinder,chris-mcginnis-ucsf,R,480,119,0,today,2025-07-09
-data.table,Rdatatable,R,3751,1009,0,today,2025-07-09
-hdWGCNA,smorabit,R,419,42,0,today,2025-07-09
-reticulate,rstudio,R,1708,345,1,today,2025-07-09
-dada2,benjjneb,R,509,151,0,today,2025-07-09
-renv,rstudio,R,1077,156,0,today,2025-07-09
-ggpubr,kassambara,R,1188,176,1,today,2025-07-09
-seurat-wrappers,satijalab,R,340,137,1,today,2025-07-09
-TwoSampleMR,MRCIEU,R,497,184,0,today,2025-07-09
-shiny,rstudio,R,5494,1881,0,today,2025-07-09
-sf,r-spatial,R,1379,301,0,today,2025-07-09
-dplyr,tidyverse,R,4896,2128,0,today,2025-07-09
-harmony,immunogenomics,R,580,103,0,today,2025-07-09
-clusterProfiler,YuLab-SMU,R,1098,262,0,today,2025-07-09
-ggplot2,tidyverse,R,6722,2090,1,today,2025-07-09
-swirl_courses,swirldev,R,4436,7248,0,today,2025-07-09
-ellmer,tidyverse,R,482,85,5,this week,2025-07-09
-seurat,satijalab,R,2463,950,5,this week,2025-07-09
-data.table,Rdatatable,R,3751,1009,3,this week,2025-07-09
-shiny,rstudio,R,5494,1881,2,this week,2025-07-09
-DoubletFinder,chris-mcginnis-ucsf,R,480,119,1,this week,2025-07-09
-infercnv,broadinstitute,R,625,177,1,this week,2025-07-09
-CellChat,sqjin,R,709,159,2,this week,2025-07-09
-ProgrammingAssignment2,rdpeng,R,857,144001,0,this week,2025-07-09
-swirl_courses,swirldev,R,4436,7248,4,this week,2025-07-09
-clusterProfiler,YuLab-SMU,R,1098,262,0,this week,2025-07-09
-r4ds,hadley,R,4824,4311,6,this week,2025-07-09
-harmony,immunogenomics,R,580,103,0,this week,2025-07-09
-dada2,benjjneb,R,509,151,0,this week,2025-07-09
-ComplexHeatmap,jokergoo,R,1388,237,1,this week,2025-07-09
-ProgrammingAssignment2,rdpeng,R,857,144001,1,this month,2025-07-09
-data.table,Rdatatable,R,3751,1009,20,this month,2025-07-09
-r4ds,hadley,R,4824,4311,24,this month,2025-07-09
-shiny,rstudio,R,5494,1881,14,this month,2025-07-09
-signac,stuart-lab,R,377,98,3,this month,2025-07-09
-seurat,satijalab,R,2463,950,19,this month,2025-07-09
-swirl_courses,swirldev,R,4436,7248,14,this month,2025-07-09
-CellChat,sqjin,R,709,159,9,this month,2025-07-09
-harmony,immunogenomics,R,580,103,4,this month,2025-07-09
-DoubletFinder,chris-mcginnis-ucsf,R,480,119,7,this month,2025-07-09
-infercnv,broadinstitute,R,625,177,8,this month,2025-07-09
-devtools,r-lib,R,2460,763,7,this month,2025-07-09
-monocle3,cole-trapnell-lab,R,390,107,4,this month,2025-07-09
-FlameGraph,brendangregg,Perl,18452,2035,9,today,2025-07-09
-glpi-agent,glpi-project,Perl,308,81,0,today,2025-07-09
-ACLPUB,acl-org,Perl,234,204,0,today,2025-07-09
-prokka,tseemann,Perl,912,234,0,today,2025-07-09
-Znuny,znuny,Perl,482,101,0,today,2025-07-09
-centreon-plugins,centreon,Perl,321,288,0,today,2025-07-09
-ocpi,ocpi,Perl,503,216,1,today,2025-07-09
-TrimGalore,FelixKrueger,Perl,513,154,0,today,2025-07-09
-lcov,linux-test-project,Perl,1010,249,1,today,2025-07-09
-BRAKER,Gaius-Augustus,Perl,414,90,0,today,2025-07-09
-trinityrnaseq,trinityrnaseq,Perl,863,319,0,today,2025-07-09
-cloc,AlDanial,Perl,21267,1069,11,today,2025-07-09
-packetfence,inverse-inc,Perl,1505,304,3,today,2025-07-09
-ora2pg,darold,Perl,1114,359,1,today,2025-07-09
-snippy,tseemann,Perl,530,115,0,today,2025-07-09
-pgbadger,darold,Perl,3762,360,2,today,2025-07-09
-LANraragi,Difegue,Perl,2578,185,2,today,2025-07-09
-diff-so-fancy,so-fancy,Perl,17697,335,0,today,2025-07-09
-MySQLTuner-perl,major,Perl,9244,1297,1,today,2025-07-09
-openfortivpn,adrienverge,Perl,2976,340,0,today,2025-07-09
-openkore,OpenKore,Perl,1376,1150,0,today,2025-07-09
-owasp-modsecurity-crs,SpiderLabs,Perl,2467,732,0,today,2025-07-09
-lm-sensors,lm-sensors,Perl,988,284,0,today,2025-07-09
-cloc,AlDanial,Perl,21267,1069,90,this week,2025-07-09
-.dotfiles,ThePrimeagen,Perl,3331,315,10,this week,2025-07-09
-aws-cdk-guide,awsdocs,Perl,351,222,0,this week,2025-07-09
-ocpi,ocpi,Perl,503,216,2,this week,2025-07-09
-Znuny,znuny,Perl,482,101,3,this week,2025-07-09
-sanoid,jimsalterjrs,Perl,3419,330,15,this week,2025-07-09
-centreon-plugins,centreon,Perl,321,288,0,this week,2025-07-09
-trinityrnaseq,trinityrnaseq,Perl,863,319,1,this week,2025-07-09
-perl5,Perl,Perl,2133,585,5,this week,2025-07-09
-FlameGraph,brendangregg,Perl,18452,2035,40,this week,2025-07-09
-packetfence,inverse-inc,Perl,1505,304,7,this week,2025-07-09
-lcov,linux-test-project,Perl,1010,249,4,this week,2025-07-09
-prokka,tseemann,Perl,912,234,2,this week,2025-07-09
-glpi-agent,glpi-project,Perl,308,81,3,this week,2025-07-09
-TrimGalore,FelixKrueger,Perl,513,154,1,this week,2025-07-09
-fusioninventory-agent,fusioninventory,Perl,261,127,0,this week,2025-07-09
-MySQLTuner-perl,major,Perl,9244,1297,6,this week,2025-07-09
-zap2xml,jef,Perl,73,24,1,this week,2025-07-09
-openkore,OpenKore,Perl,1376,1150,38,this month,2025-07-09
-FlameGraph,brendangregg,Perl,18452,2035,184,this month,2025-07-09
-cloc,AlDanial,Perl,21267,1069,273,this month,2025-07-09
-a-shell,holzschu,Perl,3091,133,55,this month,2025-07-09
-glpi-agent,glpi-project,Perl,308,81,8,this month,2025-07-09
-dejavu-fonts,dejavu-fonts,Perl,813,107,7,this month,2025-07-09
-xmltv,Catch-up-TV-and-More,Perl,30,12,0,this month,2025-07-09
-centreon-plugins,centreon,Perl,321,288,3,this month,2025-07-09
-pgbadger,darold,Perl,3762,360,26,this month,2025-07-09
-Znuny,znuny,Perl,482,101,11,this month,2025-07-09
-diff-so-fancy,so-fancy,Perl,17697,335,61,this month,2025-07-09
-ModSecurity-nginx,owasp-modsecurity,Perl,1709,295,25,this month,2025-07-09
-ddclient,ddclient,Perl,2939,363,64,this month,2025-07-09
-zm-build,Zimbra,Perl,208,91,4,this month,2025-07-09
-fusioninventory-agent,fusioninventory,Perl,261,127,1,this month,2025-07-09
-ora2pg,darold,Perl,1114,359,8,this month,2025-07-09
-openfortivpn,adrienverge,Perl,2976,340,35,this month,2025-07-09
-.dotfiles,ThePrimeagen,Perl,3331,315,32,this month,2025-07-09
-perl5,Perl,Perl,2133,585,22,this month,2025-07-09
-anoma,anoma,Elixir,30956,3902,200,today,2025-07-09
-analytics,plausible,Elixir,22846,1240,14,today,2025-07-09
-phoenix_live_view,phoenixframework,Elixir,6536,991,3,today,2025-07-09
-teslamate,teslamate-org,Elixir,6848,831,6,today,2025-07-09
-ash,ash-project,Elixir,1972,291,7,today,2025-07-09
-elixir-ls,elixir-lsp,Elixir,1633,217,3,today,2025-07-09
-elixir_sense,elixir-lsp,Elixir,319,41,0,today,2025-07-09
-sequin,sequinstream,Elixir,1431,67,5,today,2025-07-09
-ecto,elixir-ecto,Elixir,6334,1458,0,today,2025-07-09
-blockscout,blockscout,Elixir,4050,2751,1,today,2025-07-09
-awesome-elixir,h4cc,Elixir,12921,1188,1,today,2025-07-09
-elixir,elixir-lang,Elixir,25447,3439,1,today,2025-07-09
-phoenix,phoenixframework,Elixir,22247,2984,1,today,2025-07-09
-algora,algora-io,Elixir,478,30,5,today,2025-07-09
-electric,electric-sql,Elixir,8702,240,5,today,2025-07-09
-anoma,anoma,Elixir,30956,3902,1238,this week,2025-07-09
-elixir,elixir-lang,Elixir,25447,3439,31,this week,2025-07-09
-phoenix_live_view,phoenixframework,Elixir,6536,991,14,this week,2025-07-09
-awesome-elixir,h4cc,Elixir,12921,1188,10,this week,2025-07-09
-paginator,duffelhq,Elixir,798,98,1,this week,2025-07-09
-ash,ash-project,Elixir,1972,291,21,this week,2025-07-09
-electric,electric-sql,Elixir,8702,240,31,this week,2025-07-09
-timex,bitwalker,Elixir,1787,395,2,this week,2025-07-09
-opentelemetry-erlang-contrib,open-telemetry,Elixir,183,143,1,this week,2025-07-09
-sequin,sequinstream,Elixir,1431,67,23,this week,2025-07-09
-teslamate,teslamate-org,Elixir,6848,831,20,this week,2025-07-09
-algora,algora-io,Elixir,478,30,24,this week,2025-07-09
-keila,pentacent,Elixir,1732,109,11,this week,2025-07-09
-blockscout,blockscout,Elixir,4050,2751,9,this week,2025-07-09
-phoenix,phoenixframework,Elixir,22247,2984,21,this week,2025-07-09
-langchain,brainlid,Elixir,928,129,6,this week,2025-07-09
-pinchflat,kieraneglin,Elixir,3309,78,30,this week,2025-07-09
-realtime,supabase,Elixir,7181,371,14,this week,2025-07-09
-supavisor,supabase,Elixir,1965,74,9,this week,2025-07-09
-analytics,plausible,Elixir,22846,1240,59,this week,2025-07-09
-anoma,anoma,Elixir,30956,3902,1923,this month,2025-07-09
-phoenix,phoenixframework,Elixir,22247,2984,128,this month,2025-07-09
-realtime,supabase,Elixir,7181,371,57,this month,2025-07-09
-ecto,elixir-ecto,Elixir,6334,1458,28,this month,2025-07-09
-pinchflat,kieraneglin,Elixir,3309,78,127,this month,2025-07-09
-elixir,elixir-lang,Elixir,25447,3439,181,this month,2025-07-09
-phoenix_live_view,phoenixframework,Elixir,6536,991,40,this month,2025-07-09
-electric,electric-sql,Elixir,8702,240,171,this month,2025-07-09
-hermes-mcp,cloudwalk,Elixir,230,15,59,this month,2025-07-09
-ash,ash-project,Elixir,1972,291,69,this month,2025-07-09
-analytics,plausible,Elixir,22846,1240,247,this month,2025-07-09
-paginator,duffelhq,Elixir,798,98,6,this month,2025-07-09
-blockscout,OffchainLabs,Elixir,47,24,1,this month,2025-07-09
-langchain,brainlid,Elixir,928,129,33,this month,2025-07-09
-timex,bitwalker,Elixir,1787,395,11,this month,2025-07-09
-awesome-elixir,h4cc,Elixir,12921,1188,37,this month,2025-07-09
-blockscout,blockscout,Elixir,4050,2751,50,this month,2025-07-09
-ex_crypto,ntrepid8,Elixir,156,51,0,this month,2025-07-09
-protobuf,elixir-protobuf,Elixir,880,151,10,this month,2025-07-09
-firezone,firezone,Elixir,7380,324,93,this month,2025-07-09
-pandoc,jgm,Haskell,38267,3573,12,today,2025-07-09
-hadolint,hadolint,Haskell,11324,457,3,today,2025-07-09
-postgrest,PostgREST,Haskell,25485,1104,3,today,2025-07-09
-shellcheck,koalaman,Haskell,37665,1831,5,today,2025-07-09
-agda,agda,Haskell,2669,378,0,today,2025-07-09
-cabal,haskell,Haskell,1676,714,1,today,2025-07-09
-shellcheck,koalaman,Haskell,37665,1831,37,this week,2025-07-09
-cabal,haskell,Haskell,1676,714,2,this week,2025-07-09
-cardano-node,IntersectMBO,Haskell,3133,732,1,this week,2025-07-09
-nix-output-monitor,maralorn,Haskell,1167,33,13,this week,2025-07-09
-postgrest,PostgREST,Haskell,25485,1104,29,this week,2025-07-09
-unison,unisonweb,Haskell,6092,277,14,this week,2025-07-09
-pandoc,jgm,Haskell,38267,3573,106,this week,2025-07-09
-hadolint,hadolint,Haskell,11324,457,20,this week,2025-07-09
-simplexmq,simplex-chat,Haskell,633,79,6,this week,2025-07-09
-haskell-language-server,haskell,Haskell,2813,398,5,this week,2025-07-09
-shellcheck,koalaman,Haskell,37665,1831,165,this month,2025-07-09
-Tidal,tidalcycles,Haskell,2731,274,168,this month,2025-07-09
-pandoc,jgm,Haskell,38267,3573,465,this month,2025-07-09
-cardano-node,IntersectMBO,Haskell,3133,732,6,this month,2025-07-09
-postgrest,PostgREST,Haskell,25485,1104,128,this month,2025-07-09
-unison,unisonweb,Haskell,6092,277,51,this month,2025-07-09
-agda,agda,Haskell,2669,378,22,this month,2025-07-09
-zsh-git-prompt,olivierverdier,Haskell,1741,398,2,this month,2025-07-09
-simplexmq,simplex-chat,Haskell,633,79,16,this month,2025-07-09
-haskell-language-server,haskell,Haskell,2813,398,14,this month,2025-07-09
-stack,commercialhaskell,Haskell,4017,846,8,this month,2025-07-09
-hadolint,hadolint,Haskell,11324,457,125,this month,2025-07-09
-hledger,simonmichael,Haskell,3319,331,33,this month,2025-07-09
-julia,JuliaLang,Julia,47316,5604,7,today,2025-07-09
-Makie.jl,MakieOrg,Julia,2572,349,1,today,2025-07-09
-General,JuliaRegistries,Julia,642,495,0,today,2025-07-09
-julia,JuliaLang,Julia,47316,5604,50,this week,2025-07-09
-General,JuliaRegistries,Julia,642,495,2,this week,2025-07-09
-julia,JuliaLang,Julia,47316,5604,203,this month,2025-07-09
-General,JuliaRegistries,Julia,642,495,8,this month,2025-07-09
+genai-toolbox,googleapis,Go,4427,356,970,today,2025-07-10
+rustfs,rustfs,Rust,3955,188,650,today,2025-07-10
+prompt-eng-interactive-tutorial,anthropics,Jupyter Notebook,16295,1494,451,today,2025-07-10
+WebAgent,Alibaba-NLP,Python,3059,205,780,today,2025-07-10
+res-downloader,putyy,Go,8539,1010,159,today,2025-07-10
+agents,ed-donner,Jupyter Notebook,1159,796,87,today,2025-07-10
+proxypin,wanghongenpin,Dart,9521,816,50,today,2025-07-10
+ai-agents-for-beginners,microsoft,Jupyter Notebook,29798,8423,246,today,2025-07-10
+awesome-mcp-clients,punkpeye,Unknown,4437,305,96,today,2025-07-10
+strapi,strapi,TypeScript,67576,8708,35,today,2025-07-10
+MoGe,microsoft,Python,1307,73,29,today,2025-07-10
+MNN,alibaba,C++,12445,1990,25,today,2025-07-10
+llm_engineering,ed-donner,Jupyter Notebook,2888,2284,25,today,2025-07-10
+fzf,junegunn,Go,71871,2545,62,today,2025-07-10
+MediaCrawler,NanmiCoder,Python,29159,7328,4106,this week,2025-07-10
+Folo,RSSNext,TypeScript,28387,1261,1126,this week,2025-07-10
+scira,zaidmukaddam,TypeScript,9690,1185,823,this week,2025-07-10
+sim,simstudioai,TypeScript,4732,701,537,this week,2025-07-10
+sniffnet,GyulyVGC,Rust,27750,907,1958,this week,2025-07-10
+ladybird,LadybirdBrowser,C++,45097,1922,953,this week,2025-07-10
+build-your-own-x,codecrafters-io,Markdown,398363,37185,4512,this week,2025-07-10
+generative-ai-for-beginners,microsoft,Jupyter Notebook,91627,46816,2281,this week,2025-07-10
+pocketbase,pocketbase,Go,48865,2460,797,this week,2025-07-10
+kilocode,Kilo-Org,TypeScript,4079,325,2307,this week,2025-07-10
+ML-For-Beginners,microsoft,HTML,74264,16340,733,this week,2025-07-10
+openpilot,commaai,Python,55132,9917,880,this week,2025-07-10
+infisical,Infisical,TypeScript,18773,1250,533,this week,2025-07-10
+directus,directus,TypeScript,31573,4290,534,this week,2025-07-10
+awesome-llm-apps,Shubhamsaboo,Python,49413,5717,15588,this month,2025-07-10
+data-engineer-handbook,DataExpert-io,Jupyter Notebook,35086,6743,6169,this month,2025-07-10
+jan,menloresearch,TypeScript,34527,2017,5195,this month,2025-07-10
+awesome,sindresorhus,Unknown,380697,30432,16604,this month,2025-07-10
+twenty,twentyhq,TypeScript,33614,3738,5494,this month,2025-07-10
+happy-llm,datawhalechina,Unknown,10055,730,7210,this month,2025-07-10
+embabel-agent,embabel,Kotlin,2045,155,1716,this month,2025-07-10
+claude-code,anthropics,PowerShell,18508,1047,6396,this month,2025-07-10
+anthropic-cookbook,anthropics,Jupyter Notebook,17916,1855,4878,this month,2025-07-10
+Telegram,DrKLO,Java,27083,8754,891,this month,2025-07-10
+prompt-optimizer,linshenkx,TypeScript,9277,1161,3706,this month,2025-07-10
+storm,stanford-oval,Python,26474,2380,1976,this month,2025-07-10
+youtube-transcript-api,jdepoix,Python,5715,583,1705,this month,2025-07-10
+Web-Dev-For-Beginners,microsoft,JavaScript,90371,13655,2040,this month,2025-07-10
+30-Days-Of-Python,Asabeneh,Python,47456,9059,44,today,2025-07-10
+MoneyPrinterV2,FujiwaraChoki,Python,12141,1146,301,today,2025-07-10
+checkov,bridgecrewio,Python,7682,1211,4,today,2025-07-10
+verifiers,willccbb,Python,1493,184,18,today,2025-07-10
+WeClone,xming521,Python,14793,1153,31,today,2025-07-10
+mcp,awslabs,Python,4530,553,56,today,2025-07-10
+logicanalyzer,gusmanb,Python,4057,420,145,today,2025-07-10
+litellm,BerriAI,Python,25182,3432,58,today,2025-07-10
+hummingbot,hummingbot,Python,13177,3659,15,today,2025-07-10
+yolov5,ultralytics,Python,54547,17041,17,today,2025-07-10
+Scrapling,D4Vinci,Python,6261,345,235,today,2025-07-10
+ray,ray-project,Python,37922,6578,23,today,2025-07-10
+ai-agents-masterclass,coleam00,Python,2426,1109,58,today,2025-07-10
+Ghost-Downloader-3,XiaoYouChR,Python,3221,156,55,today,2025-07-10
+ai-toolkit,ostris,Python,5119,606,113,this week,2025-07-10
+PayloadsAllTheThings,swisskyrepo,Python,68203,15646,1012,this week,2025-07-10
+Genesis,Genesis-Embodied-AI,Python,25780,2334,346,this week,2025-07-10
+Index-anisora,bilibili,Python,1740,83,278,this week,2025-07-10
+ERNIE,PaddlePaddle,Python,7303,1385,265,this week,2025-07-10
+devops-exercises,bregman-arie,Python,77468,17362,488,this week,2025-07-10
+gemini-balance,snailyp,Python,2964,505,696,this week,2025-07-10
+nunchaku,mit-han-lab,Python,2336,121,132,this week,2025-07-10
+InkyPi,fatihak,Python,1808,184,104,this week,2025-07-10
+MinerU,opendatalab,Python,38682,3177,3944,this month,2025-07-10
+ottomator-agents,coleam00,Python,3446,1232,1399,this month,2025-07-10
+AutoAgent,HKUDS,Python,5495,753,851,this month,2025-07-10
+cai,aliasrobotics,Python,1630,209,562,this month,2025-07-10
+lerobot,huggingface,Python,15684,2121,1444,this month,2025-07-10
+boltz,jwohlwend,Python,3053,488,941,this month,2025-07-10
+vggt,facebookresearch,Python,9609,921,2265,this month,2025-07-10
+LMCache,LMCache,Python,2698,312,1320,this month,2025-07-10
+deepeval,confident-ai,Python,9089,791,1941,this month,2025-07-10
+dspy,stanfordnlp,Python,26248,2021,1068,this month,2025-07-10
+flux,black-forest-labs,Python,23370,1684,1133,this month,2025-07-10
+manim,ManimCommunity,Python,33415,2342,1279,this month,2025-07-10
+manim,3b1b,Python,78786,6783,908,this month,2025-07-10
+register,is-a-dev,JavaScript,6667,12645,6,today,2025-07-10
+Sigma-Web-Dev-Course,CodeWithHarry,JavaScript,9244,2688,20,today,2025-07-10
+Fabric,danielmiessler,JavaScript,32501,3351,76,today,2025-07-10
+easy-dataset,ConardLi,JavaScript,9333,908,82,today,2025-07-10
+react,facebook,JavaScript,237128,48885,41,today,2025-07-10
+nuclei-templates,projectdiscovery,JavaScript,10437,2911,13,today,2025-07-10
+Font-Awesome,FortAwesome,JavaScript,75425,12214,6,today,2025-07-10
+svelte,sveltejs,JavaScript,83355,4560,19,today,2025-07-10
+bruno,usebruno,JavaScript,35478,1734,49,today,2025-07-10
+Chart.js,chartjs,JavaScript,66206,11952,15,today,2025-07-10
+axios,axios,JavaScript,107193,11162,12,today,2025-07-10
+gitlab-mcp,zereight,JavaScript,318,96,8,today,2025-07-10
+one-api,songquanpeng,JavaScript,26082,5282,31,today,2025-07-10
+overleaf,overleaf,JavaScript,16208,1663,119,today,2025-07-10
+Mobile-Security-Framework-MobSF,MobSF,JavaScript,18987,3408,11,today,2025-07-10
+drawdb,drawdb-io,JavaScript,31559,2253,739,this week,2025-07-10
+context7,upstash,JavaScript,19124,971,2048,this week,2025-07-10
+nginx-proxy-manager,NginxProxyManager,JavaScript,27411,3154,475,this week,2025-07-10
+three.js,mrdoob,JavaScript,107529,35881,530,this week,2025-07-10
+swagger-ui,swagger-api,JavaScript,27874,9149,317,this week,2025-07-10
+javascript-algorithms,trekhleb,JavaScript,192078,30743,487,this week,2025-07-10
+awesome-mac,jaywcjlove,JavaScript,84728,6593,380,this week,2025-07-10
+anything-llm,Mintplex-Labs,JavaScript,46301,4654,316,this week,2025-07-10
+label-studio,HumanSignal,JavaScript,23175,2877,375,this week,2025-07-10
+EasySpider,NaiboWang,JavaScript,40332,4935,1073,this week,2025-07-10
+3x-ui,MHSanaei,JavaScript,21275,4619,1246,this month,2025-07-10
+automatisch,automatisch,JavaScript,12539,916,3701,this month,2025-07-10
+webvm,leaningtech,JavaScript,14460,2603,1386,this month,2025-07-10
+javascript,airbnb,JavaScript,147053,26773,365,this month,2025-07-10
+brave-browser,brave,JavaScript,19676,2657,306,this month,2025-07-10
+whatsapp-web.js,pedroslopez,JavaScript,17306,4207,343,this month,2025-07-10
+marktext,marktext,JavaScript,50350,3688,440,this month,2025-07-10
+meshery,meshery,JavaScript,7494,2451,293,this month,2025-07-10
+spring-boot,spring-projects,Java,77722,41286,16,today,2025-07-10
+openapi-generator,OpenAPITools,Java,24197,7029,5,today,2025-07-10
+seatunnel,apache,Java,8633,2018,5,today,2025-07-10
+hadoop,apache,Java,15165,9067,5,today,2025-07-10
+rocketmq,apache,Java,21882,11897,1,today,2025-07-10
+media,androidx,Java,2287,560,2,today,2025-07-10
+thingsboard,thingsboard,Java,19315,5671,21,today,2025-07-10
+xxl-job,xuxueli,Java,28989,11242,8,today,2025-07-10
+Chat2DB,CodePhiliaX,Java,23580,2562,51,today,2025-07-10
+mybatis-3,mybatis,Java,20136,12941,3,today,2025-07-10
+spring-ai,spring-projects,Java,6051,1676,15,today,2025-07-10
+kafka,apache,Java,30434,14495,9,today,2025-07-10
+bazel,bazelbuild,Java,24284,4245,6,today,2025-07-10
+gravitino,apache,Java,1690,529,2,today,2025-07-10
+Shizuku-API,RikkaApps,Java,1449,427,4,today,2025-07-10
+Stirling-PDF,Stirling-Tools,Java,63196,5363,51,today,2025-07-10
+trino,trinodb,Java,11552,3253,4,today,2025-07-10
+DependencyCheck,dependency-check,Java,7046,1354,0,today,2025-07-10
+questdb,questdb,Java,15710,1436,365,this week,2025-07-10
+fluss,apache,Java,1299,345,51,this week,2025-07-10
+maven,apache,Java,4677,2751,24,this week,2025-07-10
+Grasscutter,Grasscutters,Java,16564,4438,24,this week,2025-07-10
+WxJava,binarywang,Java,31519,8916,77,this week,2025-07-10
+java-genai,googleapis,Java,140,35,11,this week,2025-07-10
+traccar,traccar,Java,6008,2832,37,this week,2025-07-10
+Telegram-X,TGX-Android,Java,4347,714,49,this week,2025-07-10
+ruoyi-vue-pro,YunaiV,Java,32158,6908,246,this week,2025-07-10
+tomcat,apache,Java,7870,5203,10,this week,2025-07-10
+spider-flow,ssssssss-team,Java,10526,2022,168,this week,2025-07-10
+supersonic,tencentmusic,Java,3950,777,40,this week,2025-07-10
+awesome-leetcode-resources,ashishps1,Java,11640,2652,221,this week,2025-07-10
+DSA-Bootcamp-Java,kunal-kushwaha,Java,19594,12182,102,this week,2025-07-10
+jdk,openjdk,Java,21318,6079,53,this week,2025-07-10
+JavaGuide,Snailclimb,Java,150725,45910,178,this week,2025-07-10
+android,nextcloud,Java,4700,1838,20,this week,2025-07-10
+Ehviewer_CN_SXJ,xiaojieonly,Java,18205,485,161,this week,2025-07-10
+keycloak,keycloak,Java,28158,7433,145,this week,2025-07-10
+Java,TheAlgorithms,Java,62330,20056,587,this month,2025-07-10
+termux-app,termux,Java,43022,4731,954,this month,2025-07-10
+kestra,kestra-io,Java,19669,1630,1344,this month,2025-07-10
+hello-algo,krahets,Java,114220,14147,1188,this month,2025-07-10
+revanced-patches,ReVanced,Java,3837,467,236,this month,2025-07-10
+Geyser,GeyserMC,Java,5143,742,109,this month,2025-07-10
+cloudstack,apache,Java,2447,1200,55,this month,2025-07-10
+SmartTube,yuliskov,Java,23542,1258,569,this month,2025-07-10
+syncthing-android,Catfriend1,Java,4235,135,352,this month,2025-07-10
+arthas,alibaba,Java,36460,7566,145,this month,2025-07-10
+BookLore,adityachandelgit,Java,2744,128,1767,this month,2025-07-10
+fabric-example-mod,FabricMC,Java,1890,1047,43,this month,2025-07-10
+OpenSearch,opensearch-project,Java,11093,2289,210,this month,2025-07-10
+oblivion,bepass-org,Java,4229,577,79,this month,2025-07-10
+FreeRTOS-Kernel,FreeRTOS,C,3339,1296,8,today,2025-07-10
+edk2,tianocore,C,5219,2790,6,today,2025-07-10
+zephyr,zephyrproject-rtos,C,12438,7608,4,today,2025-07-10
+civetweb,civetweb,C,3127,993,3,today,2025-07-10
+MeshCore,ripplebiz,C,718,104,9,today,2025-07-10
+OpenCorePkg,acidanthera,C,13999,2160,4,today,2025-07-10
+u-boot,u-boot,C,4533,3989,4,today,2025-07-10
+linux,raspberrypi,C,11838,5200,7,today,2025-07-10
+curl,curl,C,38272,6765,10,today,2025-07-10
+systemd,systemd,C,14357,4037,5,today,2025-07-10
+linux,torvalds,C,197347,56882,98,today,2025-07-10
+Flipper,UberGuidoZ,C,15528,3556,5,today,2025-07-10
+wasm-micro-runtime,bytecodealliance,C,5439,704,6,today,2025-07-10
+openwrt,openwrt,C,22983,11349,10,today,2025-07-10
+mbedtls,Mbed-TLS,C,5995,2727,3,today,2025-07-10
+sonic-buildimage,sonic-net,C,844,1584,0,today,2025-07-10
+sqlcipher,sqlcipher,C,6699,1311,2,today,2025-07-10
+raylib,raysan5,C,27144,2577,13,today,2025-07-10
+librdkafka,confluentinc,C,692,3211,2,today,2025-07-10
+Unity,ThrowTheSwitch,C,4595,1038,1,today,2025-07-10
+openvpn,OpenVPN,C,12104,3127,59,this week,2025-07-10
+lvgl,lvgl,C,20126,3703,80,this week,2025-07-10
+openssl,openssl,C,27924,10656,212,this week,2025-07-10
+php-src,php,C,39226,7908,45,this week,2025-07-10
+immortalwrt,immortalwrt,C,8396,2484,63,this week,2025-07-10
+nmap,nmap,C,11339,2572,38,this week,2025-07-10
+obs-studio,obsproject,C,65473,8538,188,this week,2025-07-10
+SDL,libsdl-org,C,12789,2241,93,this week,2025-07-10
+littlefs,littlefs-project,C,5982,878,40,this week,2025-07-10
+rtl_433,merbanan,C,6694,1416,27,this week,2025-07-10
+unleashed-firmware,DarkFlippers,C,19588,1621,54,this week,2025-07-10
+redis,redis,C,69948,24116,123,this week,2025-07-10
+winlator,brunodev85,C,13376,795,102,this week,2025-07-10
+SketchyBar,FelixKratz,C,9279,131,97,this week,2025-07-10
+libsql,tursodatabase,C,15150,407,145,this week,2025-07-10
+esp-idf,espressif,C,15760,7752,71,this week,2025-07-10
+tmux,tmux,C,38065,2220,142,this week,2025-07-10
+nginx,nginx,C,27399,7416,89,this week,2025-07-10
+TOTEM,GEIGEIGEIST,C,1365,183,23,this week,2025-07-10
+zapret,bol-van,C,11884,834,528,this month,2025-07-10
+scrcpy,Genymobile,C,124893,11686,1659,this month,2025-07-10
+rufus,pbatard,C,31995,2765,461,this month,2025-07-10
+darktable,darktable-org,C,11070,1203,181,this month,2025-07-10
+wazuh,wazuh,C,12865,1903,267,this month,2025-07-10
+betaflight,betaflight,C,9651,3300,163,this month,2025-07-10
+pgvector,pgvector,C,16465,810,485,this month,2025-07-10
+WindTerm,kingToolbox,C,27108,2097,580,this month,2025-07-10
+ExplorerPatcher,valinet,C,27963,1151,450,this month,2025-07-10
+ReZygisk,PerformanC,C,1612,162,316,this month,2025-07-10
+open-gpu-kernel-modules,NVIDIA,C,15971,1430,118,this month,2025-07-10
+timescaledb,timescale,C,19503,953,269,this month,2025-07-10
+clay,nicbarker,C,14772,561,516,this month,2025-07-10
+TDengine,taosdata,C,24084,4934,138,this month,2025-07-10
+Telegram-iOS,TelegramMessenger,C,6876,1906,82,this month,2025-07-10
+libimobiledevice,libimobiledevice,C,7154,1411,106,this month,2025-07-10
+duckdb,duckdb,C++,30862,2428,31,today,2025-07-10
+awesome-low-level-design,ashishps1,C++,16008,3941,51,today,2025-07-10
+camoufox,daijro,C++,2620,216,15,today,2025-07-10
+PX4-Autopilot,PX4,C++,9726,14178,10,today,2025-07-10
+folly,facebook,C++,29555,5722,3,today,2025-07-10
+KasmVNC,kasmtech,C++,4197,361,3,today,2025-07-10
+deskflow,deskflow,C++,18841,4086,72,today,2025-07-10
+envoy,envoyproxy,C++,26251,4999,7,today,2025-07-10
+cutlass,NVIDIA,C++,7822,1305,6,today,2025-07-10
+yaml-cpp,jbeder,C++,5546,1978,3,today,2025-07-10
+openvino,openvinotoolkit,C++,8552,2646,6,today,2025-07-10
+ORB_SLAM3,UZ-SLAMLab,C++,7451,2773,5,today,2025-07-10
+magic_enum,Neargye,C++,5527,494,4,today,2025-07-10
+Crow,CrowCpp,C++,4012,458,3,today,2025-07-10
+Mooncake,kvcache-ai,C++,3538,299,9,today,2025-07-10
+Catch2,catchorg,C++,19561,3121,5,today,2025-07-10
+tensorflow,tensorflow,C++,190680,74747,27,today,2025-07-10
+whisper.cpp,ggml-org,C++,41414,4438,35,today,2025-07-10
+composable_kernel,ROCm,C++,436,208,0,today,2025-07-10
+PlotJuggler,facontidavide,C++,5149,688,7,today,2025-07-10
+re2,google,C++,9342,1164,0,today,2025-07-10
+librealsense,IntelRealSense,C++,8032,4873,4,today,2025-07-10
+perfetto,google,C++,4327,510,153,this week,2025-07-10
+carbon-lang,carbon-language,C++,33038,1500,85,this week,2025-07-10
+desktop,zen-browser,C++,34187,960,538,this week,2025-07-10
+ncnn,Tencent,C++,21765,4284,54,this week,2025-07-10
+thorium,Alex313031,C++,6183,200,286,this week,2025-07-10
+OpenHashTab,namazso,C++,4049,178,38,this week,2025-07-10
+llama.cpp,ggml-org,C++,82811,12310,346,this week,2025-07-10
+ESP32Marauder,justcallmekoko,C++,7972,868,72,this week,2025-07-10
+Parabolic,NickvisionApps,C++,3017,138,130,this week,2025-07-10
+nekoray,Mahdi-zarei,C++,1543,92,98,this week,2025-07-10
+sherpa-onnx,k2-fsa,C++,6636,766,74,this week,2025-07-10
+Millennium,SteamClientHomebrew,C++,2002,59,28,this week,2025-07-10
+3FS,deepseek-ai,C++,9131,915,53,this week,2025-07-10
+opencv,opencv,C++,82992,56214,151,this week,2025-07-10
+colmap,colmap,C++,8942,1685,52,this week,2025-07-10
+JoltPhysics,jrouwe,C++,8118,548,45,this week,2025-07-10
+x64dbg,x64dbg,C++,46469,2564,86,this week,2025-07-10
+godot,godotengine,C++,98761,22756,255,this week,2025-07-10
+llamafile,Mozilla-Ocho,C++,22751,1198,61,this week,2025-07-10
+shadPS4,shadps4-emu,C++,23013,1462,120,this week,2025-07-10
+Hyprland,hyprwm,C++,26833,1141,281,this week,2025-07-10
+firmware,meshtastic,C++,5056,1322,225,this month,2025-07-10
+NotepadNext,dail8859,C++,11761,698,1376,this month,2025-07-10
+pcsx2,PCSX2,C++,13204,1724,180,this month,2025-07-10
+RTranslator,niedev,C++,8796,777,814,this month,2025-07-10
+amnezia-client,amnezia-vpn,C++,7435,483,256,this month,2025-07-10
+dragonfly,dragonflydb,C++,28479,1055,318,this month,2025-07-10
+notepad-plus-plus,notepad-plus-plus,C++,25098,4874,322,this month,2025-07-10
+TensorRT-LLM,NVIDIA,C++,10972,1570,297,this month,2025-07-10
+C-Plus-Plus,TheAlgorithms,C++,32333,7427,471,this month,2025-07-10
+YimMenuV2,YimMenu,C++,507,128,214,this month,2025-07-10
+mlx,ml-explore,C++,21367,1261,538,this month,2025-07-10
+tt-metal,tenstorrent,C++,987,219,81,this month,2025-07-10
+Paddle,PaddlePaddle,C++,23020,5767,183,this month,2025-07-10
+duckstation,stenzek,C++,8468,751,130,this month,2025-07-10
+isle-portable,isledecomp,C++,803,74,640,this month,2025-07-10
+unitree_sdk2,unitreerobotics,C++,524,153,57,this month,2025-07-10
+fprime,nasa,C++,10367,1394,51,this month,2025-07-10
+typesense,typesense,C++,23816,786,662,this month,2025-07-10
+NSMB-MarioVsLuigi,ipodtouch0218,C#,825,324,19,today,2025-07-10
+PowerToys,microsoft,C#,120762,7168,65,today,2025-07-10
+semantic-kernel,microsoft,C#,25353,4043,21,today,2025-07-10
+spectre.console,spectreconsole,C#,10393,569,7,today,2025-07-10
+CleanArchitecture,jasontaylordev,C#,18483,3906,8,today,2025-07-10
+DotNetGuide,YSGStudyHards,C#,8767,1283,19,today,2025-07-10
+git-credential-manager,git-ecosystem,C#,7827,2193,8,today,2025-07-10
+azure-sdk-for-net,Azure,C#,5811,4995,1,today,2025-07-10
+runtime,dotnet,C#,16616,5079,7,today,2025-07-10
+MudBlazor,MudBlazor,C#,9274,1467,4,today,2025-07-10
+radzen-blazor,radzenhq,C#,4010,893,5,today,2025-07-10
+abp,abpframework,C#,13614,3577,2,today,2025-07-10
+ToastFish,Uahh,C#,5924,471,6,today,2025-07-10
+NBTExplorer,jaquadro,C#,2594,312,1,today,2025-07-10
+server,bitwarden,C#,16806,1416,1,today,2025-07-10
+wpfui,lepoco,C#,8540,853,7,today,2025-07-10
+RevokeMsgPatcher,huiyadanli,C#,33410,3703,15,today,2025-07-10
+ml-agents,Unity-Technologies,C#,18374,4302,10,today,2025-07-10
+openai-dotnet,openai,C#,2129,287,5,today,2025-07-10
+eShop,dotnet,C#,8390,2817,7,today,2025-07-10
+ShareX,ShareX,C#,32977,3415,6,today,2025-07-10
+openiddict-core,openiddict,C#,4854,560,7,today,2025-07-10
+azure-powershell,Azure,C#,4485,4017,2,today,2025-07-10
+sourcegit,sourcegit-scm,C#,2585,240,6,today,2025-07-10
+Bulk-Crap-Uninstaller,Klocman,C#,15223,697,127,this week,2025-07-10
+Avalonia,AvaloniaUI,C#,28116,2430,82,this week,2025-07-10
+elsa-core,elsa-workflows,C#,7170,1358,21,this week,2025-07-10
+N_m3u8DL-RE,nilaoda,C#,6093,642,50,this week,2025-07-10
+DnsServer,TechnitiumSoftware,C#,5754,498,86,this week,2025-07-10
+AssetRipper,AssetRipper,C#,5477,677,49,this week,2025-07-10
+ET,egametang,C#,9361,3167,19,this week,2025-07-10
+Kavita,Kareadita,C#,8306,456,65,this week,2025-07-10
+ILSpy,icsharpcode,C#,23272,3500,73,this week,2025-07-10
+csharplang,dotnet,C#,12144,1053,25,this week,2025-07-10
+duplicati,duplicati,C#,12853,976,44,this week,2025-07-10
+Lidarr,Lidarr,C#,4259,289,24,this week,2025-07-10
+mcp-unity,CoderGamester,C#,740,92,39,this week,2025-07-10
+ExplorerTabUtility,w4po,C#,1212,25,93,this week,2025-07-10
+UniTask,Cysharp,C#,9579,921,43,this week,2025-07-10
+maui-samples,dotnet,C#,3438,1411,9,this week,2025-07-10
+CleanArchitecture,ardalis,C#,17209,2945,27,this week,2025-07-10
+maui,dotnet,C#,22782,1856,17,this week,2025-07-10
+YoutubeDownloader,Tyrrrz,C#,12199,1572,488,this month,2025-07-10
+PowerShell,PowerShell,C#,47940,7708,409,this month,2025-07-10
+v2rayN,2dust,C#,82774,12898,1876,this month,2025-07-10
+Lean,QuantConnect,C#,11756,3579,262,this month,2025-07-10
+better-genshin-impact,babalae,C#,9386,615,695,this month,2025-07-10
+Flyby11,builtbybel,C#,2241,146,327,this month,2025-07-10
+osu,ppy,C#,16864,2467,205,this month,2025-07-10
+PEASS-ng,peass-ng,C#,17877,3253,239,this month,2025-07-10
+DevToys,DevToys-app,C#,29327,1594,360,this month,2025-07-10
+UndertaleModTool,UnderminersTeam,C#,1496,277,84,this month,2025-07-10
+UIEffect,mob-sakai,C#,6509,851,105,this month,2025-07-10
+lively,rocksdanister,C#,16644,1142,208,this month,2025-07-10
+SwarmUI,mcmonkeyprojects,C#,2818,258,185,this month,2025-07-10
+g-helper,seerge,C#,10301,368,353,this month,2025-07-10
+FModel,4sval,C#,2123,325,99,this month,2025-07-10
+Playnite,JosefNemec,C#,10983,547,238,this month,2025-07-10
+opentelemetry-collector,open-telemetry,Go,5380,1677,7,today,2025-07-10
+go-whatsapp-web-multidevice,aldinokemal,Go,1888,482,75,today,2025-07-10
+alloy,grafana,Go,2228,366,4,today,2025-07-10
+github-mcp-server,github,Go,17121,1304,76,today,2025-07-10
+mediamtx,bluenviron,Go,15048,1832,11,today,2025-07-10
+gofr,gofr-dev,Go,11969,1744,105,today,2025-07-10
+argo-cd,argoproj,Go,20029,6160,8,today,2025-07-10
+loki,grafana,Go,25948,3712,6,today,2025-07-10
+telegraf,influxdata,Go,15741,5657,3,today,2025-07-10
+sonic,bytedance,Go,8377,398,15,today,2025-07-10
+memos,usememos,Go,42626,3036,61,today,2025-07-10
+nuclei,projectdiscovery,Go,23952,2804,25,today,2025-07-10
+aibrix,vllm-project,Go,3898,391,10,today,2025-07-10
+grpc-gateway,grpc-ecosystem,Go,19367,2322,3,today,2025-07-10
+trivy,aquasecurity,Go,27428,2618,12,today,2025-07-10
+optimism,ethereum-optimism,Go,6124,3628,0,today,2025-07-10
+volcano,volcano-sh,Go,4814,1152,4,today,2025-07-10
+go2rtc,AlexxIT,Go,9299,687,10,today,2025-07-10
+fiber,gofiber,Go,37085,1821,4,today,2025-07-10
+wails,wailsapp,Go,29016,1413,157,this week,2025-07-10
+frp,fatedier,Go,96037,14203,332,this week,2025-07-10
+openbao,openbao,Go,4096,227,55,this week,2025-07-10
+lago,getlago,Go,7888,402,78,this week,2025-07-10
+ntfy,binwiederhier,Go,24923,979,638,this week,2025-07-10
+tidb,pingcap,Go,38706,5969,46,this week,2025-07-10
+rule,qichiyuhub,Go,544,536,52,this week,2025-07-10
+observability-zero-to-hero,iam-veeramalla,Go,2230,3437,38,this week,2025-07-10
+CloudflareSpeedTest,XIU2,Go,22197,4381,160,this week,2025-07-10
+vitess,vitessio,Go,19828,2217,72,this week,2025-07-10
+nightingale,ccfos,Go,11139,1536,75,this week,2025-07-10
+frankenphp,php,Go,9626,351,1645,this month,2025-07-10
+cloudreve,cloudreve,Go,23998,3619,696,this month,2025-07-10
+buildkit,moby,Go,9194,1264,398,this month,2025-07-10
+sing-box,SagerNet,Go,24956,2947,847,this month,2025-07-10
+awesome-go,avelino,Go,147034,12391,2079,this month,2025-07-10
+Xray-core,XTLS,Go,29851,4403,900,this month,2025-07-10
+filebrowser,filebrowser,Go,30235,3387,916,this month,2025-07-10
+netbird,netbirdio,Go,17064,789,1813,this month,2025-07-10
+cli,cli,Go,39787,6748,481,this month,2025-07-10
+gitleaks,gitleaks,Go,21425,1674,1283,this month,2025-07-10
+kubernetes,kubernetes,Go,116243,40921,749,this month,2025-07-10
+livekit,livekit,Go,13312,1239,451,this month,2025-07-10
+gitea,go-gitea,Go,49503,5907,580,this month,2025-07-10
+v2ray-core,v2fly,Go,31436,4843,283,this month,2025-07-10
+bubbletea,charmbracelet,Go,33044,934,1041,this month,2025-07-10
+wireguard-go,WireGuard,Go,3587,1233,87,this month,2025-07-10
+n8n,n8n-io,TypeScript,116753,34795,377,today,2025-07-10
+12-factor-agents,humanlayer,TypeScript,8069,503,709,today,2025-07-10
+playwright-mcp,microsoft,TypeScript,14343,1014,78,today,2025-07-10
+youtube-music,th-ch,TypeScript,25568,1384,267,today,2025-07-10
+angular,angular,TypeScript,98270,26389,7,today,2025-07-10
+superset,apache,TypeScript,67037,15294,55,today,2025-07-10
+eliza,elizaOS,TypeScript,16339,5266,29,today,2025-07-10
+whispering,braden-w,TypeScript,914,77,50,today,2025-07-10
+checkout,actions,TypeScript,6694,2052,7,today,2025-07-10
+BiliTools,btjawa,TypeScript,2510,170,171,today,2025-07-10
+grafana,grafana,TypeScript,68905,12759,23,today,2025-07-10
+webstudio,webstudio-is,TypeScript,7266,1134,43,today,2025-07-10
+vitepress,vuejs,TypeScript,15215,2413,12,today,2025-07-10
+bknd,bknd-io,TypeScript,1920,52,68,today,2025-07-10
+Cap,CapSoftware,TypeScript,10277,633,28,today,2025-07-10
+tech-interview-handbook,yangshun,TypeScript,127515,15539,32,today,2025-07-10
+motia,MotiaDev,TypeScript,3816,311,1005,this week,2025-07-10
+profile-readme-generator,maurodesouza,TypeScript,2223,483,126,this week,2025-07-10
+omni-tools,iib0011,TypeScript,4927,237,964,this week,2025-07-10
+LibreChat,danny-avila,TypeScript,27809,4961,449,this week,2025-07-10
+AFFiNE,toeverything,TypeScript,52988,3535,851,this week,2025-07-10
+UI-TARS-desktop,bytedance,TypeScript,15109,1345,180,this week,2025-07-10
+metamask-extension,MetaMask,TypeScript,12657,5231,29,this week,2025-07-10
+midday,midday-ai,TypeScript,9053,852,1114,this month,2025-07-10
+base-ui,mui,TypeScript,4707,184,1823,this month,2025-07-10
+clash-verge-rev,clash-verge-rev,TypeScript,64841,4911,4037,this month,2025-07-10
+Flowise,FlowiseAI,TypeScript,41293,21168,1572,this month,2025-07-10
+note-gen,codexu,TypeScript,6154,399,1795,this month,2025-07-10
+effect,Effect-TS,TypeScript,10427,355,1136,this month,2025-07-10
+jsoncrack.com,AykutSarac,TypeScript,39352,2633,1677,this month,2025-07-10
+n8n-mcp-server,leonardsellem,TypeScript,809,136,430,this month,2025-07-10
+firecrawl,mendableai,TypeScript,42731,4022,3145,this month,2025-07-10
+tweakcn,jnsahaj,TypeScript,5420,284,1802,this month,2025-07-10
+dioxus,DioxusLabs,Rust,29431,1217,40,today,2025-07-10
+refact,smallcloudai,Rust,2846,238,24,today,2025-07-10
+rustdesk,rustdesk,Rust,92403,13436,79,today,2025-07-10
+goose,block,Rust,15720,1328,59,today,2025-07-10
+influxdb,influxdata,Rust,30301,3626,7,today,2025-07-10
+biome,biomejs,Rust,20019,633,54,today,2025-07-10
+rig,0xPlaygrounds,Rust,3930,420,8,today,2025-07-10
+pingora,cloudflare,Rust,24569,1429,13,today,2025-07-10
+reth,paradigmxyz,Rust,4786,1700,4,today,2025-07-10
+boundless,boundless-xyz,Rust,87,69,6,today,2025-07-10
+risingwave,risingwavelabs,Rust,7971,657,6,today,2025-07-10
+stalwart,stalwartlabs,Rust,9037,447,27,today,2025-07-10
+mistral.rs,EricLBuehler,Rust,5849,429,27,today,2025-07-10
+greptimedb,GreptimeTeam,Rust,5368,390,7,today,2025-07-10
+solana-program-library,solana-labs,Rust,4001,2309,4,today,2025-07-10
+tokio,tokio-rs,Rust,29024,2683,12,today,2025-07-10
+turso,tursodatabase,Rust,11914,450,532,this week,2025-07-10
+ZLUDA,vosen,Rust,12531,782,916,this week,2025-07-10
+hyperswitch,juspay,Rust,21983,3913,914,this week,2025-07-10
+EasyTier,EasyTier,Rust,5556,478,178,this week,2025-07-10
+convex-backend,get-convex,Rust,5649,293,226,this week,2025-07-10
+baml,BoundaryML,Rust,4555,197,227,this week,2025-07-10
+vaultwarden,dani-garcia,Rust,46557,2196,322,this week,2025-07-10
+tauri,tauri-apps,Rust,94397,2949,283,this week,2025-07-10
+just,casey,Rust,26412,563,167,this week,2025-07-10
+jj,jj-vcs,Rust,17217,576,413,this week,2025-07-10
+archgw,katanemo,Rust,3078,170,89,this week,2025-07-10
+lance,lancedb,Rust,5017,385,84,this week,2025-07-10
+zellij,zellij-org,Rust,25085,766,265,this week,2025-07-10
+tfhe-rs,zama-ai,Rust,1302,215,40,this week,2025-07-10
+rust,rust-lang,Rust,104926,13520,203,this week,2025-07-10
+Graphite,GraphiteEditor,Rust,18795,789,1202,this week,2025-07-10
+warpgate,warp-tech,Rust,4864,151,61,this week,2025-07-10
+amazon-q-developer-cli,aws,Rust,1010,178,76,this week,2025-07-10
+embassy,embassy-rs,Rust,7065,1100,60,this week,2025-07-10
+uv,astral-sh,Rust,60927,1743,857,this week,2025-07-10
+tensorzero,tensorzero,Rust,8519,537,2711,this month,2025-07-10
+niri,YaLTeR,Rust,9517,334,1592,this month,2025-07-10
+slint,slint-ui,Rust,19804,701,494,this month,2025-07-10
+harper,Automattic,Rust,6702,161,2279,this month,2025-07-10
+Seelen-UI,eythaann,Rust,9763,308,2475,this month,2025-07-10
+oxc,oxc-project,Rust,15595,608,958,this month,2025-07-10
+awesome-rust,rust-unofficial,Rust,51404,2963,729,this month,2025-07-10
+typst,typst,Rust,43875,1170,2141,this month,2025-07-10
+rerun,rerun-io,Rust,8818,487,288,this month,2025-07-10
+surrealdb,surrealdb,Rust,29606,1009,284,this month,2025-07-10
+egui,emilk,Rust,25677,1775,640,this month,2025-07-10
+firecracker,firecracker-microvm,Rust,28461,1974,361,this month,2025-07-10
+canine,czhu12,Ruby,2055,74,31,today,2025-07-10
+homebrew-core,Homebrew,Ruby,14456,12910,1,today,2025-07-10
+huginn,huginn,Ruby,46682,4023,18,today,2025-07-10
+faker,faker-ruby,Ruby,11379,3181,3,today,2025-07-10
+maybe,maybe-finance,Ruby,44928,3317,25,today,2025-07-10
+fastlane,fastlane,Ruby,40338,5901,12,today,2025-07-10
+otwarchive,otwcode,Ruby,1582,576,1,today,2025-07-10
+brew,Homebrew,Ruby,44168,10331,10,today,2025-07-10
+gollum,gollum,Ruby,14062,1559,11,today,2025-07-10
+devise,heartcombo,Ruby,24209,5537,9,today,2025-07-10
+docuseal,docusealco,Ruby,9349,696,5,today,2025-07-10
+openstreetmap-website,openstreetmap,Ruby,2435,978,4,today,2025-07-10
+mastodon,mastodon,Ruby,48560,7208,8,today,2025-07-10
+chatwoot,chatwoot,Ruby,24403,4841,27,today,2025-07-10
+dd-trace-rb,DataDog,Ruby,363,394,0,today,2025-07-10
+canvas-lms,instructure,Ruby,6084,2707,5,today,2025-07-10
+postal,postalserver,Ruby,15669,1136,2,today,2025-07-10
+ruby,ruby,Ruby,22740,5434,4,today,2025-07-10
+flexile,antiwork,Ruby,540,163,5,today,2025-07-10
+discourse,discourse,Ruby,44495,8566,14,today,2025-07-10
+dependabot-core,dependabot,Ruby,5122,1143,2,today,2025-07-10
+rails,rails,Ruby,57061,21865,7,today,2025-07-10
+ruby-advisory-db,rubysec,Ruby,1033,222,0,today,2025-07-10
+openproject,opf,Ruby,11443,2659,91,this week,2025-07-10
+devdocs,freeCodeCamp,Ruby,36531,2437,48,this week,2025-07-10
+redmine,redmine,Ruby,5673,2373,14,this week,2025-07-10
+zammad,zammad,Ruby,4940,838,12,this week,2025-07-10
+liquid,Shopify,Ruby,11409,1465,10,this week,2025-07-10
+jekyll,jekyll,Ruby,50306,10138,36,this week,2025-07-10
+lobsters,lobsters,Ruby,4358,883,11,this week,2025-07-10
+styles,citation-style-language,Ruby,3531,3914,4,this week,2025-07-10
+endoflife.date,endoflife-date,Ruby,2872,957,15,this week,2025-07-10
+Dress,Cute-Dress,Ruby,1537,260,13,this week,2025-07-10
+gitlabhq,gitlabhq,Ruby,24026,5754,15,this week,2025-07-10
+demo,dependabot,Ruby,231,3212,3,this week,2025-07-10
+newrelic-ruby-agent,newrelic,Ruby,1201,609,0,this week,2025-07-10
+gem_rbs_collection,ruby,Ruby,282,125,0,this week,2025-07-10
+gumroad,antiwork,Ruby,6397,1027,395,this month,2025-07-10
+engineering-blogs,kilimchoi,Ruby,34740,1826,1582,this month,2025-07-10
+ruby-sdk,modelcontextprotocol,Ruby,297,42,112,this month,2025-07-10
+linguist,github-linguist,Ruby,12863,4577,96,this month,2025-07-10
+explore,github,Ruby,4447,13301,30,this month,2025-07-10
+homebrew-cask,Homebrew,Ruby,21444,11004,70,this month,2025-07-10
+aws-sdk-ruby,aws,Ruby,3619,1222,8,this month,2025-07-10
+solid_queue,rails,Ruby,2147,182,25,this month,2025-07-10
+remote-working,greatghoul,Ruby,10959,868,89,this month,2025-07-10
+choosealicense.com,github,Ruby,3875,1427,25,this month,2025-07-10
+vagrant,hashicorp,Ruby,26764,4443,85,this month,2025-07-10
+metasploit-framework,rapid7,Ruby,35877,14396,228,this month,2025-07-10
+LiquidBounce,CCBlueX,Kotlin,1820,546,6,today,2025-07-10
+Manager,Aliucord,Kotlin,316,46,5,today,2025-07-10
+Calendar,FossifyOrg,Kotlin,1295,94,4,today,2025-07-10
+kotlin,JetBrains,Kotlin,50911,5959,6,today,2025-07-10
+architecture-samples,android,Kotlin,45150,11776,5,today,2025-07-10
+aniyomi-extensions,yuzono,Kotlin,104,19,2,today,2025-07-10
+Meshtastic-Android,meshtastic,Kotlin,952,276,3,today,2025-07-10
+reader,hectorqin,Kotlin,9750,5372,4,today,2025-07-10
+mockk,mockk,Kotlin,5595,374,2,today,2025-07-10
+aniyomi,aniyomiorg,Kotlin,6093,414,11,today,2025-07-10
+legado,gedoor,Kotlin,37693,4453,43,today,2025-07-10
+ksp,google,Kotlin,3148,323,1,today,2025-07-10
+nowinandroid,android,Kotlin,19130,3681,19,today,2025-07-10
+koin,InsertKoinIO,Kotlin,9535,747,7,today,2025-07-10
+Android,duckduckgo,Kotlin,4194,999,1,today,2025-07-10
+detekt,detekt,Kotlin,6575,802,3,today,2025-07-10
+chains,ethereum-lists,Kotlin,9747,7373,1,today,2025-07-10
+Calendar,kizitonwose,Kotlin,5219,545,1,today,2025-07-10
+p3c,alibaba,Kotlin,30674,8072,2,today,2025-07-10
+android,home-assistant,Kotlin,2842,765,23,this week,2025-07-10
+Magisk,topjohnwu,Kotlin,54240,14252,228,this week,2025-07-10
+Signal-Android,signalapp,Kotlin,27289,6458,62,this week,2025-07-10
+florisboard,florisboard,Kotlin,7188,467,39,this week,2025-07-10
+Exposed,JetBrains,Kotlin,8839,737,18,this week,2025-07-10
+fanqiang,bannedbook,Kotlin,40034,7367,65,this week,2025-07-10
+BiliRoamingX,BiliRoamingX,Kotlin,3068,219,32,this week,2025-07-10
+ktor,ktorio,Kotlin,13758,1158,36,this week,2025-07-10
+animeko,open-ani,Kotlin,8393,206,344,this week,2025-07-10
+quickstart-android,firebase,Kotlin,9098,7381,10,this week,2025-07-10
+InstallWithOptions,zacharee,Kotlin,1714,80,29,this week,2025-07-10
+Metrolist,mostafaalagamy,Kotlin,1774,92,131,this week,2025-07-10
+Kotatsu,KotatsuApp,Kotlin,6005,255,61,this week,2025-07-10
+APatch,bmax121,Kotlin,5960,495,60,this week,2025-07-10
+Maestro,mobile-dev-inc,Kotlin,8114,413,105,this week,2025-07-10
+ByeDPIAndroid,dovecoteescapee,Kotlin,4245,238,34,this week,2025-07-10
+MiceWine-Application,KreitinnSoftware,Kotlin,1023,50,19,this week,2025-07-10
+Auxio,OxygenCobalt,Kotlin,2807,190,50,this week,2025-07-10
+v2rayNG,2dust,Kotlin,42522,6153,1131,this month,2025-07-10
+quarkdown,iamgio,Kotlin,8411,178,2995,this month,2025-07-10
+gkd,gkd-kit,Kotlin,29439,1451,1374,this month,2025-07-10
+ImageToolbox,T8RIN,Kotlin,8723,379,1119,this month,2025-07-10
+breezy-weather,breezy-weather,Kotlin,7492,247,367,this month,2025-07-10
+Android-Native-Root-Detector,reveny,Kotlin,607,75,158,this month,2025-07-10
+Shizuku,RikkaApps,Kotlin,15510,986,717,this month,2025-07-10
+android,bitwarden,Kotlin,7527,875,141,this month,2025-07-10
+Anki-Android,ankidroid,Kotlin,9723,2472,123,this month,2025-07-10
+NekoBoxForAndroid,MatsuriDayo,Kotlin,14876,1226,448,this month,2025-07-10
+okhttp,square,Kotlin,46509,9220,116,this month,2025-07-10
+KernelSU,tiann,Kotlin,12949,2469,332,this month,2025-07-10
+mihon,mihonapp,Kotlin,14487,656,586,this month,2025-07-10
+extensions-source,keiyoushi,Kotlin,2960,713,98,this month,2025-07-10
+Smart-AutoClicker,Nain57,Kotlin,2572,453,106,this month,2025-07-10
+filament,filamentphp,PHP,24766,3577,31,today,2025-07-10
+wallabag,wallabag,PHP,11719,818,27,today,2025-07-10
+magento2,magento,PHP,11848,9394,1,today,2025-07-10
+dolibarr,Dolibarr,PHP,6251,3008,7,today,2025-07-10
+snipe-it,grokability,PHP,12436,3460,13,today,2025-07-10
+framework,laravel,PHP,33802,11440,11,today,2025-07-10
+elementor,elementor,PHP,6701,1464,0,today,2025-07-10
+PHP-CS-Fixer,PHP-CS-Fixer,PHP,13243,1604,3,today,2025-07-10
+pint,laravel,PHP,2949,158,4,today,2025-07-10
+glpi,glpi-project,PHP,4941,1417,10,today,2025-07-10
+rector,rectorphp,PHP,9783,722,7,today,2025-07-10
+woocommerce,woocommerce,PHP,9852,10762,5,today,2025-07-10
+composer,composer,PHP,29036,4655,3,today,2025-07-10
+larastan,larastan,PHP,5985,459,2,today,2025-07-10
+dujiaoka,assimon,PHP,10747,2493,7,today,2025-07-10
+wordpress-develop,WordPress,PHP,2808,2961,4,today,2025-07-10
+drush,drush-ops,PHP,2359,1095,0,today,2025-07-10
+readme-typing-svg,DenverCoder1,PHP,7163,1224,11,today,2025-07-10
+PocketMine-MP,pmmp,PHP,3402,1596,2,today,2025-07-10
+mapos,RamonSilva20,PHP,984,639,2,today,2025-07-10
+Xboard,cedar2025,PHP,2936,756,4,today,2025-07-10
+speedtest-tracker,alexjustesen,PHP,3984,140,75,this week,2025-07-10
+countries-states-cities-database,dr5hn,PHP,8503,2809,47,this week,2025-07-10
+server,nextcloud,PHP,30114,4338,88,this week,2025-07-10
+koel,koel,PHP,16561,2020,24,this week,2025-07-10
+BookStack,BookStackApp,PHP,16924,2140,51,this week,2025-07-10
+mautic,mautic,PHP,8299,2901,32,this week,2025-07-10
+bagisto,bagisto,PHP,19725,2550,177,this week,2025-07-10
+moukthar,Tomiwa-Ot,PHP,590,146,41,this week,2025-07-10
+SecLists,danielmiessler,PHP,64037,24470,184,this week,2025-07-10
+2FAuth,Bubka,PHP,2899,200,40,this week,2025-07-10
+solidtime,solidtime-io,PHP,7084,363,46,this week,2025-07-10
+coolify,coollabsio,PHP,43239,2697,212,this week,2025-07-10
+all-in-one,nextcloud,PHP,7343,812,59,this week,2025-07-10
+matomo,matomo-org,PHP,20654,2735,28,this week,2025-07-10
+panel,pterodactyl,PHP,7816,2141,170,this month,2025-07-10
+laravel-crm,krayin,PHP,15700,1106,692,this month,2025-07-10
+github-readme-streak-stats,DenverCoder1,PHP,5766,948,123,this month,2025-07-10
+PrestaShop,PrestaShop,PHP,8640,4943,58,this month,2025-07-10
+Wallos,ellite,PHP,5607,240,674,this month,2025-07-10
+monica,monicahq,PHP,23082,2324,252,this month,2025-07-10
+roundcubemail,roundcube,PHP,6380,1689,79,this month,2025-07-10
+openemr,openemr,PHP,3546,2413,50,this month,2025-07-10
+swift-composable-architecture,pointfreeco,Swift,13457,1549,2,today,2025-07-10
+XcodeGen,yonaskolb,Swift,7513,840,19,today,2025-07-10
+SwiftLint,realm,Swift,19077,2259,5,today,2025-07-10
+Alamofire,Alamofire,Swift,41980,7620,5,today,2025-07-10
+swift-package-manager,swiftlang,Swift,9965,1405,3,today,2025-07-10
+swift-syntax,swiftlang,Swift,3466,442,2,today,2025-07-10
+swift-snapshot-testing,pointfreeco,Swift,3969,629,1,today,2025-07-10
+Kingfisher,onevcat,Swift,23933,2714,8,today,2025-07-10
+apollo-ios,apollographql,Swift,3957,750,0,today,2025-07-10
+swift-collections,apple,Swift,4121,333,5,today,2025-07-10
+Applite,milanvarady,Swift,5183,122,11,today,2025-07-10
+swift-nio,apple,Swift,8189,687,1,today,2025-07-10
+Charts,ChartsOrg,Swift,27903,6043,2,today,2025-07-10
+swiftui-introspect,siteline,Swift,6161,381,4,today,2025-07-10
+RxSwift,ReactiveX,Swift,24615,4188,5,today,2025-07-10
+swift-markdown-ui,gonzalezreal,Swift,3300,426,2,today,2025-07-10
+GRDB.swift,groue,Swift,7612,765,4,today,2025-07-10
+Delta,rileytestut,Swift,5449,410,25,today,2025-07-10
+swift-system,apple,Swift,1272,119,3,today,2025-07-10
+AltStore,altstoreio,Swift,12622,1069,5,today,2025-07-10
+tuist,tuist,Swift,5140,636,6,today,2025-07-10
+awesome-ios,vsouza,Swift,49336,6912,81,this week,2025-07-10
+AudioKit,AudioKit,Swift,11053,1593,18,this week,2025-07-10
+mlx-swift-examples,ml-explore,Swift,1943,270,29,this week,2025-07-10
+ios,nextcloud,Swift,2148,933,4,this week,2025-07-10
+OnlySwitch,jacklandrin,Swift,4939,215,53,this week,2025-07-10
+AeroSpace,nikitabobko,Swift,13786,279,195,this week,2025-07-10
+firefox-ios,mozilla-mobile,Swift,12607,3062,9,this week,2025-07-10
+react-native-video,TheWidlarzGroup,Swift,7447,2974,16,this week,2025-07-10
+facebook-ios-sdk,facebook,Swift,7900,3622,2,this week,2025-07-10
+VoiceInk,Beingpax,Swift,1057,129,68,this week,2025-07-10
+Amethyst,ianyh,Swift,15490,498,30,this week,2025-07-10
+alt-tab-macos,lwouis,Swift,12805,381,55,this week,2025-07-10
+CodeEdit,CodeEditApp,Swift,21936,1104,29,this week,2025-07-10
+CopilotForXcode,github,Swift,4358,827,203,this month,2025-07-10
+IceCubesApp,Dimillian,Swift,6391,622,177,this month,2025-07-10
+Feather,khcrysalis,Swift,2474,192,246,this month,2025-07-10
+Ice,jordanbaird,Swift,20399,376,813,this month,2025-07-10
+vapor,vapor,Swift,25376,1490,173,this month,2025-07-10
+Bark,Finb,Swift,6267,507,125,this month,2025-07-10
+AlDente-Battery_Care_and_Monitoring,AppHouseKitchen,Swift,8527,315,128,this month,2025-07-10
+PlayCover,PlayCover,Swift,9708,809,155,this month,2025-07-10
+XcodesApp,XcodesOrg,Swift,7750,336,175,this month,2025-07-10
+Rectangle,rxhanson,Swift,27226,837,199,this month,2025-07-10
+ente,ente-io,Dart,20432,1162,117,today,2025-07-10
+flutter,flutter,Dart,171316,28830,19,today,2025-07-10
+movie,waifu-project,Dart,255,50,8,today,2025-07-10
+packages,flutter,Dart,4774,3354,4,today,2025-07-10
+Cashew,jameskokoska,Dart,3115,461,9,today,2025-07-10
+gopeed,GopeedLab,Dart,19504,1343,23,today,2025-07-10
+BloomeeTunes,HemantKArya,Dart,821,70,6,today,2025-07-10
+cake_wallet,cake-tech,Dart,1085,245,1,today,2025-07-10
+samples,flutter,Dart,18370,7751,4,today,2025-07-10
+flutter_inappwebview,pichillilorenzo,Dart,3561,1875,1,today,2025-07-10
+KazumiRules,Predidit,Dart,708,45,5,today,2025-07-10
+Kazumi,Predidit,Dart,12600,331,66,today,2025-07-10
+riverpod,rrousselGit,Dart,6750,1003,1,today,2025-07-10
+getx,jonataslaw,Dart,10926,1677,5,today,2025-07-10
+flutter_local_notifications,MaikuB,Dart,2591,1495,2,today,2025-07-10
+AppFlowy,AppFlowy-IO,Dart,64340,4423,29,today,2025-07-10
+flutter_file_picker,miguelpruivo,Dart,1455,780,0,today,2025-07-10
+sdk,dart-lang,Dart,10682,1665,3,today,2025-07-10
+FlClash,chen08209,Dart,18916,1129,36,today,2025-07-10
+flutter_chat_ui,flyerhq,Dart,1939,787,3,today,2025-07-10
+finamp,jmshrv,Dart,2826,175,5,today,2025-07-10
+Obtainium,ImranR98,Dart,11674,278,121,this week,2025-07-10
+pilipala,guozhigq,Dart,11493,607,304,this week,2025-07-10
+karing,KaringX,Dart,5788,496,94,this week,2025-07-10
+Harmony-Music,anandnet,Dart,2163,179,54,this week,2025-07-10
+flutterfire,firebase,Dart,8967,4061,16,this week,2025-07-10
+bloc,felangel,Dart,12192,3423,12,this week,2025-07-10
+Openlib,dstark5,Dart,1565,72,14,this week,2025-07-10
+PicaComic,wgh136,Dart,8294,994,29,this week,2025-07-10
+plus_plugins,fluttercommunity,Dart,1755,1126,1,this week,2025-07-10
+localsend,localsend,Dart,64208,3425,427,this week,2025-07-10
+hiddify-app,hiddify,Dart,22067,1945,641,this month,2025-07-10
+revanced-manager,ReVanced,Dart,22077,862,675,this month,2025-07-10
+awesome-flutter,Solido,Dart,56415,6765,403,this month,2025-07-10
+fluffychat,krille-chan,Dart,1676,312,97,this month,2025-07-10
+refreezer,DJDoubleD,Dart,735,22,92,this month,2025-07-10
+ohmyzsh,ohmyzsh,Shell,179815,26138,54,today,2025-07-10
+tfenv,tfutils,Shell,4739,467,2,today,2025-07-10
+nvm,nvm-sh,Shell,85721,9011,35,today,2025-07-10
+claude-desktop-debian,aaddrick,Shell,843,171,7,today,2025-07-10
+Docker-OSX,sickcodes,Shell,50899,2834,18,today,2025-07-10
+bats-core,bats-core,Shell,5387,434,8,today,2025-07-10
+kubestarter,LondheShubham153,Shell,451,2572,6,today,2025-07-10
+release,openshift,Shell,299,1919,0,today,2025-07-10
+zsh-syntax-highlighting,zsh-users,Shell,21363,1345,5,today,2025-07-10
+leetcode-master,youngyangyang04,Shell,57144,12069,25,today,2025-07-10
+DevOps-Bash-tools,HariSekhon,Shell,6892,1291,4,today,2025-07-10
+reinstall,bin456789,Shell,5932,1001,13,today,2025-07-10
+winapps,winapps-org,Shell,2808,119,11,today,2025-07-10
+Qwen3,QwenLM,Shell,22478,1513,34,today,2025-07-10
+macos,dockur,Shell,15620,638,3612,this week,2025-07-10
+vscodium,VSCodium,Shell,27885,1332,87,this week,2025-07-10
+windows,dockur,Shell,36371,2687,273,this week,2025-07-10
+clash-for-linux-install,nelvko,Shell,2607,389,141,this week,2025-07-10
+certified-kubernetes-administrator-course,kodekloudhub,Shell,9146,8611,47,this week,2025-07-10
+v2ray-agent,mack-a,Shell,16223,4965,52,this week,2025-07-10
+Arch-Hyprland,JaKooLit,Shell,3146,270,55,this week,2025-07-10
+docker-minecraft-server,itzg,Shell,11561,1712,59,this week,2025-07-10
+awesome-jellyfin,awesome-jellyfin,Shell,3760,102,76,this week,2025-07-10
+WinterBreak,KindleModding,Shell,1107,23,25,this week,2025-07-10
+omakub,basecamp,Shell,6748,655,110,this week,2025-07-10
+public-image-mirror,DaoCloud,Shell,10701,1248,93,this week,2025-07-10
+huly-selfhost,hcengineering,Shell,2533,250,189,this month,2025-07-10
+bazzite,ublue-os,Shell,5803,444,265,this month,2025-07-10
+awesome-hacker-search-engines,edoardottt,Shell,8921,845,153,this month,2025-07-10
+VPN,aditya-shri,Shell,1132,1303,44,this month,2025-07-10
+v2ray,233boy,Shell,26432,16523,255,this month,2025-07-10
+quickemu,quickemu-project,Shell,12226,540,238,this month,2025-07-10
+terminal-bench,laude-institute,JetBrains MPS,235,59,83,this month,2025-07-10
+n8n-hosting,n8n-io,Shell,725,422,135,this month,2025-07-10
+spark,apache,Scala,41429,28679,9,today,2025-07-10
+deequ,awslabs,Scala,3457,557,4,today,2025-07-10
+delta,delta-io,Scala,8139,1867,3,today,2025-07-10
+joern,joernio,Scala,2487,332,2,today,2025-07-10
+the-algorithm,twitter,Scala,63394,12153,8,today,2025-07-10
+rocket-chip,chipsalliance,Scala,3489,1173,1,today,2025-07-10
+texera,Texera,Scala,184,89,1,today,2025-07-10
+XiangShan,OpenXiangShan,Scala,6480,778,1,today,2025-07-10
+delta-sharing,delta-io,Scala,850,199,2,today,2025-07-10
+lila,lichess-org,Scala,16838,2431,4,today,2025-07-10
+spark-rapids,NVIDIA,Scala,909,255,0,today,2025-07-10
+scala3,scala,Scala,6062,1107,2,today,2025-07-10
+incubator-gluten,apache,Scala,1384,556,0,today,2025-07-10
+kyuubi,apache,Scala,2215,948,3,today,2025-07-10
+gatling,gatling,Scala,6717,1214,0,today,2025-07-10
+metals,scalameta,Scala,2207,381,2,today,2025-07-10
+chipyard,ucb-bar,Scala,1893,727,1,today,2025-07-10
+TheHive,TheHive-Project,Scala,3727,659,0,today,2025-07-10
+Cortex,TheHive-Project,Scala,1441,242,0,today,2025-07-10
+bfg-repo-cleaner,rtyley,Scala,11626,566,3,today,2025-07-10
+sbt,sbt,Scala,4851,950,1,today,2025-07-10
+gitbucket,gitbucket,Scala,9268,1253,0,today,2025-07-10
+zio,zio,Scala,4229,1359,3,this week,2025-07-10
+SynapseML,microsoft,Scala,5146,848,1,this week,2025-07-10
+scala,scala,Scala,14389,3114,4,this week,2025-07-10
+azure-maven-archetypes,microsoft,Scala,23,34,0,this week,2025-07-10
+playframework,playframework,Scala,12578,4094,4,this week,2025-07-10
+chisel,chipsalliance,Scala,4333,632,14,this week,2025-07-10
+splice,hyperledger-labs,Scala,33,23,2,this week,2025-07-10
+gemmini,ucb-bar,Scala,990,203,11,this week,2025-07-10
+cats-effect,typelevel,Scala,2138,557,9,this month,2025-07-10
+akka,akka,Scala,13175,3586,21,this month,2025-07-10
+daml,digital-asset,Scala,817,211,4,this month,2025-07-10
+seurat,satijalab,R,2463,949,3,today,2025-07-10
+phyloseq,joey711,R,616,190,0,today,2025-07-10
+CellChat,sqjin,R,709,159,0,today,2025-07-10
+signac,stuart-lab,R,377,98,0,today,2025-07-10
+ComplexHeatmap,jokergoo,R,1389,237,0,today,2025-07-10
+infercnv,broadinstitute,R,625,177,1,today,2025-07-10
+DoubletFinder,chris-mcginnis-ucsf,R,480,119,0,today,2025-07-10
+data.table,Rdatatable,R,3752,1008,0,today,2025-07-10
+hdWGCNA,smorabit,R,419,42,0,today,2025-07-10
+reticulate,rstudio,R,1708,345,1,today,2025-07-10
+dada2,benjjneb,R,509,151,1,today,2025-07-10
+renv,rstudio,R,1077,156,0,today,2025-07-10
+ggpubr,kassambara,R,1188,176,0,today,2025-07-10
+seurat-wrappers,satijalab,R,340,137,0,today,2025-07-10
+TwoSampleMR,MRCIEU,R,497,184,0,today,2025-07-10
+shiny,rstudio,R,5495,1881,1,today,2025-07-10
+sf,r-spatial,R,1380,301,1,today,2025-07-10
+dplyr,tidyverse,R,4896,2130,2,today,2025-07-10
+harmony,immunogenomics,R,580,103,0,today,2025-07-10
+clusterProfiler,YuLab-SMU,R,1098,262,0,today,2025-07-10
+ggplot2,tidyverse,R,6722,2091,2,today,2025-07-10
+swirl_courses,swirldev,R,4436,7248,0,today,2025-07-10
+ellmer,tidyverse,R,482,85,6,this week,2025-07-10
+ProgrammingAssignment2,rdpeng,R,857,144002,0,this week,2025-07-10
+r4ds,hadley,R,4824,4310,7,this week,2025-07-10
+devtools,r-lib,R,2460,763,7,this month,2025-07-10
+monocle3,cole-trapnell-lab,R,391,107,3,this month,2025-07-10
+FlameGraph,brendangregg,Perl,18456,2036,7,today,2025-07-10
+glpi-agent,glpi-project,Perl,308,81,1,today,2025-07-10
+ACLPUB,acl-org,Perl,234,204,1,today,2025-07-10
+prokka,tseemann,Perl,912,234,0,today,2025-07-10
+Znuny,znuny,Perl,482,101,1,today,2025-07-10
+centreon-plugins,centreon,Perl,322,288,1,today,2025-07-10
+ocpi,ocpi,Perl,503,216,1,today,2025-07-10
+TrimGalore,FelixKrueger,Perl,513,154,1,today,2025-07-10
+lcov,linux-test-project,Perl,1010,248,0,today,2025-07-10
+BRAKER,Gaius-Augustus,Perl,415,90,1,today,2025-07-10
+trinityrnaseq,trinityrnaseq,Perl,863,319,1,today,2025-07-10
+cloc,AlDanial,Perl,21274,1068,9,today,2025-07-10
+packetfence,inverse-inc,Perl,1506,304,0,today,2025-07-10
+ora2pg,darold,Perl,1114,359,0,today,2025-07-10
+snippy,tseemann,Perl,530,115,1,today,2025-07-10
+pgbadger,darold,Perl,3764,360,2,today,2025-07-10
+LANraragi,Difegue,Perl,2580,185,1,today,2025-07-10
+diff-so-fancy,so-fancy,Perl,17697,335,1,today,2025-07-10
+MySQLTuner-perl,major,Perl,9246,1296,1,today,2025-07-10
+openfortivpn,adrienverge,Perl,2977,340,1,today,2025-07-10
+openkore,OpenKore,Perl,1376,1151,0,today,2025-07-10
+owasp-modsecurity-crs,SpiderLabs,Perl,2468,732,0,today,2025-07-10
+lm-sensors,lm-sensors,Perl,988,284,0,today,2025-07-10
+.dotfiles,ThePrimeagen,Perl,3331,315,9,this week,2025-07-10
+aws-cdk-guide,awsdocs,Perl,351,222,0,this week,2025-07-10
+sanoid,jimsalterjrs,Perl,3420,330,14,this week,2025-07-10
+perl5,Perl,Perl,2135,584,11,this week,2025-07-10
+fusioninventory-agent,fusioninventory,Perl,261,127,0,this week,2025-07-10
+zap2xml,jef,Perl,73,24,1,this week,2025-07-10
+a-shell,holzschu,Perl,3092,133,55,this month,2025-07-10
+dejavu-fonts,dejavu-fonts,Perl,813,107,6,this month,2025-07-10
+xmltv,Catch-up-TV-and-More,Perl,30,12,0,this month,2025-07-10
+ModSecurity-nginx,owasp-modsecurity,Perl,1709,295,23,this month,2025-07-10
+ddclient,ddclient,Perl,2940,363,60,this month,2025-07-10
+zm-build,Zimbra,Perl,208,91,5,this month,2025-07-10
+anoma,anoma,Elixir,31012,3904,119,today,2025-07-10
+analytics,plausible,Elixir,22859,1241,14,today,2025-07-10
+phoenix_live_view,phoenixframework,Elixir,6535,990,2,today,2025-07-10
+teslamate,teslamate-org,Elixir,6849,832,4,today,2025-07-10
+ash,ash-project,Elixir,1975,291,1,today,2025-07-10
+elixir-ls,elixir-lsp,Elixir,1633,217,3,today,2025-07-10
+elixir_sense,elixir-lsp,Elixir,319,41,0,today,2025-07-10
+sequin,sequinstream,Elixir,1432,68,2,today,2025-07-10
+ecto,elixir-ecto,Elixir,6334,1457,0,today,2025-07-10
+blockscout,blockscout,Elixir,4050,2751,1,today,2025-07-10
+awesome-elixir,h4cc,Elixir,12923,1187,1,today,2025-07-10
+elixir,elixir-lang,Elixir,25450,3440,5,today,2025-07-10
+phoenix,phoenixframework,Elixir,22248,2983,1,today,2025-07-10
+algora,algora-io,Elixir,479,29,3,today,2025-07-10
+electric,electric-sql,Elixir,8702,240,6,today,2025-07-10
+paginator,duffelhq,Elixir,798,98,0,this week,2025-07-10
+timex,bitwalker,Elixir,1787,394,2,this week,2025-07-10
+opentelemetry-erlang-contrib,open-telemetry,Elixir,183,143,1,this week,2025-07-10
+keila,pentacent,Elixir,1732,109,9,this week,2025-07-10
+langchain,brainlid,Elixir,928,129,5,this week,2025-07-10
+pinchflat,kieraneglin,Elixir,3311,77,32,this week,2025-07-10
+realtime,supabase,Elixir,7181,371,10,this week,2025-07-10
+supavisor,supabase,Elixir,1965,74,9,this week,2025-07-10
+hermes-mcp,cloudwalk,Elixir,231,15,60,this month,2025-07-10
+blockscout,OffchainLabs,Elixir,47,24,1,this month,2025-07-10
+ex_crypto,ntrepid8,Elixir,156,51,0,this month,2025-07-10
+protobuf,elixir-protobuf,Elixir,880,150,10,this month,2025-07-10
+firezone,firezone,Elixir,7382,325,90,this month,2025-07-10
+pandoc,jgm,Haskell,38279,3572,19,today,2025-07-10
+hadolint,hadolint,Haskell,11330,457,4,today,2025-07-10
+postgrest,PostgREST,Haskell,25490,1104,9,today,2025-07-10
+shellcheck,koalaman,Haskell,37690,1832,15,today,2025-07-10
+agda,agda,Haskell,2669,378,0,today,2025-07-10
+cabal,haskell,Haskell,1676,714,1,today,2025-07-10
+cardano-node,IntersectMBO,Haskell,3134,732,1,this week,2025-07-10
+nix-output-monitor,maralorn,Haskell,1167,32,11,this week,2025-07-10
+unison,unisonweb,Haskell,6099,277,10,this week,2025-07-10
+simplexmq,simplex-chat,Haskell,633,79,5,this week,2025-07-10
+haskell-language-server,haskell,Haskell,2815,398,6,this week,2025-07-10
+Tidal,tidalcycles,Haskell,2731,274,161,this month,2025-07-10
+zsh-git-prompt,olivierverdier,Haskell,1742,398,2,this month,2025-07-10
+stack,commercialhaskell,Haskell,4018,846,9,this month,2025-07-10
+hledger,simonmichael,Haskell,3319,331,32,this month,2025-07-10
+julia,JuliaLang,Julia,47320,5604,7,today,2025-07-10
+Makie.jl,MakieOrg,Julia,2574,349,1,today,2025-07-10
+General,JuliaRegistries,Julia,642,495,0,today,2025-07-10
+CS-Books,forthespada,Unknown,23540,3899,336,today,2025-07-10
+system-design-101,ByteByteGoHq,Unknown,74033,7920,192,today,2025-07-10
+Biomni,snap-stanford,Python,771,81,338,today,2025-07-10
+pybind11,pybind,C++,16811,2189,8,today,2025-07-10
+helm,helm,Go,28129,7275,10,today,2025-07-10
+Hands-On-Large-Language-Models,HandsOnLLM,Jupyter Notebook,11784,2763,286,today,2025-07-10
+verl,volcengine,Python,10646,1764,58,today,2025-07-10
+terraform,hashicorp,Go,45549,9924,10,today,2025-07-10
+vertex-ai-creative-studio,GoogleCloudPlatform,Jupyter Notebook,182,62,46,this week,2025-07-10
+home-assistant.io,home-assistant,HTML,6971,7777,263,this week,2025-07-10
+VACE,ali-vilab,Python,2873,196,11,today,2025-07-10
+LTX-Video,Lightricks,Python,6979,599,28,today,2025-07-10
+vision,pytorch,Python,16979,7102,3,today,2025-07-10
+smollm,huggingface,Python,2754,173,51,today,2025-07-10
+geoai,opengeos,Python,1120,137,10,today,2025-07-10
+llama_index,run-llama,Python,42976,6179,41,today,2025-07-10
+sglang,sgl-project,Python,15888,2310,34,today,2025-07-10
+great_expectations,great-expectations,Python,10537,1598,5,today,2025-07-10
+llmware,llmware-ai,Python,14248,2894,370,this week,2025-07-10
+keep,keephq,Python,10498,1018,174,this week,2025-07-10
+transformers,huggingface,Python,146755,29596,426,this week,2025-07-10
+kokoro,hexgrad,JavaScript,3529,385,25,today,2025-07-10
+Checkmate,bluewave-labs,JavaScript,6121,401,22,today,2025-07-10
+pdf.js,mozilla,JavaScript,51231,10372,12,today,2025-07-10
+github-chinese,maboloshi,JavaScript,13624,730,52,today,2025-07-10
+WebGoat,WebGoat,JavaScript,7591,6514,5,today,2025-07-10
+edex-ui,GitSquared,JavaScript,42479,2760,19,today,2025-07-10
+appium,appium,JavaScript,20114,6187,9,today,2025-07-10
+react-complete-guide-course-resources,academind,JavaScript,3272,2518,4,today,2025-07-10
+webpack,webpack,JavaScript,65429,9076,3,today,2025-07-10
+live,fanmingming,JavaScript,25955,3894,77,this week,2025-07-10
+hiring-without-whiteboards,poteto,JavaScript,48963,3796,518,this month,2025-07-10
+quarkus,quarkusio,Java,14694,2892,8,today,2025-07-10
+vprofile-project,hkhcoder,Java,760,3796,4,today,2025-07-10
+spring-framework,spring-projects,Java,58422,38559,14,today,2025-07-10
+nifi,apache,Java,5448,2826,3,today,2025-07-10
+java-sdk,modelcontextprotocol,Java,2035,532,10,today,2025-07-10
+spring-security,spring-projects,Java,9204,6079,4,today,2025-07-10
+wvp-GB28181-pro,648540858,Java,6041,1719,3,today,2025-07-10
+azure-sdk-for-java,Azure,Java,2495,2090,0,today,2025-07-10
+GSYVideoPlayer,CarGuo,Java,20959,4284,4,today,2025-07-10
+graphhopper,graphhopper,Java,5893,1723,3,today,2025-07-10
+canal,alibaba,Java,29216,7661,5,today,2025-07-10
+tika,apache,Java,3090,831,1,today,2025-07-10
+jmeter,apache,Java,8888,2192,21,this week,2025-07-10
+beam,apache,Java,8206,4371,24,this week,2025-07-10
+cryptomator,cryptomator,Java,13133,1115,77,this week,2025-07-10
+iceberg,apache,Java,7691,2658,34,this week,2025-07-10
+jadx,skylot,Java,44637,5160,420,this month,2025-07-10
+flink-cdc,apache,Java,6139,2037,57,this month,2025-07-10
+lz4,lz4,C,11067,1442,7,today,2025-07-10
+paho.mqtt.c,eclipse-paho,C,2110,1131,3,today,2025-07-10
+b-parasite,rbaron,C,2209,169,11,today,2025-07-10
+hackrf,greatscottgadgets,C,7135,1603,11,today,2025-07-10
+yara,VirusTotal,C,8905,1512,4,today,2025-07-10
+liburing,axboe,C,3221,458,2,today,2025-07-10
+tetragon,cilium,C,4044,427,1,today,2025-07-10
+klipper,Klipper3d,C,10516,5605,5,today,2025-07-10
+libuv,libuv,C,25491,3716,6,today,2025-07-10
+git,git,C,55581,26389,19,today,2025-07-10
+AM32,am32-firmware,C,530,216,1,today,2025-07-10
+nanopb,nanopb,C,4754,927,0,today,2025-07-10
+suricata,OISF,C,5394,1548,6,today,2025-07-10
+xanite,dev-Ali2008,C,150,8,35,this week,2025-07-10
+reactos,reactos,C,15976,1886,54,this week,2025-07-10
+riscv-gnu-toolchain,riscv-collab,C,4022,1275,20,this week,2025-07-10
+tinyusb,hathach,C,5681,1196,17,this week,2025-07-10
+bcc,iovisor,C,21553,3978,35,this week,2025-07-10
+VeraCrypt,veracrypt,C,8012,1048,56,this week,2025-07-10
+ElectronBot,peng-zhihui,C,8761,1985,25,this week,2025-07-10
+netdata,netdata,C,75025,6087,354,this month,2025-07-10
+flecs,SanderMertens,C,7259,531,176,this month,2025-07-10
+firebase-ios-sdk,firebase,C++,6266,1635,4,today,2025-07-10
+protobuf,protocolbuffers,C++,67955,15762,12,today,2025-07-10
+json,nlohmann,C++,46388,7054,20,today,2025-07-10
+arrow,apache,C++,15680,3765,10,today,2025-07-10
+CodeHelp-DSA-Busted-Series,loveBabbar,C++,3566,2441,2,today,2025-07-10
+googletest,google,C++,36305,10426,8,today,2025-07-10
+grpc,grpc,C++,43277,10844,14,today,2025-07-10
+f3d,f3d-app,C++,3595,315,7,today,2025-07-10
+TensorRT,NVIDIA,C++,11829,2219,7,today,2025-07-10
+libphonenumber,google,C++,17342,2105,5,today,2025-07-10
+nccl,NVIDIA,C++,3850,959,3,today,2025-07-10
+asio,chriskohlhoff,C++,5398,1294,2,today,2025-07-10
+Fast-DDS,eProsima,C++,2484,830,1,today,2025-07-10
+btrace,bytedance,C++,2263,309,39,this week,2025-07-10
+solidity,ethereum,C++,24594,6120,42,this week,2025-07-10
+wiliwili,xfangfang,C++,4209,186,37,this week,2025-07-10
+flameshot,flameshot-org,C++,27135,1722,713,this month,2025-07-10
+DeepSpeech,mozilla,C++,26522,4068,128,this month,2025-07-10
+wpf,dotnet,C#,7384,1217,4,today,2025-07-10
+roslyn,dotnet,C#,19670,4148,3,today,2025-07-10
+aspnetcore,dotnet,C#,36859,10385,5,today,2025-07-10
+msbuild,dotnet,C#,5410,1385,1,today,2025-07-10
+fluentui-blazor,microsoft,C#,4420,428,2,today,2025-07-10
+EntityComponentSystemSamples,Unity-Technologies,C#,7722,1671,1,today,2025-07-10
+DriverStoreExplorer,lostindark,C#,8287,461,11,today,2025-07-10
+subtitleedit,SubtitleEdit,C#,10496,1038,35,today,2025-07-10
+FileConverter,Tichau,C#,10499,718,11,today,2025-07-10
+perfview,microsoft,C#,4454,744,0,today,2025-07-10
+powershell,pnp,C#,767,376,0,today,2025-07-10
+BepInEx,BepInEx,C#,5997,687,64,this week,2025-07-10
+mRemoteNG,mRemoteNG,C#,9902,1474,41,this week,2025-07-10
+temporal,temporalio,Go,14795,1023,12,today,2025-07-10
+beta9,beam-cloud,Go,996,76,45,today,2025-07-10
+tinyauth,steveiliop56,Go,3091,85,226,today,2025-07-10
+yq,mikefarah,Go,13709,663,10,today,2025-07-10
+cadvisor,google,Go,18118,2379,8,today,2025-07-10
+karpenter-provider-aws,aws,Go,7356,1133,2,today,2025-07-10
+opa,open-policy-agent,Go,10418,1439,4,today,2025-07-10
+asdf,asdf-vm,Go,23854,877,9,today,2025-07-10
+opentelemetry-collector-contrib,open-telemetry,Go,3694,2875,3,today,2025-07-10
+external-dns,kubernetes-sigs,Go,8320,2716,3,today,2025-07-10
+grpc-go,grpc,Go,22000,4525,3,today,2025-07-10
+nakama,heroiclabs,Go,11244,1245,12,today,2025-07-10
+opentelemetry-go,open-telemetry,Go,5811,1191,5,today,2025-07-10
+godoxy,yusing,Go,2277,90,84,this week,2025-07-10
+argo-rollouts,argoproj,Go,3159,990,89,this week,2025-07-10
+domain-list-community,v2fly,Go,6134,1043,176,this month,2025-07-10
+repomix,yamadashy,TypeScript,17599,764,35,today,2025-07-10
+supabase,supabase,TypeScript,85504,9169,84,today,2025-07-10
+crawlee,apify,TypeScript,18391,872,80,today,2025-07-10
+SurfSense,MODSetter,TypeScript,5863,430,62,today,2025-07-10
+medusa,medusajs,TypeScript,29813,3471,20,today,2025-07-10
+cmdk,pacocoursey,TypeScript,11392,334,23,today,2025-07-10
+dify,langgenius,TypeScript,106421,16117,152,today,2025-07-10
+cal.com,calcom,TypeScript,37064,9944,30,today,2025-07-10
+refly,refly-ai,TypeScript,4268,366,23,today,2025-07-10
+magnitude,magnitudedev,TypeScript,3179,126,1284,this month,2025-07-10
+xan,medialab,Rust,2949,51,35,today,2025-07-10
+Daft,Eventual-Inc,Rust,3083,234,7,today,2025-07-10
+datafusion,apache,Rust,7431,1539,7,today,2025-07-10
+dynamo,ai-dynamo,Rust,4445,480,4,today,2025-07-10
+zed,zed-industries,Rust,62294,4665,54,today,2025-07-10
+openobserve,openobserve,Rust,15749,595,10,today,2025-07-10
+sui,MystenLabs,Rust,7162,11539,1,today,2025-07-10
+google-cloud-rust,googleapis,Rust,608,64,41,today,2025-07-10
+relay,facebook,Rust,18682,1857,7,today,2025-07-10
+chroma,chroma-core,Rust,20971,1679,35,today,2025-07-10
+lldap,lldap,Rust,5237,269,24,today,2025-07-10
+candle,huggingface,Rust,17572,1142,12,today,2025-07-10
+iggy,apache,Rust,2750,161,52,this week,2025-07-10
+price-transparency-guide,CMSgov,Ruby,401,118,1,today,2025-07-10
+fast-mcp,yjacquin,Ruby,834,58,4,today,2025-07-10
+forem,forem,Ruby,22371,4130,6,today,2025-07-10
+rubygems,rubygems,Ruby,3779,1816,2,this week,2025-07-10
+theodinproject,TheOdinProject,Ruby,4067,2105,51,this month,2025-07-10
+RetroMusicPlayer,RetroMusicPlayer,Kotlin,4509,820,0,today,2025-07-10
+kotlin-sdk,modelcontextprotocol,Kotlin,896,126,2,today,2025-07-10
+gallery,google-ai-edge,Kotlin,12449,906,45,today,2025-07-10
+MyExpenses,mtotschnig,Kotlin,980,244,1,today,2025-07-10
+orbot-android,guardianproject,Kotlin,2622,387,6,today,2025-07-10
+element-x-android,element-hq,Kotlin,1415,244,1,today,2025-07-10
+ab-download-manager,amir1376,Kotlin,8402,462,117,this week,2025-07-10
+bilimiao2,10miaomiao,Kotlin,2268,70,47,this week,2025-07-10
+ytdlnis,deniscerri,Kotlin,5697,225,211,this month,2025-07-10
+freescout,freescout-help-desk,PHP,3604,569,3,today,2025-07-10
+opencart,opencart,PHP,7845,4968,1,today,2025-07-10
+google-api-php-client,googleapis,PHP,9604,3549,2,today,2025-07-10
+client,openai-php,PHP,5433,619,0,today,2025-07-10
+PhpSpreadsheet,PHPOffice,PHP,13701,3584,19,this week,2025-07-10
+panel,pelican-dev,PHP,1423,182,14,this week,2025-07-10
+PHPMailer,PHPMailer,PHP,21579,9819,26,this week,2025-07-10
+akaunting,akaunting,PHP,8773,2635,19,this week,2025-07-10
+opensourcepos,opensourcepos,PHP,3781,2308,50,this month,2025-07-10
+dd-sdk-ios,DataDog,Swift,242,147,0,today,2025-07-10
+swift-dependencies,pointfreeco,Swift,1876,153,0,today,2025-07-10
+microsoft-authentication-library-for-objc,AzureAD,Swift,294,146,0,today,2025-07-10
+IQKeyboardManager,hackiftekhar,Swift,16581,2428,3,today,2025-07-10
+stripe-ios,stripe,Swift,2418,1006,2,today,2025-07-10
+lottie-ios,airbnb,Swift,26333,3803,0,today,2025-07-10
+react-native-vision-camera,mrousavy,Swift,8569,1223,4,today,2025-07-10
+swift-protobuf,apple,Swift,4699,478,0,today,2025-07-10
+open-meteo,open-meteo,Swift,3369,222,29,this week,2025-07-10
+swift-build,swiftlang,Swift,2096,105,56,this month,2025-07-10
+fl_chart,imaNNeo,Dart,7197,1894,1,today,2025-07-10
+flutter-complete-guide-course-resources,academind,Dart,2411,979,2,today,2025-07-10
+GooglePhotosTakeoutHelper,TheLastGimbus,Dart,4830,257,3,today,2025-07-10
+flutter_rust_bridge,fzyzcjy,Dart,4731,340,4,today,2025-07-10
+JHenTai,jiangtian616,Dart,3940,108,7,today,2025-07-10
+flutter_blue_plus,chipweinberger,Dart,920,544,1,today,2025-07-10
+dart_frog,VeryGoodOpenSource,Dart,1983,159,1,today,2025-07-10
+appsflyer-flutter-plugin,AppsFlyerSDK,Dart,167,134,0,today,2025-07-10
+kobi,niuhuan,Dart,1234,51,2,today,2025-07-10
+aves,deckerst,Dart,3663,129,179,this month,2025-07-10
+pure-bash-bible,dylanaraps,Shell,39548,3528,21,today,2025-07-10
+pre-commit-terraform,antonbabenko,Shell,3484,567,2,today,2025-07-10
+docker-elk,deviantony,Shell,17950,6938,5,today,2025-07-10
+docker-otel-lgtm,grafana,Shell,1185,122,13,today,2025-07-10
+go-cursor-help,yuaotian,Shell,23452,2855,35,today,2025-07-10
+super-linter,super-linter,Shell,9945,1013,1,today,2025-07-10
+FFmpeg-Builds,BtbN,Shell,9062,1225,196,this month,2025-07-10
+docker,nextcloud,Shell,6640,1891,91,this month,2025-07-10
+CMAK,yahoo,Scala,11915,2505,0,today,2025-07-10
+Spark-The-Definitive-Guide,databricks,Scala,2993,2849,0,today,2025-07-10
+spark-nlp,JohnSnowLabs,Scala,4009,726,2,today,2025-07-10
+Vale,ValeLang,Scala,1900,53,0,this week,2025-07-10
+stream-reactor,lensesio,Scala,1032,375,1,this week,2025-07-10
+SpinalHDL,SpinalHDL,Scala,1819,353,22,this month,2025-07-10
+seurat-disk,mojaveazure,R,165,52,0,today,2025-07-10
+awesome-R,qinwf,R,6228,1504,26,this week,2025-07-10
+awesome-network-analysis,briatte,R,3774,619,12,this week,2025-07-10
+Claper,ClaperCo,Elixir,583,84,0,today,2025-07-10
+00,technomancy-dev,Elixir,1173,63,1,today,2025-07-10
+live_svelte,woutdp,Elixir,1522,64,1,today,2025-07-10
+livebook,livebook-dev,Elixir,5403,465,2,today,2025-07-10
+kmonad,kmonad,Haskell,4568,329,3,today,2025-07-10
+xdg-ninja,b3nj5m1n,Haskell,2882,162,2,today,2025-07-10
+MicroHs,augustss,Haskell,537,45,16,this week,2025-07-10
+hydra,cardano-scaling,Haskell,309,92,2,this month,2025-07-10
+Mooncake.jl,chalk-lab,Julia,266,18,4,today,2025-07-10
+WebAgent,Alibaba-NLP,Python,3084,208,780,stars,2025-07-10
+wordpress-develop,WordPress,PHP,2811,2961,4,stars,2025-07-10
+genai-toolbox,googleapis,Go,4499,359,970,stars,2025-07-10
+LMCache,LMCache,Python,2718,312,148,stars,2025-07-10
+CS-Books,forthespada,Unknown,23545,3899,336,stars,2025-07-10
+system-design-101,ByteByteGoHq,Unknown,74036,7920,192,stars,2025-07-10
+Biomni,snap-stanford,Python,777,81,338,stars,2025-07-10
+pybind11,pybind,C++,16812,2189,8,stars,2025-07-10
+awesome-mcp-clients,punkpeye,Unknown,4450,310,96,stars,2025-07-10
+MoneyPrinterV2,FujiwaraChoki,Python,12150,1147,301,stars,2025-07-10
+helm,helm,Go,28129,7275,10,stars,2025-07-10
+ai-agents-masterclass,coleam00,Python,2438,1110,58,stars,2025-07-10
+Hands-On-Large-Language-Models,HandsOnLLM,Jupyter Notebook,11786,2763,286,stars,2025-07-10
+verl,volcengine,Python,10649,1765,58,stars,2025-07-10
+terraform,hashicorp,Go,45551,9924,10,stars,2025-07-10
+packages,flutter,Dart,4783,3354,4,stars,2025-07-10
+MediaCrawler,NanmiCoder,Python,29190,7333,4106,stars,2025-07-10
+sim,simstudioai,TypeScript,4739,702,537,stars,2025-07-10
+Folo,RSSNext,TypeScript,28403,1261,1126,stars,2025-07-10
+sniffnet,GyulyVGC,Rust,27767,909,1958,stars,2025-07-10
+build-your-own-x,codecrafters-io,Markdown,398419,37188,4512,stars,2025-07-10
+pocketbase,pocketbase,Go,48873,2460,797,stars,2025-07-10
+ladybird,LadybirdBrowser,C++,45103,1922,953,stars,2025-07-10
+openpilot,commaai,Python,55137,9919,880,stars,2025-07-10
+vertex-ai-creative-studio,GoogleCloudPlatform,Jupyter Notebook,182,62,46,stars,2025-07-10
+scira,zaidmukaddam,TypeScript,9695,1186,823,stars,2025-07-10
+home-assistant.io,home-assistant,HTML,6972,7777,263,stars,2025-07-10
+kilocode,Kilo-Org,TypeScript,4091,325,2307,stars,2025-07-10
+ML-For-Beginners,microsoft,HTML,74268,16343,733,stars,2025-07-10
+Graphite,GraphiteEditor,Rust,18803,789,6875,stars,2025-07-10
+awesome-llm-apps,Shubhamsaboo,Python,49426,5721,15588,stars,2025-07-10
+data-engineer-handbook,DataExpert-io,Jupyter Notebook,35092,6745,6169,stars,2025-07-10
+jan,menloresearch,TypeScript,34535,2017,5195,stars,2025-07-10
+twenty,twentyhq,TypeScript,33618,3741,5494,stars,2025-07-10
+happy-llm,datawhalechina,Unknown,10079,732,7210,stars,2025-07-10
+embabel-agent,embabel,Kotlin,2047,156,1716,stars,2025-07-10
+claude-code,anthropics,PowerShell,18524,1048,6396,stars,2025-07-10
+anthropic-cookbook,anthropics,Jupyter Notebook,17919,1855,4878,stars,2025-07-10
+awesome,sindresorhus,Unknown,380721,30435,16604,stars,2025-07-10
+Telegram,DrKLO,Java,27083,8756,891,stars,2025-07-10
+prompt-optimizer,linshenkx,TypeScript,9283,1161,3706,stars,2025-07-10
+12-factor-agents,humanlayer,TypeScript,8089,504,3659,stars,2025-07-10
+Web-Dev-For-Beginners,microsoft,JavaScript,90374,13655,2040,stars,2025-07-10
+storm,stanford-oval,Python,26477,2381,1976,stars,2025-07-10
+VACE,ali-vilab,Python,2873,196,11,stars,2025-07-10
+LTX-Video,Lightricks,Python,6980,599,28,stars,2025-07-10
+vision,pytorch,Python,16979,7102,3,stars,2025-07-10
+smollm,huggingface,Python,2754,173,51,stars,2025-07-10
+geoai,opengeos,Python,1120,137,10,stars,2025-07-10
+litellm,BerriAI,Python,25189,3433,58,stars,2025-07-10
+llama_index,run-llama,Python,42977,6179,41,stars,2025-07-10
+sglang,sgl-project,Python,15888,2310,34,stars,2025-07-10
+great_expectations,great-expectations,Python,10537,1598,5,stars,2025-07-10
+nunchaku,mit-han-lab,Python,2337,121,132,stars,2025-07-10
+ai-toolkit,ostris,Python,5119,607,113,stars,2025-07-10
+Index-anisora,bilibili,Python,1741,83,278,stars,2025-07-10
+llmware,llmware-ai,Python,14248,2894,370,stars,2025-07-10
+devops-exercises,bregman-arie,Python,77470,17363,488,stars,2025-07-10
+30-Days-Of-Python,Asabeneh,Python,47462,9059,263,stars,2025-07-10
+MoGe,microsoft,Python,1310,73,206,stars,2025-07-10
+keep,keephq,Python,10498,1018,174,stars,2025-07-10
+logicanalyzer,gusmanb,Python,4057,420,232,stars,2025-07-10
+transformers,huggingface,Python,146756,29596,426,stars,2025-07-10
+MinerU,opendatalab,Python,38696,3178,3944,stars,2025-07-10
+youtube-transcript-api,jdepoix,Python,5715,584,1705,stars,2025-07-10
+ottomator-agents,coleam00,Python,3447,1232,1399,stars,2025-07-10
+AutoAgent,HKUDS,Python,5497,753,851,stars,2025-07-10
+deepeval,confident-ai,Python,9092,791,1941,stars,2025-07-10
+cai,aliasrobotics,Python,1631,209,562,stars,2025-07-10
+lerobot,huggingface,Python,15686,2122,1444,stars,2025-07-10
+vggt,facebookresearch,Python,9614,922,2265,stars,2025-07-10
+manim,ManimCommunity,Python,33416,2342,1279,stars,2025-07-10
+manim,3b1b,Python,78782,6783,908,stars,2025-07-10
+flux,black-forest-labs,Python,23372,1684,1133,stars,2025-07-10
+kokoro,hexgrad,JavaScript,3529,385,25,stars,2025-07-10
+Checkmate,bluewave-labs,JavaScript,6121,401,22,stars,2025-07-10
+pdf.js,mozilla,JavaScript,51231,10372,12,stars,2025-07-10
+overleaf,overleaf,JavaScript,16208,1662,119,stars,2025-07-10
+github-chinese,maboloshi,JavaScript,13625,730,52,stars,2025-07-10
+Mobile-Security-Framework-MobSF,MobSF,JavaScript,18989,3408,11,stars,2025-07-10
+react,facebook,JavaScript,237131,48887,41,stars,2025-07-10
+WebGoat,WebGoat,JavaScript,7591,6514,5,stars,2025-07-10
+easy-dataset,ConardLi,JavaScript,9337,908,82,stars,2025-07-10
+edex-ui,GitSquared,JavaScript,42480,2760,19,stars,2025-07-10
+appium,appium,JavaScript,20115,6187,9,stars,2025-07-10
+react-complete-guide-course-resources,academind,JavaScript,3272,2518,4,stars,2025-07-10
+webpack,webpack,JavaScript,65430,9076,3,stars,2025-07-10
+nuclei-templates,projectdiscovery,JavaScript,10438,2911,13,stars,2025-07-10
+drawdb,drawdb-io,JavaScript,31564,2254,739,stars,2025-07-10
+context7,upstash,JavaScript,19134,972,2048,stars,2025-07-10
+nginx-proxy-manager,NginxProxyManager,JavaScript,27412,3154,475,stars,2025-07-10
+javascript-algorithms,trekhleb,JavaScript,192078,30743,487,stars,2025-07-10
+Fabric,danielmiessler,JavaScript,32504,3351,452,stars,2025-07-10
+swagger-ui,swagger-api,JavaScript,27875,9150,317,stars,2025-07-10
+Sigma-Web-Dev-Course,CodeWithHarry,JavaScript,9244,2690,251,stars,2025-07-10
+three.js,mrdoob,JavaScript,107529,35881,530,stars,2025-07-10
+live,fanmingming,JavaScript,25955,3894,77,stars,2025-07-10
+anything-llm,Mintplex-Labs,JavaScript,46305,4654,316,stars,2025-07-10
+EasySpider,NaiboWang,JavaScript,40338,4937,1073,stars,2025-07-10
+label-studio,HumanSignal,JavaScript,23177,2877,375,stars,2025-07-10
+3x-ui,MHSanaei,JavaScript,21278,4620,1246,stars,2025-07-10
+automatisch,automatisch,JavaScript,12539,916,3701,stars,2025-07-10
+brave-browser,brave,JavaScript,19676,2656,306,stars,2025-07-10
+marktext,marktext,JavaScript,50353,3688,440,stars,2025-07-10
+javascript,airbnb,JavaScript,147053,26773,365,stars,2025-07-10
+whatsapp-web.js,pedroslopez,JavaScript,17306,4207,343,stars,2025-07-10
+meshery,meshery,JavaScript,7493,2452,293,stars,2025-07-10
+hiring-without-whiteboards,poteto,JavaScript,48963,3796,518,stars,2025-07-10
+spring-boot,spring-projects,Java,77722,41286,16,stars,2025-07-10
+bazel,bazelbuild,Java,24284,4245,6,stars,2025-07-10
+quarkus,quarkusio,Java,14694,2892,8,stars,2025-07-10
+Chat2DB,CodePhiliaX,Java,23581,2562,51,stars,2025-07-10
+revanced-patches,ReVanced,Java,3837,467,12,stars,2025-07-10
+keycloak,keycloak,Java,28159,7434,27,stars,2025-07-10
+vprofile-project,hkhcoder,Java,760,3796,4,stars,2025-07-10
+fluss,apache,Java,1300,345,6,stars,2025-07-10
+spring-framework,spring-projects,Java,58422,38559,14,stars,2025-07-10
+thingsboard,thingsboard,Java,19315,5671,21,stars,2025-07-10
+nifi,apache,Java,5448,2826,3,stars,2025-07-10
+java-sdk,modelcontextprotocol,Java,2035,532,10,stars,2025-07-10
+spring-security,spring-projects,Java,9204,6079,4,stars,2025-07-10
+DSA-Bootcamp-Java,kunal-kushwaha,Java,19593,12182,11,stars,2025-07-10
+wvp-GB28181-pro,648540858,Java,6041,1719,3,stars,2025-07-10
+azure-sdk-for-java,Azure,Java,2495,2090,0,stars,2025-07-10
+GSYVideoPlayer,CarGuo,Java,20959,4284,4,stars,2025-07-10
+seatunnel,apache,Java,8634,2018,5,stars,2025-07-10
+cloudstack,apache,Java,2447,1200,2,stars,2025-07-10
+graphhopper,graphhopper,Java,5893,1723,3,stars,2025-07-10
+canal,alibaba,Java,29216,7661,5,stars,2025-07-10
+tika,apache,Java,3090,831,1,star,2025-07-10
+questdb,questdb,Java,15712,1436,365,stars,2025-07-10
+android,nextcloud,Java,4700,1838,20,stars,2025-07-10
+Grasscutter,Grasscutters,Java,16564,4437,24,stars,2025-07-10
+maven,apache,Java,4677,2751,24,stars,2025-07-10
+ruoyi-vue-pro,YunaiV,Java,32158,6908,246,stars,2025-07-10
+jdk,openjdk,Java,21320,6079,53,stars,2025-07-10
+JavaGuide,Snailclimb,Java,150725,45910,178,stars,2025-07-10
+jmeter,apache,Java,8888,2192,21,stars,2025-07-10
+awesome-leetcode-resources,ashishps1,Java,11644,2653,221,stars,2025-07-10
+spider-flow,ssssssss-team,Java,10530,2022,168,stars,2025-07-10
+Telegram-X,TGX-Android,Java,4348,715,49,stars,2025-07-10
+Ehviewer_CN_SXJ,xiaojieonly,Java,18207,485,161,stars,2025-07-10
+beam,apache,Java,8206,4371,24,stars,2025-07-10
+supersonic,tencentmusic,Java,3951,777,40,stars,2025-07-10
+cryptomator,cryptomator,Java,13133,1115,77,stars,2025-07-10
+traccar,traccar,Java,6008,2832,37,stars,2025-07-10
+iceberg,apache,Java,7691,2658,34,stars,2025-07-10
+java-genai,googleapis,Java,140,35,11,stars,2025-07-10
+Java,TheAlgorithms,Java,62331,20056,587,stars,2025-07-10
+termux-app,termux,Java,43024,4731,954,stars,2025-07-10
+hello-algo,krahets,Java,114221,14147,1188,stars,2025-07-10
+kestra,kestra-io,Java,19684,1631,1344,stars,2025-07-10
+SmartTube,yuliskov,Java,23542,1258,569,stars,2025-07-10
+Geyser,GeyserMC,Java,5145,742,109,stars,2025-07-10
+syncthing-android,Catfriend1,Java,4237,135,352,stars,2025-07-10
+BookLore,adityachandelgit,Java,2748,129,1767,stars,2025-07-10
+arthas,alibaba,Java,36460,7566,145,stars,2025-07-10
+jadx,skylot,Java,44637,5160,420,stars,2025-07-10
+flink-cdc,apache,Java,6139,2037,57,stars,2025-07-10
+WxJava,binarywang,Java,31518,8916,296,stars,2025-07-10
+gravitino,apache,Java,1691,530,117,stars,2025-07-10
+fabric-example-mod,FabricMC,Java,1890,1048,43,stars,2025-07-10
+FreeRTOS-Kernel,FreeRTOS,C,3339,1296,8,stars,2025-07-10
+lz4,lz4,C,11067,1442,7,stars,2025-07-10
+paho.mqtt.c,eclipse-paho,C,2110,1131,3,stars,2025-07-10
+wazuh,wazuh,C,12865,1903,7,stars,2025-07-10
+b-parasite,rbaron,C,2209,169,11,stars,2025-07-10
+hackrf,greatscottgadgets,C,7135,1603,11,stars,2025-07-10
+littlefs,littlefs-project,C,5983,879,5,stars,2025-07-10
+yara,VirusTotal,C,8905,1512,4,stars,2025-07-10
+linux,raspberrypi,C,11838,5200,7,stars,2025-07-10
+liburing,axboe,C,3221,458,2,stars,2025-07-10
+zephyr,zephyrproject-rtos,C,12439,7608,4,stars,2025-07-10
+librdkafka,confluentinc,C,692,3211,2,stars,2025-07-10
+tetragon,cilium,C,4044,427,1,star,2025-07-10
+klipper,Klipper3d,C,10516,5605,5,stars,2025-07-10
+winlator,brunodev85,C,13377,795,32,stars,2025-07-10
+civetweb,civetweb,C,3127,993,3,stars,2025-07-10
+libuv,libuv,C,25491,3716,6,stars,2025-07-10
+Unity,ThrowTheSwitch,C,4596,1038,1,star,2025-07-10
+git,git,C,55581,26388,19,stars,2025-07-10
+AM32,am32-firmware,C,530,216,1,star,2025-07-10
+linux,torvalds,C,197355,56882,98,stars,2025-07-10
+nanopb,nanopb,C,4754,927,0,stars,2025-07-10
+suricata,OISF,C,5394,1548,6,stars,2025-07-10
+xanite,dev-Ali2008,C,150,8,35,stars,2025-07-10
+openssl,openssl,C,27925,10655,212,stars,2025-07-10
+immortalwrt,immortalwrt,C,8396,2485,63,stars,2025-07-10
+php-src,php,C,39227,7908,45,stars,2025-07-10
+OpenCorePkg,acidanthera,C,13999,2160,32,stars,2025-07-10
+obs-studio,obsproject,C,65475,8538,188,stars,2025-07-10
+libsql,tursodatabase,C,15152,407,145,stars,2025-07-10
+rtl_433,merbanan,C,6694,1416,27,stars,2025-07-10
+redis,redis,C,69949,24117,123,stars,2025-07-10
+SketchyBar,FelixKratz,C,9280,131,97,stars,2025-07-10
+openvpn,OpenVPN,C,12104,3127,59,stars,2025-07-10
+reactos,reactos,C,15976,1886,54,stars,2025-07-10
+unleashed-firmware,DarkFlippers,C,19589,1621,54,stars,2025-07-10
+SDL,libsdl-org,C,12789,2241,93,stars,2025-07-10
+sonic-buildimage,sonic-net,C,845,1584,5,stars,2025-07-10
+MeshCore,ripplebiz,C,718,104,33,stars,2025-07-10
+riscv-gnu-toolchain,riscv-collab,C,4022,1275,20,stars,2025-07-10
+tmux,tmux,C,38066,2220,142,stars,2025-07-10
+tinyusb,hathach,C,5681,1196,17,stars,2025-07-10
+bcc,iovisor,C,21553,3978,35,stars,2025-07-10
+VeraCrypt,veracrypt,C,8012,1048,56,stars,2025-07-10
+ElectronBot,peng-zhihui,C,8761,1985,25,stars,2025-07-10
+zapret,bol-van,C,11884,834,528,stars,2025-07-10
+scrcpy,Genymobile,C,124895,11686,1659,stars,2025-07-10
+esp-idf,espressif,C,15761,7752,373,stars,2025-07-10
+netdata,netdata,C,75026,6087,354,stars,2025-07-10
+rufus,pbatard,C,31995,2765,461,stars,2025-07-10
+timescaledb,timescale,C,19504,953,269,stars,2025-07-10
+nginx,nginx,C,27401,7416,317,stars,2025-07-10
+darktable,darktable-org,C,11070,1203,181,stars,2025-07-10
+openwrt,openwrt,C,22983,11349,288,stars,2025-07-10
+ReZygisk,PerformanC,C,1613,162,316,stars,2025-07-10
+betaflight,betaflight,C,9652,3300,163,stars,2025-07-10
+pgvector,pgvector,C,16466,810,485,stars,2025-07-10
+ExplorerPatcher,valinet,C,27964,1151,450,stars,2025-07-10
+WindTerm,kingToolbox,C,27110,2098,580,stars,2025-07-10
+clay,nicbarker,C,14772,561,516,stars,2025-07-10
+open-gpu-kernel-modules,NVIDIA,C,15971,1431,118,stars,2025-07-10
+libimobiledevice,libimobiledevice,C,7154,1410,106,stars,2025-07-10
+flecs,SanderMertens,C,7259,531,176,stars,2025-07-10
+firebase-ios-sdk,firebase,C++,6267,1635,4,stars,2025-07-10
+protobuf,protocolbuffers,C++,67955,15762,12,stars,2025-07-10
+tensorflow,tensorflow,C++,190680,74745,27,stars,2025-07-10
+yaml-cpp,jbeder,C++,5546,1978,3,stars,2025-07-10
+librealsense,IntelRealSense,C++,8033,4873,4,stars,2025-07-10
+MNN,alibaba,C++,12444,1990,25,stars,2025-07-10
+folly,facebook,C++,29557,5722,3,stars,2025-07-10
+PlotJuggler,facontidavide,C++,5149,688,7,stars,2025-07-10
+json,nlohmann,C++,46391,7054,20,stars,2025-07-10
+arrow,apache,C++,15680,3765,10,stars,2025-07-10
+CodeHelp-DSA-Busted-Series,loveBabbar,C++,3566,2441,2,stars,2025-07-10
+googletest,google,C++,36305,10426,8,stars,2025-07-10
+magic_enum,Neargye,C++,5527,494,4,stars,2025-07-10
+grpc,grpc,C++,43277,10844,14,stars,2025-07-10
+Crow,CrowCpp,C++,4012,458,3,stars,2025-07-10
+f3d,f3d-app,C++,3596,315,7,stars,2025-07-10
+TensorRT,NVIDIA,C++,11829,2219,7,stars,2025-07-10
+libphonenumber,google,C++,17342,2105,5,stars,2025-07-10
+nccl,NVIDIA,C++,3850,959,3,stars,2025-07-10
+asio,chriskohlhoff,C++,5398,1294,2,stars,2025-07-10
+Fast-DDS,eProsima,C++,2484,830,1,star,2025-07-10
+perfetto,google,C++,4327,509,153,stars,2025-07-10
+carbon-lang,carbon-language,C++,33039,1500,85,stars,2025-07-10
+OpenHashTab,namazso,C++,4049,178,38,stars,2025-07-10
+desktop,zen-browser,C++,34186,959,538,stars,2025-07-10
+thorium,Alex313031,C++,6182,200,286,stars,2025-07-10
+awesome-low-level-design,ashishps1,C++,16014,3941,312,stars,2025-07-10
+ESP32Marauder,justcallmekoko,C++,7973,869,72,stars,2025-07-10
+PX4-Autopilot,PX4,C++,9726,14180,54,stars,2025-07-10
+btrace,bytedance,C++,2264,309,39,stars,2025-07-10
+Parabolic,NickvisionApps,C++,3018,138,130,stars,2025-07-10
+shadPS4,shadps4-emu,C++,23015,1462,120,stars,2025-07-10
+nekoray,Mahdi-zarei,C++,1543,92,98,stars,2025-07-10
+JoltPhysics,jrouwe,C++,8118,548,45,stars,2025-07-10
+solidity,ethereum,C++,24594,6120,42,stars,2025-07-10
+3FS,deepseek-ai,C++,9131,915,53,stars,2025-07-10
+colmap,colmap,C++,8943,1686,52,stars,2025-07-10
+ncnn,Tencent,C++,21765,4285,54,stars,2025-07-10
+x64dbg,x64dbg,C++,46469,2565,86,stars,2025-07-10
+llama.cpp,ggml-org,C++,82816,12310,346,stars,2025-07-10
+wiliwili,xfangfang,C++,4209,186,37,stars,2025-07-10
+deskflow,deskflow,C++,18843,4086,905,stars,2025-07-10
+firmware,meshtastic,C++,5056,1322,225,stars,2025-07-10
+pcsx2,PCSX2,C++,13204,1724,180,stars,2025-07-10
+NotepadNext,dail8859,C++,11763,699,1376,stars,2025-07-10
+amnezia-client,amnezia-vpn,C++,7437,483,256,stars,2025-07-10
+notepad-plus-plus,notepad-plus-plus,C++,25098,4874,322,stars,2025-07-10
+Hyprland,hyprwm,C++,26834,1141,970,stars,2025-07-10
+dragonfly,dragonflydb,C++,28480,1055,318,stars,2025-07-10
+TensorRT-LLM,NVIDIA,C++,10973,1570,297,stars,2025-07-10
+YimMenuV2,YimMenu,C++,507,128,214,stars,2025-07-10
+duckstation,stenzek,C++,8471,751,130,stars,2025-07-10
+C-Plus-Plus,TheAlgorithms,C++,32333,7427,471,stars,2025-07-10
+whisper.cpp,ggml-org,C++,41416,4438,807,stars,2025-07-10
+Paddle,PaddlePaddle,C++,23020,5767,183,stars,2025-07-10
+RTranslator,niedev,C++,8796,777,814,stars,2025-07-10
+unitree_sdk2,unitreerobotics,C++,524,153,57,stars,2025-07-10
+isle-portable,isledecomp,C++,803,74,640,stars,2025-07-10
+typesense,typesense,C++,23820,786,662,stars,2025-07-10
+tt-metal,tenstorrent,C++,987,219,81,stars,2025-07-10
+flameshot,flameshot-org,C++,27136,1722,713,stars,2025-07-10
+DeepSpeech,mozilla,C++,26522,4068,128,stars,2025-07-10
+wpf,dotnet,C#,7384,1217,4,stars,2025-07-10
+semantic-kernel,microsoft,C#,25354,4043,21,stars,2025-07-10
+openai-dotnet,openai,C#,2129,287,5,stars,2025-07-10
+roslyn,dotnet,C#,19670,4148,3,stars,2025-07-10
+aspnetcore,dotnet,C#,36859,10385,5,stars,2025-07-10
+wpfui,lepoco,C#,8541,853,7,stars,2025-07-10
+msbuild,dotnet,C#,5410,1385,1,star,2025-07-10
+fluentui-blazor,microsoft,C#,4419,428,2,stars,2025-07-10
+UniTask,Cysharp,C#,9580,921,8,stars,2025-07-10
+PowerShell,PowerShell,C#,47940,7709,16,stars,2025-07-10
+EntityComponentSystemSamples,Unity-Technologies,C#,7722,1671,1,star,2025-07-10
+server,bitwarden,C#,16806,1416,1,star,2025-07-10
+DriverStoreExplorer,lostindark,C#,8287,461,11,stars,2025-07-10
+git-credential-manager,git-ecosystem,C#,7827,2193,8,stars,2025-07-10
+runtime,dotnet,C#,16617,5079,7,stars,2025-07-10
+subtitleedit,SubtitleEdit,C#,10496,1038,35,stars,2025-07-10
+FileConverter,Tichau,C#,10499,718,11,stars,2025-07-10
+perfview,microsoft,C#,4454,744,0,stars,2025-07-10
+maui,dotnet,C#,22783,1856,2,stars,2025-07-10
+powershell,pnp,C#,767,376,0,stars,2025-07-10
+YoutubeDownloader,Tyrrrz,C#,12200,1572,15,stars,2025-07-10
+MudBlazor,MudBlazor,C#,9274,1467,4,stars,2025-07-10
+PowerToys,microsoft,C#,120765,7170,359,stars,2025-07-10
+ILSpy,icsharpcode,C#,23272,3500,73,stars,2025-07-10
+Avalonia,AvaloniaUI,C#,28117,2430,82,stars,2025-07-10
+Bulk-Crap-Uninstaller,Klocman,C#,15225,697,127,stars,2025-07-10
+N_m3u8DL-RE,nilaoda,C#,6095,642,50,stars,2025-07-10
+sourcegit,sourcegit-scm,C#,2585,240,39,stars,2025-07-10
+openiddict-core,openiddict,C#,4854,560,19,stars,2025-07-10
+mcp-unity,CoderGamester,C#,740,92,39,stars,2025-07-10
+elsa-core,elsa-workflows,C#,7170,1358,21,stars,2025-07-10
+BepInEx,BepInEx,C#,5997,687,64,stars,2025-07-10
+DnsServer,TechnitiumSoftware,C#,5754,498,86,stars,2025-07-10
+ExplorerTabUtility,w4po,C#,1212,25,93,stars,2025-07-10
+maui-samples,dotnet,C#,3438,1411,9,stars,2025-07-10
+AssetRipper,AssetRipper,C#,5478,677,49,stars,2025-07-10
+Kavita,Kareadita,C#,8306,456,65,stars,2025-07-10
+eShop,dotnet,C#,8391,2818,48,stars,2025-07-10
+mRemoteNG,mRemoteNG,C#,9902,1474,41,stars,2025-07-10
+v2rayN,2dust,C#,82776,12899,1876,stars,2025-07-10
+Lean,QuantConnect,C#,11756,3579,262,stars,2025-07-10
+UndertaleModTool,UnderminersTeam,C#,1496,277,84,stars,2025-07-10
+better-genshin-impact,babalae,C#,9386,615,695,stars,2025-07-10
+RevokeMsgPatcher,huiyadanli,C#,33413,3703,455,stars,2025-07-10
+Flyby11,builtbybel,C#,2241,146,327,stars,2025-07-10
+DevToys,DevToys-app,C#,29328,1594,360,stars,2025-07-10
+UIEffect,mob-sakai,C#,6509,851,105,stars,2025-07-10
+PEASS-ng,peass-ng,C#,17878,3253,239,stars,2025-07-10
+osu,ppy,C#,16864,2467,205,stars,2025-07-10
+SwarmUI,mcmonkeyprojects,C#,2818,258,185,stars,2025-07-10
+FModel,4sval,C#,2123,325,99,stars,2025-07-10
+lively,rocksdanister,C#,16644,1142,208,stars,2025-07-10
+res-downloader,putyy,Go,8563,1012,159,stars,2025-07-10
+temporal,temporalio,Go,14795,1023,12,stars,2025-07-10
+trivy,aquasecurity,Go,27430,2618,12,stars,2025-07-10
+beta9,beam-cloud,Go,998,76,45,stars,2025-07-10
+tinyauth,steveiliop56,Go,3092,85,226,stars,2025-07-10
+grpc-gateway,grpc-ecosystem,Go,19367,2322,3,stars,2025-07-10
+fzf,junegunn,Go,71881,2546,62,stars,2025-07-10
+optimism,ethereum-optimism,Go,6124,3628,0,stars,2025-07-10
+gitea,go-gitea,Go,49506,5907,40,stars,2025-07-10
+yq,mikefarah,Go,13709,663,10,stars,2025-07-10
+telegraf,influxdata,Go,15741,5657,3,stars,2025-07-10
+cadvisor,google,Go,18118,2379,8,stars,2025-07-10
+karpenter-provider-aws,aws,Go,7356,1133,2,stars,2025-07-10
+opa,open-policy-agent,Go,10418,1439,4,stars,2025-07-10
+asdf,asdf-vm,Go,23854,877,9,stars,2025-07-10
+opentelemetry-collector-contrib,open-telemetry,Go,3694,2875,3,stars,2025-07-10
+external-dns,kubernetes-sigs,Go,8320,2716,3,stars,2025-07-10
+grpc-go,grpc,Go,22000,4525,3,stars,2025-07-10
+nakama,heroiclabs,Go,11244,1245,12,stars,2025-07-10
+opentelemetry-go,open-telemetry,Go,5811,1191,5,stars,2025-07-10
+go-whatsapp-web-multidevice,aldinokemal,Go,1889,483,493,stars,2025-07-10
+wails,wailsapp,Go,29017,1413,157,stars,2025-07-10
+memos,usememos,Go,42631,3036,395,stars,2025-07-10
+aibrix,vllm-project,Go,3900,391,65,stars,2025-07-10
+frp,fatedier,Go,96038,14204,332,stars,2025-07-10
+CloudflareSpeedTest,XIU2,Go,22197,4382,160,stars,2025-07-10
+openbao,openbao,Go,4098,227,55,stars,2025-07-10
+godoxy,yusing,Go,2277,90,84,stars,2025-07-10
+lago,getlago,Go,7889,402,78,stars,2025-07-10
+rule,qichiyuhub,Go,543,537,52,stars,2025-07-10
+ntfy,binwiederhier,Go,24926,979,638,stars,2025-07-10
+argo-rollouts,argoproj,Go,3159,990,89,stars,2025-07-10
+frankenphp,php,Go,9628,351,1645,stars,2025-07-10
+buildkit,moby,Go,9195,1264,398,stars,2025-07-10
+sing-box,SagerNet,Go,24958,2946,847,stars,2025-07-10
+cloudreve,cloudreve,Go,23998,3619,696,stars,2025-07-10
+awesome-go,avelino,Go,147044,12393,2079,stars,2025-07-10
+netbird,netbirdio,Go,17069,789,1813,stars,2025-07-10
+Xray-core,XTLS,Go,29852,4403,900,stars,2025-07-10
+cli,cli,Go,39788,6748,481,stars,2025-07-10
+gitleaks,gitleaks,Go,21427,1674,1283,stars,2025-07-10
+livekit,livekit,Go,13313,1239,451,stars,2025-07-10
+kubernetes,kubernetes,Go,116248,40922,749,stars,2025-07-10
+v2ray-core,v2fly,Go,31437,4844,283,stars,2025-07-10
+github-mcp-server,github,Go,17124,1307,1926,stars,2025-07-10
+bubbletea,charmbracelet,Go,33049,935,1041,stars,2025-07-10
+domain-list-community,v2fly,Go,6134,1043,176,stars,2025-07-10
+strapi,strapi,TypeScript,67586,8708,35,stars,2025-07-10
+repomix,yamadashy,TypeScript,17601,764,35,stars,2025-07-10
+grafana,grafana,TypeScript,68907,12761,23,stars,2025-07-10
+supabase,supabase,TypeScript,85505,9168,84,stars,2025-07-10
+crawlee,apify,TypeScript,18391,872,80,stars,2025-07-10
+SurfSense,MODSetter,TypeScript,5863,430,62,stars,2025-07-10
+medusa,medusajs,TypeScript,29813,3471,20,stars,2025-07-10
+n8n,n8n-io,TypeScript,116781,34809,377,stars,2025-07-10
+cmdk,pacocoursey,TypeScript,11392,334,23,stars,2025-07-10
+dify,langgenius,TypeScript,106422,16117,152,stars,2025-07-10
+cal.com,calcom,TypeScript,37064,9944,30,stars,2025-07-10
+refly,refly-ai,TypeScript,4268,366,23,stars,2025-07-10
+whispering,braden-w,TypeScript,917,77,50,stars,2025-07-10
+infisical,Infisical,TypeScript,18776,1250,533,stars,2025-07-10
+youtube-music,th-ch,TypeScript,25577,1386,2679,stars,2025-07-10
+motia,MotiaDev,TypeScript,3817,311,1005,stars,2025-07-10
+BiliTools,btjawa,TypeScript,2518,172,847,stars,2025-07-10
+directus,directus,TypeScript,31578,4290,534,stars,2025-07-10
+UI-TARS-desktop,bytedance,TypeScript,15113,1347,180,stars,2025-07-10
+AFFiNE,toeverything,TypeScript,52992,3535,851,stars,2025-07-10
+profile-readme-generator,maurodesouza,TypeScript,2225,483,126,stars,2025-07-10
+omni-tools,iib0011,TypeScript,4930,237,964,stars,2025-07-10
+metamask-extension,MetaMask,TypeScript,12657,5232,29,stars,2025-07-10
+tech-interview-handbook,yangshun,TypeScript,127517,15539,262,stars,2025-07-10
+midday,midday-ai,TypeScript,9054,852,1114,stars,2025-07-10
+base-ui,mui,TypeScript,4711,184,1823,stars,2025-07-10
+clash-verge-rev,clash-verge-rev,TypeScript,64861,4912,4037,stars,2025-07-10
+Flowise,FlowiseAI,TypeScript,41296,21174,1572,stars,2025-07-10
+note-gen,codexu,TypeScript,6157,399,1795,stars,2025-07-10
+effect,Effect-TS,TypeScript,10428,355,1136,stars,2025-07-10
+jsoncrack.com,AykutSarac,TypeScript,39354,2634,1677,stars,2025-07-10
+tweakcn,jnsahaj,TypeScript,5429,284,1802,stars,2025-07-10
+magnitude,magnitudedev,TypeScript,3179,126,1284,stars,2025-07-10
+firecrawl,mendableai,TypeScript,42741,4022,3145,stars,2025-07-10
+rustfs,rustfs,Rust,3988,189,650,stars,2025-07-10
+xan,medialab,Rust,2950,51,35,stars,2025-07-10
+pingora,cloudflare,Rust,24572,1429,13,stars,2025-07-10
+Daft,Eventual-Inc,Rust,3083,234,7,stars,2025-07-10
+datafusion,apache,Rust,7431,1539,7,stars,2025-07-10
+dynamo,ai-dynamo,Rust,4445,480,4,stars,2025-07-10
+zed,zed-industries,Rust,62295,4666,54,stars,2025-07-10
+goose,block,Rust,15733,1329,59,stars,2025-07-10
+mistral.rs,EricLBuehler,Rust,5850,429,27,stars,2025-07-10
+openobserve,openobserve,Rust,15749,595,10,stars,2025-07-10
+sui,MystenLabs,Rust,7162,11539,1,star,2025-07-10
+google-cloud-rust,googleapis,Rust,608,64,41,stars,2025-07-10
+relay,facebook,Rust,18682,1857,7,stars,2025-07-10
+stalwart,stalwartlabs,Rust,9038,447,27,stars,2025-07-10
+EasyTier,EasyTier,Rust,5563,478,34,stars,2025-07-10
+just,casey,Rust,26413,563,30,stars,2025-07-10
+baml,BoundaryML,Rust,4558,197,65,stars,2025-07-10
+rustdesk,rustdesk,Rust,92407,13439,79,stars,2025-07-10
+chroma,chroma-core,Rust,20971,1679,35,stars,2025-07-10
+lldap,lldap,Rust,5237,269,24,stars,2025-07-10
+candle,huggingface,Rust,17572,1142,12,stars,2025-07-10
+amazon-q-developer-cli,aws,Rust,1010,178,7,stars,2025-07-10
+turso,tursodatabase,Rust,11917,450,532,stars,2025-07-10
+ZLUDA,vosen,Rust,12536,782,916,stars,2025-07-10
+convex-backend,get-convex,Rust,5649,293,226,stars,2025-07-10
+refact,smallcloudai,Rust,2847,238,531,stars,2025-07-10
+hyperswitch,juspay,Rust,21983,3913,914,stars,2025-07-10
+vaultwarden,dani-garcia,Rust,46559,2198,322,stars,2025-07-10
+influxdb,influxdata,Rust,30303,3626,49,stars,2025-07-10
+tauri,tauri-apps,Rust,94403,2949,283,stars,2025-07-10
+jj,jj-vcs,Rust,17222,576,413,stars,2025-07-10
+rust,rust-lang,Rust,104926,13520,203,stars,2025-07-10
+lance,lancedb,Rust,5018,385,84,stars,2025-07-10
+zellij,zellij-org,Rust,25087,766,265,stars,2025-07-10
+tfhe-rs,zama-ai,Rust,1302,215,40,stars,2025-07-10
+iggy,apache,Rust,2750,161,52,stars,2025-07-10
+reth,paradigmxyz,Rust,4786,1700,22,stars,2025-07-10
+greptimedb,GreptimeTeam,Rust,5368,389,24,stars,2025-07-10
+tensorzero,tensorzero,Rust,8519,537,2711,stars,2025-07-10
+biome,biomejs,Rust,20020,633,823,stars,2025-07-10
+dioxus,DioxusLabs,Rust,29434,1217,1562,stars,2025-07-10
+niri,YaLTeR,Rust,9517,334,1592,stars,2025-07-10
+harper,Automattic,Rust,6703,161,2279,stars,2025-07-10
+Seelen-UI,eythaann,Rust,9764,308,2475,stars,2025-07-10
+oxc,oxc-project,Rust,15596,608,958,stars,2025-07-10
+egui,emilk,Rust,25678,1775,640,stars,2025-07-10
+surrealdb,surrealdb,Rust,29607,1009,284,stars,2025-07-10
+awesome-rust,rust-unofficial,Rust,51407,2964,729,stars,2025-07-10
+firecracker,firecracker-microvm,Rust,28461,1974,361,stars,2025-07-10
+rerun,rerun-io,Rust,8820,487,288,stars,2025-07-10
+slint,slint-ui,Rust,19805,701,494,stars,2025-07-10
+typst,typst,Rust,43876,1170,2141,stars,2025-07-10
+devise,heartcombo,Ruby,24209,5537,9,stars,2025-07-10
+ruby,ruby,Ruby,22740,5434,4,stars,2025-07-10
+homebrew-core,Homebrew,Ruby,14457,12910,1,star,2025-07-10
+chatwoot,chatwoot,Ruby,24405,4842,27,stars,2025-07-10
+maybe,maybe-finance,Ruby,44930,3317,25,stars,2025-07-10
+fastlane,fastlane,Ruby,40338,5901,12,stars,2025-07-10
+canvas-lms,instructure,Ruby,6084,2707,5,stars,2025-07-10
+mastodon,mastodon,Ruby,48560,7210,8,stars,2025-07-10
+dependabot-core,dependabot,Ruby,5122,1143,2,stars,2025-07-10
+gollum,gollum,Ruby,14063,1559,11,stars,2025-07-10
+openstreetmap-website,openstreetmap,Ruby,2435,978,4,stars,2025-07-10
+price-transparency-guide,CMSgov,Ruby,401,118,1,star,2025-07-10
+homebrew-cask,Homebrew,Ruby,21445,11004,2,stars,2025-07-10
+dd-trace-rb,DataDog,Ruby,363,394,0,stars,2025-07-10
+fast-mcp,yjacquin,Ruby,834,58,4,stars,2025-07-10
+forem,forem,Ruby,22371,4130,6,stars,2025-07-10
+discourse,discourse,Ruby,44496,8568,14,stars,2025-07-10
+docuseal,docusealco,Ruby,9350,696,5,stars,2025-07-10
+rails,rails,Ruby,57061,21865,7,stars,2025-07-10
+Dress,Cute-Dress,Ruby,1537,260,2,stars,2025-07-10
+ruby-advisory-db,rubysec,Ruby,1033,222,0,stars,2025-07-10
+flexile,antiwork,Ruby,540,163,5,stars,2025-07-10
+openproject,opf,Ruby,11445,2659,91,stars,2025-07-10
+huginn,huginn,Ruby,46683,4023,94,stars,2025-07-10
+canine,czhu12,Ruby,2057,74,190,stars,2025-07-10
+otwarchive,otwcode,Ruby,1582,576,16,stars,2025-07-10
+devdocs,freeCodeCamp,Ruby,36531,2437,48,stars,2025-07-10
+redmine,redmine,Ruby,5673,2373,14,stars,2025-07-10
+aws-sdk-ruby,aws,Ruby,3619,1223,2,stars,2025-07-10
+gitlabhq,gitlabhq,Ruby,24026,5754,15,stars,2025-07-10
+zammad,zammad,Ruby,4940,838,12,stars,2025-07-10
+brew,Homebrew,Ruby,44169,10330,84,stars,2025-07-10
+rubygems,rubygems,Ruby,3779,1816,2,stars,2025-07-10
+gumroad,antiwork,Ruby,6398,1027,395,stars,2025-07-10
+engineering-blogs,kilimchoi,Ruby,34742,1826,1582,stars,2025-07-10
+ruby-sdk,modelcontextprotocol,Ruby,297,42,112,stars,2025-07-10
+solid_queue,rails,Ruby,2148,182,25,stars,2025-07-10
+linguist,github-linguist,Ruby,12863,4577,96,stars,2025-07-10
+explore,github,Ruby,4447,13301,30,stars,2025-07-10
+jekyll,jekyll,Ruby,50306,10139,189,stars,2025-07-10
+liquid,Shopify,Ruby,11409,1465,49,stars,2025-07-10
+lobsters,lobsters,Ruby,4359,883,37,stars,2025-07-10
+metasploit-framework,rapid7,Ruby,35877,14395,228,stars,2025-07-10
+theodinproject,TheOdinProject,Ruby,4067,2105,51,stars,2025-07-10
+ImageToolbox,T8RIN,Kotlin,8723,379,21,stars,2025-07-10
+Maestro,mobile-dev-inc,Kotlin,8115,413,19,stars,2025-07-10
+Metrolist,mostafaalagamy,Kotlin,1775,92,22,stars,2025-07-10
+aniyomi,aniyomiorg,Kotlin,6093,414,11,stars,2025-07-10
+Meshtastic-Android,meshtastic,Kotlin,952,276,3,stars,2025-07-10
+RetroMusicPlayer,RetroMusicPlayer,Kotlin,4509,820,0,stars,2025-07-10
+kotlin-sdk,modelcontextprotocol,Kotlin,896,126,2,stars,2025-07-10
+NekoBoxForAndroid,MatsuriDayo,Kotlin,14876,1226,18,stars,2025-07-10
+gallery,google-ai-edge,Kotlin,12449,906,45,stars,2025-07-10
+MyExpenses,mtotschnig,Kotlin,980,244,1,star,2025-07-10
+nowinandroid,android,Kotlin,19131,3681,19,stars,2025-07-10
+Exposed,JetBrains,Kotlin,8840,737,2,stars,2025-07-10
+kotlin,JetBrains,Kotlin,50912,5959,6,stars,2025-07-10
+orbot-android,guardianproject,Kotlin,2623,387,6,stars,2025-07-10
+element-x-android,element-hq,Kotlin,1415,244,1,star,2025-07-10
+android,home-assistant,Kotlin,2842,765,23,stars,2025-07-10
+Signal-Android,signalapp,Kotlin,27290,6457,62,stars,2025-07-10
+Magisk,topjohnwu,Kotlin,54243,14251,228,stars,2025-07-10
+quickstart-android,firebase,Kotlin,9098,7381,10,stars,2025-07-10
+APatch,bmax121,Kotlin,5959,495,60,stars,2025-07-10
+florisboard,florisboard,Kotlin,7188,467,39,stars,2025-07-10
+fanqiang,bannedbook,Kotlin,40034,7367,65,stars,2025-07-10
+LiquidBounce,CCBlueX,Kotlin,1820,546,19,stars,2025-07-10
+ktor,ktorio,Kotlin,13758,1158,36,stars,2025-07-10
+BiliRoamingX,BiliRoamingX,Kotlin,3068,219,32,stars,2025-07-10
+InstallWithOptions,zacharee,Kotlin,1715,80,29,stars,2025-07-10
+ByeDPIAndroid,dovecoteescapee,Kotlin,4245,238,34,stars,2025-07-10
+ab-download-manager,amir1376,Kotlin,8402,462,117,stars,2025-07-10
+bilimiao2,10miaomiao,Kotlin,2268,70,47,stars,2025-07-10
+v2rayNG,2dust,Kotlin,42526,6153,1131,stars,2025-07-10
+gkd,gkd-kit,Kotlin,29438,1451,1374,stars,2025-07-10
+quarkdown,iamgio,Kotlin,8416,178,2995,stars,2025-07-10
+breezy-weather,breezy-weather,Kotlin,7493,247,367,stars,2025-07-10
+Shizuku,RikkaApps,Kotlin,15510,986,717,stars,2025-07-10
+android,bitwarden,Kotlin,7528,875,141,stars,2025-07-10
+Android-Native-Root-Detector,reveny,Kotlin,607,75,158,stars,2025-07-10
+Anki-Android,ankidroid,Kotlin,9723,2472,123,stars,2025-07-10
+extensions-source,keiyoushi,Kotlin,2961,713,98,stars,2025-07-10
+KernelSU,tiann,Kotlin,12950,2469,332,stars,2025-07-10
+mihon,mihonapp,Kotlin,14490,656,586,stars,2025-07-10
+ytdlnis,deniscerri,Kotlin,5697,225,211,stars,2025-07-10
+snipe-it,grokability,PHP,12437,3461,13,stars,2025-07-10
+framework,laravel,PHP,33802,11440,11,stars,2025-07-10
+filament,filamentphp,PHP,24769,3577,31,stars,2025-07-10
+freescout,freescout-help-desk,PHP,3604,569,3,stars,2025-07-10
+moukthar,Tomiwa-Ot,PHP,591,146,5,stars,2025-07-10
+pint,laravel,PHP,2949,158,4,stars,2025-07-10
+woocommerce,woocommerce,PHP,9852,10762,5,stars,2025-07-10
+opencart,opencart,PHP,7845,4968,1,star,2025-07-10
+rector,rectorphp,PHP,9783,722,7,stars,2025-07-10
+glpi,glpi-project,PHP,4941,1417,10,stars,2025-07-10
+google-api-php-client,googleapis,PHP,9604,3549,2,stars,2025-07-10
+koel,koel,PHP,16561,2020,7,stars,2025-07-10
+client,openai-php,PHP,5433,619,0,stars,2025-07-10
+drush,drush-ops,PHP,2359,1095,0,stars,2025-07-10
+SecLists,danielmiessler,PHP,64036,24470,22,stars,2025-07-10
+monica,monicahq,PHP,23083,2324,5,stars,2025-07-10
+larastan,larastan,PHP,5985,459,2,stars,2025-07-10
+PrestaShop,PrestaShop,PHP,8640,4943,2,stars,2025-07-10
+openemr,openemr,PHP,3546,2413,4,stars,2025-07-10
+panel,pterodactyl,PHP,7816,2141,4,stars,2025-07-10
+Xboard,cedar2025,PHP,2939,757,41,stars,2025-07-10
+speedtest-tracker,alexjustesen,PHP,3984,140,75,stars,2025-07-10
+wallabag,wallabag,PHP,11719,818,96,stars,2025-07-10
+PHP-CS-Fixer,PHP-CS-Fixer,PHP,13243,1604,30,stars,2025-07-10
+countries-states-cities-database,dr5hn,PHP,8503,2809,47,stars,2025-07-10
+all-in-one,nextcloud,PHP,7344,812,59,stars,2025-07-10
+BookStack,BookStackApp,PHP,16925,2140,51,stars,2025-07-10
+coolify,coollabsio,PHP,43244,2698,212,stars,2025-07-10
+matomo,matomo-org,PHP,20656,2735,28,stars,2025-07-10
+PhpSpreadsheet,PHPOffice,PHP,13701,3584,19,stars,2025-07-10
+panel,pelican-dev,PHP,1423,182,14,stars,2025-07-10
+PocketMine-MP,pmmp,PHP,3402,1596,10,stars,2025-07-10
+2FAuth,Bubka,PHP,2900,200,40,stars,2025-07-10
+magento2,magento,PHP,11848,9394,9,stars,2025-07-10
+PHPMailer,PHPMailer,PHP,21579,9819,26,stars,2025-07-10
+akaunting,akaunting,PHP,8773,2635,19,stars,2025-07-10
+server,nextcloud,PHP,30114,4339,395,stars,2025-07-10
+laravel-crm,krayin,PHP,15704,1107,692,stars,2025-07-10
+github-readme-streak-stats,DenverCoder1,PHP,5766,948,123,stars,2025-07-10
+Wallos,ellite,PHP,5607,240,674,stars,2025-07-10
+bagisto,bagisto,PHP,19729,2550,740,stars,2025-07-10
+roundcubemail,roundcube,PHP,6381,1689,79,stars,2025-07-10
+opensourcepos,opensourcepos,PHP,3781,2308,50,stars,2025-07-10
+swiftui-introspect,siteline,Swift,6161,381,4,stars,2025-07-10
+XcodeGen,yonaskolb,Swift,7514,840,19,stars,2025-07-10
+RxSwift,ReactiveX,Swift,24614,4188,5,stars,2025-07-10
+Kingfisher,onevcat,Swift,23933,2714,8,stars,2025-07-10
+SwiftLint,realm,Swift,19077,2259,5,stars,2025-07-10
+Alamofire,Alamofire,Swift,41980,7620,5,stars,2025-07-10
+swift-package-manager,swiftlang,Swift,9965,1405,3,stars,2025-07-10
+swift-composable-architecture,pointfreeco,Swift,13457,1549,2,stars,2025-07-10
+tuist,tuist,Swift,5140,636,6,stars,2025-07-10
+swift-snapshot-testing,pointfreeco,Swift,3969,629,1,star,2025-07-10
+dd-sdk-ios,DataDog,Swift,242,147,0,stars,2025-07-10
+Charts,ChartsOrg,Swift,27903,6042,2,stars,2025-07-10
+Delta,rileytestut,Swift,5449,410,25,stars,2025-07-10
+Rectangle,rxhanson,Swift,27226,837,8,stars,2025-07-10
+swift-dependencies,pointfreeco,Swift,1876,153,0,stars,2025-07-10
+microsoft-authentication-library-for-objc,AzureAD,Swift,294,146,0,stars,2025-07-10
+IQKeyboardManager,hackiftekhar,Swift,16581,2428,3,stars,2025-07-10
+stripe-ios,stripe,Swift,2418,1006,2,stars,2025-07-10
+facebook-ios-sdk,facebook,Swift,7900,3621,0,stars,2025-07-10
+lottie-ios,airbnb,Swift,26333,3803,0,stars,2025-07-10
+react-native-vision-camera,mrousavy,Swift,8569,1223,4,stars,2025-07-10
+apollo-ios,apollographql,Swift,3957,749,0,stars,2025-07-10
+swift-protobuf,apple,Swift,4699,478,0,stars,2025-07-10
+AeroSpace,nikitabobko,Swift,13789,279,195,stars,2025-07-10
+ios,nextcloud,Swift,2148,933,4,stars,2025-07-10
+AudioKit,AudioKit,Swift,11053,1593,18,stars,2025-07-10
+mlx-swift-examples,ml-explore,Swift,1944,270,29,stars,2025-07-10
+GRDB.swift,groue,Swift,7612,765,25,stars,2025-07-10
+awesome-ios,vsouza,Swift,49338,6912,81,stars,2025-07-10
+firefox-ios,mozilla-mobile,Swift,12607,3062,9,stars,2025-07-10
+OnlySwitch,jacklandrin,Swift,4939,215,53,stars,2025-07-10
+Amethyst,ianyh,Swift,15492,498,30,stars,2025-07-10
+VoiceInk,Beingpax,Swift,1057,129,68,stars,2025-07-10
+open-meteo,open-meteo,Swift,3369,222,29,stars,2025-07-10
+react-native-video,TheWidlarzGroup,Swift,7447,2974,16,stars,2025-07-10
+CopilotForXcode,github,Swift,4358,827,203,stars,2025-07-10
+Feather,khcrysalis,Swift,2474,192,246,stars,2025-07-10
+Ice,jordanbaird,Swift,20401,376,813,stars,2025-07-10
+IceCubesApp,Dimillian,Swift,6392,622,177,stars,2025-07-10
+swift-nio,apple,Swift,8189,687,41,stars,2025-07-10
+Bark,Finb,Swift,6267,507,125,stars,2025-07-10
+AlDente-Battery_Care_and_Monitoring,AppHouseKitchen,Swift,8527,315,128,stars,2025-07-10
+vapor,vapor,Swift,25377,1490,173,stars,2025-07-10
+XcodesApp,XcodesOrg,Swift,7750,336,175,stars,2025-07-10
+swift-build,swiftlang,Swift,2096,105,56,stars,2025-07-10
+proxypin,wanghongenpin,Dart,9531,816,50,stars,2025-07-10
+flutter,flutter,Dart,171316,28830,19,stars,2025-07-10
+fl_chart,imaNNeo,Dart,7197,1894,1,star,2025-07-10
+gopeed,GopeedLab,Dart,19506,1343,23,stars,2025-07-10
+karing,KaringX,Dart,5789,496,8,stars,2025-07-10
+flutter-complete-guide-course-resources,academind,Dart,2411,979,2,stars,2025-07-10
+GooglePhotosTakeoutHelper,TheLastGimbus,Dart,4830,257,3,stars,2025-07-10
+flutter_rust_bridge,fzyzcjy,Dart,4731,340,4,stars,2025-07-10
+flutter_inappwebview,pichillilorenzo,Dart,3561,1875,1,star,2025-07-10
+JHenTai,jiangtian616,Dart,3940,108,7,stars,2025-07-10
+sdk,dart-lang,Dart,10682,1665,3,stars,2025-07-10
+flutter_blue_plus,chipweinberger,Dart,920,544,1,star,2025-07-10
+FlClash,chen08209,Dart,18920,1129,36,stars,2025-07-10
+getx,jonataslaw,Dart,10926,1677,5,stars,2025-07-10
+hiddify-app,hiddify,Dart,22069,1946,26,stars,2025-07-10
+dart_frog,VeryGoodOpenSource,Dart,1984,159,1,star,2025-07-10
+appsflyer-flutter-plugin,AppsFlyerSDK,Dart,167,134,0,stars,2025-07-10
+kobi,niuhuan,Dart,1234,51,2,stars,2025-07-10
+ente,ente-io,Dart,20434,1162,467,stars,2025-07-10
+Obtainium,ImranR98,Dart,11676,278,121,stars,2025-07-10
+pilipala,guozhigq,Dart,11497,607,304,stars,2025-07-10
+Harmony-Music,anandnet,Dart,2163,179,54,stars,2025-07-10
+Kazumi,Predidit,Dart,12603,331,604,stars,2025-07-10
+BloomeeTunes,HemantKArya,Dart,821,71,71,stars,2025-07-10
+AppFlowy,AppFlowy-IO,Dart,64341,4424,175,stars,2025-07-10
+localsend,localsend,Dart,64210,3425,427,stars,2025-07-10
+finamp,jmshrv,Dart,2827,175,24,stars,2025-07-10
+bloc,felangel,Dart,12192,3423,12,stars,2025-07-10
+PicaComic,wgh136,Dart,8294,994,29,stars,2025-07-10
+cake_wallet,cake-tech,Dart,1085,245,20,stars,2025-07-10
+Openlib,dstark5,Dart,1566,72,14,stars,2025-07-10
+Cashew,jameskokoska,Dart,3115,461,51,stars,2025-07-10
+revanced-manager,ReVanced,Dart,22080,862,675,stars,2025-07-10
+awesome-flutter,Solido,Dart,56417,6765,403,stars,2025-07-10
+flutterfire,firebase,Dart,8967,4061,58,stars,2025-07-10
+fluffychat,krille-chan,Dart,1676,312,97,stars,2025-07-10
+aves,deckerst,Dart,3663,129,179,stars,2025-07-10
+refreezer,DJDoubleD,Dart,735,22,92,stars,2025-07-10
+bazzite,ublue-os,Shell,5803,444,23,stars,2025-07-10
+ohmyzsh,ohmyzsh,Shell,179816,26138,54,stars,2025-07-10
+kubestarter,LondheShubham153,Shell,451,2574,6,stars,2025-07-10
+bats-core,bats-core,Shell,5388,434,8,stars,2025-07-10
+pure-bash-bible,dylanaraps,Shell,39548,3529,21,stars,2025-07-10
+nvm,nvm-sh,Shell,85722,9011,35,stars,2025-07-10
+pre-commit-terraform,antonbabenko,Shell,3484,567,2,stars,2025-07-10
+docker-elk,deviantony,Shell,17950,6938,5,stars,2025-07-10
+docker-otel-lgtm,grafana,Shell,1185,122,13,stars,2025-07-10
+v2ray,233boy,Shell,26435,16525,47,stars,2025-07-10
+go-cursor-help,yuaotian,Shell,23452,2855,35,stars,2025-07-10
+public-image-mirror,DaoCloud,Shell,10702,1248,15,stars,2025-07-10
+Qwen3,QwenLM,Shell,22480,1514,34,stars,2025-07-10
+super-linter,super-linter,Shell,9945,1013,1,star,2025-07-10
+macos,dockur,Shell,15621,639,3612,stars,2025-07-10
+Docker-OSX,sickcodes,Shell,50902,2834,138,stars,2025-07-10
+awesome-jellyfin,awesome-jellyfin,Shell,3760,102,76,stars,2025-07-10
+certified-kubernetes-administrator-course,kodekloudhub,Shell,9146,8612,47,stars,2025-07-10
+clash-for-linux-install,nelvko,Shell,2610,390,141,stars,2025-07-10
+windows,dockur,Shell,36373,2687,273,stars,2025-07-10
+docker-minecraft-server,itzg,Shell,11561,1712,59,stars,2025-07-10
+WinterBreak,KindleModding,Shell,1107,23,25,stars,2025-07-10
+leetcode-master,youngyangyang04,Shell,57148,12069,154,stars,2025-07-10
+omakub,basecamp,Shell,6750,656,110,stars,2025-07-10
+huly-selfhost,hcengineering,Shell,2533,250,189,stars,2025-07-10
+awesome-hacker-search-engines,edoardottt,Shell,8923,845,153,stars,2025-07-10
+FFmpeg-Builds,BtbN,Shell,9062,1225,196,stars,2025-07-10
+VPN,aditya-shri,Shell,1132,1303,44,stars,2025-07-10
+docker,nextcloud,Shell,6640,1891,91,stars,2025-07-10
+quickemu,quickemu-project,Shell,12226,540,238,stars,2025-07-10
+spark,apache,Scala,41430,28679,9,stars,2025-07-10
+deequ,awslabs,Scala,3458,557,4,stars,2025-07-10
+rocket-chip,chipsalliance,Scala,3489,1173,1,star,2025-07-10
+incubator-gluten,apache,Scala,1384,556,0,stars,2025-07-10
+chisel,chipsalliance,Scala,4334,632,2,stars,2025-07-10
+delta-sharing,delta-io,Scala,851,199,2,stars,2025-07-10
+bfg-repo-cleaner,rtyley,Scala,11626,566,3,stars,2025-07-10
+chipyard,ucb-bar,Scala,1893,727,1,star,2025-07-10
+delta,delta-io,Scala,8141,1867,3,stars,2025-07-10
+CMAK,yahoo,Scala,11915,2505,0,stars,2025-07-10
+gitbucket,gitbucket,Scala,9268,1253,0,stars,2025-07-10
+joern,joernio,Scala,2487,332,2,stars,2025-07-10
+playframework,playframework,Scala,12578,4094,0,stars,2025-07-10
+spark-rapids,NVIDIA,Scala,909,255,0,stars,2025-07-10
+kyuubi,apache,Scala,2216,948,3,stars,2025-07-10
+gatling,gatling,Scala,6718,1214,0,stars,2025-07-10
+zio,zio,Scala,4229,1359,0,stars,2025-07-10
+Spark-The-Definitive-Guide,databricks,Scala,2993,2849,0,stars,2025-07-10
+XiangShan,OpenXiangShan,Scala,6480,778,1,star,2025-07-10
+the-algorithm,twitter,Scala,63395,12153,8,stars,2025-07-10
+SynapseML,microsoft,Scala,5147,848,1,star,2025-07-10
+TheHive,TheHive-Project,Scala,3728,659,0,stars,2025-07-10
+spark-nlp,JohnSnowLabs,Scala,4009,726,2,stars,2025-07-10
+lila,lichess-org,Scala,16840,2431,33,stars,2025-07-10
+azure-maven-archetypes,microsoft,Scala,23,34,0,stars,2025-07-10
+Vale,ValeLang,Scala,1900,53,0,stars,2025-07-10
+stream-reactor,lensesio,Scala,1032,375,1,star,2025-07-10
+sbt,sbt,Scala,4851,950,1,star,2025-07-10
+Cortex,TheHive-Project,Scala,1442,242,1,star,2025-07-10
+scala,scala,Scala,14389,3114,4,stars,2025-07-10
+splice,hyperledger-labs,Scala,33,23,7,stars,2025-07-10
+cats-effect,typelevel,Scala,2138,557,9,stars,2025-07-10
+akka,akka,Scala,13175,3586,21,stars,2025-07-10
+scala3,scala,Scala,6062,1107,39,stars,2025-07-10
+gemmini,ucb-bar,Scala,990,203,32,stars,2025-07-10
+daml,digital-asset,Scala,817,211,4,stars,2025-07-10
+SpinalHDL,SpinalHDL,Scala,1819,353,22,stars,2025-07-10
+seurat,satijalab,R,2463,949,3,stars,2025-07-10
+dplyr,tidyverse,R,4896,2130,2,stars,2025-07-10
+sf,r-spatial,R,1380,301,1,star,2025-07-10
+infercnv,broadinstitute,R,625,177,1,star,2025-07-10
+CellChat,sqjin,R,709,159,0,stars,2025-07-10
+dada2,benjjneb,R,509,151,1,star,2025-07-10
+phyloseq,joey711,R,616,190,0,stars,2025-07-10
+renv,rstudio,R,1077,156,0,stars,2025-07-10
+TwoSampleMR,MRCIEU,R,497,184,0,stars,2025-07-10
+seurat-wrappers,satijalab,R,340,137,0,stars,2025-07-10
+seurat-disk,mojaveazure,R,165,52,0,stars,2025-07-10
+clusterProfiler,YuLab-SMU,R,1098,262,0,stars,2025-07-10
+signac,stuart-lab,R,377,98,0,stars,2025-07-10
+ellmer,tidyverse,R,482,85,1,star,2025-07-10
+ggpubr,kassambara,R,1188,176,0,stars,2025-07-10
+ggplot2,tidyverse,R,6722,2091,2,stars,2025-07-10
+reticulate,rstudio,R,1708,345,1,star,2025-07-10
+harmony,immunogenomics,R,580,103,0,stars,2025-07-10
+DoubletFinder,chris-mcginnis-ucsf,R,480,119,0,stars,2025-07-10
+awesome-R,qinwf,R,6228,1504,26,stars,2025-07-10
+shiny,rstudio,R,5495,1881,3,stars,2025-07-10
+data.table,Rdatatable,R,3752,1008,2,stars,2025-07-10
+swirl_courses,swirldev,R,4436,7248,4,stars,2025-07-10
+awesome-network-analysis,briatte,R,3774,619,12,stars,2025-07-10
+ProgrammingAssignment2,rdpeng,R,857,144004,0,stars,2025-07-10
+monocle3,cole-trapnell-lab,R,391,107,1,star,2025-07-10
+r4ds,hadley,R,4824,4310,26,stars,2025-07-10
+devtools,r-lib,R,2460,763,7,stars,2025-07-10
+FlameGraph,brendangregg,Perl,18457,2036,7,stars,2025-07-10
+packetfence,inverse-inc,Perl,1506,304,0,stars,2025-07-10
+Znuny,znuny,Perl,482,101,1,star,2025-07-10
+ora2pg,darold,Perl,1114,359,0,stars,2025-07-10
+glpi-agent,glpi-project,Perl,308,81,1,star,2025-07-10
+BRAKER,Gaius-Augustus,Perl,415,90,1,star,2025-07-10
+a-shell,holzschu,Perl,3092,133,1,star,2025-07-10
+lcov,linux-test-project,Perl,1010,248,0,stars,2025-07-10
+openkore,OpenKore,Perl,1376,1151,0,stars,2025-07-10
+prokka,tseemann,Perl,912,234,0,stars,2025-07-10
+ocpi,ocpi,Perl,503,216,1,star,2025-07-10
+trinityrnaseq,trinityrnaseq,Perl,863,319,1,star,2025-07-10
+cloc,AlDanial,Perl,21275,1068,96,stars,2025-07-10
+.dotfiles,ThePrimeagen,Perl,3331,315,9,stars,2025-07-10
+aws-cdk-guide,awsdocs,Perl,351,222,0,stars,2025-07-10
+centreon-plugins,centreon,Perl,322,288,1,star,2025-07-10
+ACLPUB,acl-org,Perl,234,204,1,star,2025-07-10
+zap2xml,jef,Perl,73,24,1,star,2025-07-10
+MySQLTuner-perl,major,Perl,9246,1296,6,stars,2025-07-10
+TrimGalore,FelixKrueger,Perl,513,154,1,star,2025-07-10
+perl5,Perl,Perl,2135,584,11,stars,2025-07-10
+openfortivpn,adrienverge,Perl,2977,340,8,stars,2025-07-10
+fusioninventory-agent,fusioninventory,Perl,261,127,0,stars,2025-07-10
+dejavu-fonts,dejavu-fonts,Perl,813,107,6,stars,2025-07-10
+xmltv,Catch-up-TV-and-More,Perl,30,12,0,stars,2025-07-10
+diff-so-fancy,so-fancy,Perl,17697,335,60,stars,2025-07-10
+pgbadger,darold,Perl,3764,360,27,stars,2025-07-10
+ddclient,ddclient,Perl,2940,363,60,stars,2025-07-10
+ModSecurity-nginx,owasp-modsecurity,Perl,1709,295,23,stars,2025-07-10
+zm-build,Zimbra,Perl,208,91,5,stars,2025-07-10
+elixir,elixir-lang,Elixir,25451,3440,5,stars,2025-07-10
+electric,electric-sql,Elixir,8703,240,6,stars,2025-07-10
+analytics,plausible,Elixir,22861,1241,14,stars,2025-07-10
+Claper,ClaperCo,Elixir,583,84,0,stars,2025-07-10
+phoenix_live_view,phoenixframework,Elixir,6535,990,2,stars,2025-07-10
+blockscout,blockscout,Elixir,4050,2752,1,star,2025-07-10
+realtime,supabase,Elixir,7182,371,1,star,2025-07-10
+00,technomancy-dev,Elixir,1173,63,1,star,2025-07-10
+sequin,sequinstream,Elixir,1432,68,2,stars,2025-07-10
+langchain,brainlid,Elixir,928,129,0,stars,2025-07-10
+ecto,elixir-ecto,Elixir,6334,1457,0,stars,2025-07-10
+firezone,firezone,Elixir,7381,325,2,stars,2025-07-10
+live_svelte,woutdp,Elixir,1522,64,1,star,2025-07-10
+phoenix,phoenixframework,Elixir,22248,2984,1,star,2025-07-10
+livebook,livebook-dev,Elixir,5403,465,2,stars,2025-07-10
+teslamate,teslamate-org,Elixir,6851,831,4,stars,2025-07-10
+anoma,anoma,Elixir,31025,3907,1310,stars,2025-07-10
+ash,ash-project,Elixir,1975,291,22,stars,2025-07-10
+pinchflat,kieraneglin,Elixir,3311,77,32,stars,2025-07-10
+timex,bitwalker,Elixir,1787,394,2,stars,2025-07-10
+paginator,duffelhq,Elixir,798,98,0,stars,2025-07-10
+algora,algora-io,Elixir,479,29,23,stars,2025-07-10
+supavisor,supabase,Elixir,1965,74,9,stars,2025-07-10
+opentelemetry-erlang-contrib,open-telemetry,Elixir,183,143,1,star,2025-07-10
+hermes-mcp,cloudwalk,Elixir,231,15,60,stars,2025-07-10
+blockscout,OffchainLabs,Elixir,47,24,1,star,2025-07-10
+ex_crypto,ntrepid8,Elixir,156,51,0,stars,2025-07-10
+shellcheck,koalaman,Haskell,37691,1832,15,stars,2025-07-10
+hadolint,hadolint,Haskell,11330,457,4,stars,2025-07-10
+postgrest,PostgREST,Haskell,25492,1104,9,stars,2025-07-10
+kmonad,kmonad,Haskell,4568,329,3,stars,2025-07-10
+pandoc,jgm,Haskell,38283,3572,19,stars,2025-07-10
+xdg-ninja,b3nj5m1n,Haskell,2882,162,2,stars,2025-07-10
+cardano-node,IntersectMBO,Haskell,3134,732,1,star,2025-07-10
+cabal,haskell,Haskell,1675,714,2,stars,2025-07-10
+nix-output-monitor,maralorn,Haskell,1167,32,11,stars,2025-07-10
+MicroHs,augustss,Haskell,538,45,16,stars,2025-07-10
+hledger,simonmichael,Haskell,3319,331,8,stars,2025-07-10
+Tidal,tidalcycles,Haskell,2731,274,161,stars,2025-07-10
+unison,unisonweb,Haskell,6100,277,52,stars,2025-07-10
+agda,agda,Haskell,2669,378,22,stars,2025-07-10
+hydra,cardano-scaling,Haskell,309,92,2,stars,2025-07-10
+zsh-git-prompt,olivierverdier,Haskell,1742,398,2,stars,2025-07-10
+haskell-language-server,haskell,Haskell,2815,398,15,stars,2025-07-10
+simplexmq,simplex-chat,Haskell,633,79,16,stars,2025-07-10
+stack,commercialhaskell,Haskell,4018,846,9,stars,2025-07-10
+General,JuliaRegistries,Julia,642,495,0,stars,2025-07-10
+Mooncake.jl,chalk-lab,Julia,267,18,4,stars,2025-07-10
+julia,JuliaLang,Julia,47321,5604,7,stars,2025-07-10
+Makie.jl,MakieOrg,Julia,2574,349,1,star,2025-07-10
